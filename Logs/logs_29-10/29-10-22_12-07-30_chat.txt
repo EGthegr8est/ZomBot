@@ -1,0 +1,180 @@
+[29-10-22 12:07:30.778][info] Start chat server initialization....
+[29-10-22 12:07:30.781][info] General chat has id = 0.
+[29-10-22 12:07:30.781][info] Say chat has id = 1.
+[29-10-22 12:07:30.781][info] Shout chat has id = 2.
+[29-10-22 12:07:30.781][info] Radio chat has id = 3.
+[29-10-22 12:07:30.781][info] Admin chat has id = 4.
+[29-10-22 12:07:30.782][info] Server chat has id = 5.
+[29-10-22 12:07:30.782][info] Chat server successfully initialized.
+[29-10-22 12:09:57.696][info] Player with id = '0' tries to connect.
+[29-10-22 12:09:57.696][info] Adding player '0' to chat server.
+[29-10-22 12:09:57.697][info] Player joined to default chats.
+[29-10-22 12:09:57.697][info] Player BigGurt(0) joined to chat server successfully.
+[29-10-22 12:17:14.616][info] Player with id = '4' tries to connect.
+[29-10-22 12:17:14.616][info] Adding player '4' to chat server.
+[29-10-22 12:17:14.616][info] Player joined to default chats.
+[29-10-22 12:17:14.616][info] Player SciFurr(4) joined to chat server successfully.
+[29-10-22 12:20:03.247][info] Player 4 disconnecting....
+[29-10-22 12:20:03.248][info] Disconnecting player 4 finished.
+[29-10-22 12:20:03.248][info] Player 4 disconnecting....
+[29-10-22 12:20:03.248][info] Disconnecting player 4 finished.
+[29-10-22 12:22:11.162][info] Player with id = '4' tries to connect.
+[29-10-22 12:22:11.162][info] Adding player '4' to chat server.
+[29-10-22 12:22:11.162][info] Player joined to default chats.
+[29-10-22 12:22:11.163][info] Player SciFurr(4) joined to chat server successfully.
+[29-10-22 12:22:27.094][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='heya, do you see my chat?'}.
+[29-10-22 12:22:27.094][info] Message ChatMessage{chat=Local, author='SciFurr', text='heya, do you see my chat?'} sent to chat (id = 1) members.
+[29-10-22 12:27:12.264][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='nah'}.
+[29-10-22 12:27:12.264][info] Message ChatMessage{chat=Local, author='SciFurr', text='nah'} sent to chat (id = 1) members.
+[29-10-22 12:27:19.403][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='damn there's so much stuff on this bed lmao'}.
+[29-10-22 12:27:19.403][info] Message ChatMessage{chat=Local, author='SciFurr', text='damn there's so much stuff on this bed lmao'} sent to chat (id = 1) members.
+[29-10-22 12:28:09.316][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='oh there you are'}.
+[29-10-22 12:28:09.316][info] Message ChatMessage{chat=Local, author='SciFurr', text='oh there you are'} sent to chat (id = 1) members.
+[29-10-22 12:29:11.625][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='got a can opener'}.
+[29-10-22 12:29:11.625][info] Message ChatMessage{chat=Local, author='SciFurr', text='got a can opener'} sent to chat (id = 1) members.
+[29-10-22 12:32:29.102][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='I like to collect pots'}.
+[29-10-22 12:32:29.102][info] Message ChatMessage{chat=Local, author='SciFurr', text='I like to collect pots'} sent to chat (id = 1) members.
+[29-10-22 12:35:20.597][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='gettin bling'}.
+[29-10-22 12:35:20.597][info] Message ChatMessage{chat=Local, author='SciFurr', text='gettin bling'} sent to chat (id = 1) members.
+[29-10-22 12:36:44.702][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='a flashlight, hammer, and two saws'}.
+[29-10-22 12:36:44.702][info] Message ChatMessage{chat=Local, author='SciFurr', text='a flashlight, hammer, and two saws'} sent to chat (id = 1) members.
+[29-10-22 12:39:28.753][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='are there boats?'}.
+[29-10-22 12:39:28.753][info] Message ChatMessage{chat=Local, author='SciFurr', text='are there boats?'} sent to chat (id = 1) members.
+[29-10-22 12:39:35.081][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='darn lmao'}.
+[29-10-22 12:39:35.081][info] Message ChatMessage{chat=Local, author='SciFurr', text='darn lmao'} sent to chat (id = 1) members.
+[29-10-22 12:40:51.048][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='lmfao'}.
+[29-10-22 12:40:51.048][info] Message ChatMessage{chat=Local, author='SciFurr', text='lmfao'} sent to chat (id = 1) members.
+[29-10-22 12:41:05.917][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='sweet, a map and digital watch'}.
+[29-10-22 12:41:05.917][info] Message ChatMessage{chat=Local, author='SciFurr', text='sweet, a map and digital watch'} sent to chat (id = 1) members.
+[29-10-22 12:41:21.111][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='I'll leave you to it'}.
+[29-10-22 12:41:21.111][info] Message ChatMessage{chat=Local, author='SciFurr', text='I'll leave you to it'} sent to chat (id = 1) members.
+[29-10-22 12:43:14.510][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='oh shit they got boxesss'}.
+[29-10-22 12:43:14.510][info] Message ChatMessage{chat=Local, author='SciFurr', text='oh shit they got boxesss'} sent to chat (id = 1) members.
+[29-10-22 12:44:09.563][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='Newton Geiger'}.
+[29-10-22 12:44:09.563][info] Message ChatMessage{chat=Local, author='SciFurr', text='Newton Geiger'} sent to chat (id = 1) members.
+[29-10-22 12:44:31.800][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='lmfao'}.
+[29-10-22 12:44:31.801][info] Message ChatMessage{chat=Local, author='SciFurr', text='lmfao'} sent to chat (id = 1) members.
+[29-10-22 12:44:37.001][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='wait mine or the character?'}.
+[29-10-22 12:44:37.001][info] Message ChatMessage{chat=Local, author='SciFurr', text='wait mine or the character?'} sent to chat (id = 1) members.
+[29-10-22 12:48:10.755][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='I could take some'}.
+[29-10-22 12:48:10.755][info] Message ChatMessage{chat=Local, author='SciFurr', text='I could take some'} sent to chat (id = 1) members.
+[29-10-22 12:49:23.488][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='wait was it this one or the next one?'}.
+[29-10-22 12:49:23.488][info] Message ChatMessage{chat=Local, author='SciFurr', text='wait was it this one or the next one?'} sent to chat (id = 1) members.
+[29-10-22 12:51:57.305][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='we gots us a tire pump'}.
+[29-10-22 12:51:57.305][info] Message ChatMessage{chat=Local, author='SciFurr', text='we gots us a tire pump'} sent to chat (id = 1) members.
+[29-10-22 12:52:26.050][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='I got a battery'}.
+[29-10-22 12:52:26.050][info] Message ChatMessage{chat=Local, author='SciFurr', text='I got a battery'} sent to chat (id = 1) members.
+[29-10-22 12:52:59.037][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='oh okay'}.
+[29-10-22 12:52:59.037][info] Message ChatMessage{chat=Local, author='SciFurr', text='oh okay'} sent to chat (id = 1) members.
+[29-10-22 12:53:15.064][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='where should I put materials like paperclips and twine?'}.
+[29-10-22 12:53:15.064][info] Message ChatMessage{chat=Local, author='SciFurr', text='where should I put materials like paperclips and twine?'} sent to chat (id = 1) members.
+[29-10-22 12:54:19.981][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='one of the zeds had it'}.
+[29-10-22 12:54:19.981][info] Message ChatMessage{chat=Local, author='SciFurr', text='one of the zeds had it'} sent to chat (id = 1) members.
+[29-10-22 12:54:40.137][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='I can go check out the other house'}.
+[29-10-22 12:54:40.137][info] Message ChatMessage{chat=Local, author='SciFurr', text='I can go check out the other house'} sent to chat (id = 1) members.
+[29-10-22 12:55:28.344][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='I'm just imagining brodyquest playing lmao'}.
+[29-10-22 12:55:28.344][info] Message ChatMessage{chat=Local, author='SciFurr', text='I'm just imagining brodyquest playing lmao'} sent to chat (id = 1) members.
+[29-10-22 12:55:44.517][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='you ever just find yourself thinking "why does my brain work this way"?'}.
+[29-10-22 12:55:44.517][info] Message ChatMessage{chat=Local, author='SciFurr', text='you ever just find yourself thinking "why does my brain work this way"?'} sent to chat (id = 1) members.
+[29-10-22 12:56:51.748][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='lets wait'}.
+[29-10-22 12:56:51.748][info] Message ChatMessage{chat=Local, author='SciFurr', text='lets wait'} sent to chat (id = 1) members.
+[29-10-22 12:56:53.940][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='let them break it first'}.
+[29-10-22 12:56:53.940][info] Message ChatMessage{chat=Local, author='SciFurr', text='let them break it first'} sent to chat (id = 1) members.
+[29-10-22 12:56:54.276][info] Got message:ChatMessage{chat=Local, author='BigGurt', text='HEY YOU!'}.
+[29-10-22 12:56:54.276][info] Message ChatMessage{chat=Local, author='BigGurt', text='HEY YOU!'} sent to chat (id = 2) members.
+[29-10-22 12:56:57.803][info] Got message:ChatMessage{chat=Local, author='BigGurt', text='hey'}.
+[29-10-22 12:56:57.803][info] Message ChatMessage{chat=Local, author='BigGurt', text='hey'} sent to chat (id = 2) members.
+[29-10-22 12:59:04.061][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='oh shiiit, another flash'}.
+[29-10-22 12:59:04.061][info] Message ChatMessage{chat=Local, author='SciFurr', text='oh shiiit, another flash'} sent to chat (id = 1) members.
+[29-10-22 12:59:21.975][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='holy fuck that actually jumpscared me'}.
+[29-10-22 12:59:21.975][info] Message ChatMessage{chat=Local, author='SciFurr', text='holy fuck that actually jumpscared me'} sent to chat (id = 1) members.
+[29-10-22 12:59:38.050][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='gonna grab that keytar'}.
+[29-10-22 12:59:38.050][info] Message ChatMessage{chat=Local, author='SciFurr', text='gonna grab that keytar'} sent to chat (id = 1) members.
+[29-10-22 12:59:53.973][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='aw, we cant play em?'}.
+[29-10-22 12:59:53.973][info] Message ChatMessage{chat=Local, author='SciFurr', text='aw, we cant play em?'} sent to chat (id = 1) members.
+[29-10-22 13:00:08.688][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='damn, thought it might be a way to counteract boredom lmao'}.
+[29-10-22 13:00:08.688][info] Message ChatMessage{chat=Local, author='SciFurr', text='damn, thought it might be a way to counteract boredom lmao'} sent to chat (id = 1) members.
+[29-10-22 13:00:35.192][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='you sure?'}.
+[29-10-22 13:00:35.192][info] Message ChatMessage{chat=Local, author='SciFurr', text='you sure?'} sent to chat (id = 1) members.
+[29-10-22 13:02:04.888][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='got some bling for you ;)'}.
+[29-10-22 13:02:04.888][info] Message ChatMessage{chat=Local, author='SciFurr', text='got some bling for you ;)'} sent to chat (id = 1) members.
+[29-10-22 13:02:22.279][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='just coz it's the apocalypse doesn't mean we can''}.
+[29-10-22 13:02:22.279][info] Message ChatMessage{chat=Local, author='SciFurr', text='just coz it's the apocalypse doesn't mean we can''} sent to chat (id = 1) members.
+[29-10-22 13:02:25.650][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='can't look fab'}.
+[29-10-22 13:02:25.650][info] Message ChatMessage{chat=Local, author='SciFurr', text='can't look fab'} sent to chat (id = 1) members.
+[29-10-22 13:02:59.081][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='is sink water unsafe?'}.
+[29-10-22 13:02:59.081][info] Message ChatMessage{chat=Local, author='SciFurr', text='is sink water unsafe?'} sent to chat (id = 1) members.
+[29-10-22 13:03:42.767][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='I can relate lmao'}.
+[29-10-22 13:03:42.767][info] Message ChatMessage{chat=Local, author='SciFurr', text='I can relate lmao'} sent to chat (id = 1) members.
+[29-10-22 13:03:57.133][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='yap'}.
+[29-10-22 13:03:57.133][info] Message ChatMessage{chat=Local, author='SciFurr', text='yap'} sent to chat (id = 1) members.
+[29-10-22 13:05:36.223][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='opened up some pineapple'}.
+[29-10-22 13:05:36.223][info] Message ChatMessage{chat=Local, author='SciFurr', text='opened up some pineapple'} sent to chat (id = 1) members.
+[29-10-22 13:06:07.771][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='lmao damn'}.
+[29-10-22 13:06:07.771][info] Message ChatMessage{chat=Local, author='SciFurr', text='lmao damn'} sent to chat (id = 1) members.
+[29-10-22 13:06:12.469][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='that does sound pretty good tho'}.
+[29-10-22 13:06:12.469][info] Message ChatMessage{chat=Local, author='SciFurr', text='that does sound pretty good tho'} sent to chat (id = 1) members.
+[29-10-22 13:06:39.187][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='lately been snacking on crackers with cheese spread and crab rangoon dip'}.
+[29-10-22 13:06:39.187][info] Message ChatMessage{chat=Local, author='SciFurr', text='lately been snacking on crackers with cheese spread and crab rangoon dip'} sent to chat (id = 1) members.
+[29-10-22 13:07:52.626][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='can we drink out of sinks?'}.
+[29-10-22 13:07:52.626][info] Message ChatMessage{chat=Local, author='SciFurr', text='can we drink out of sinks?'} sent to chat (id = 1) members.
+[29-10-22 13:09:00.131][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='oh lawdie'}.
+[29-10-22 13:09:00.131][info] Message ChatMessage{chat=Local, author='SciFurr', text='oh lawdie'} sent to chat (id = 1) members.
+[29-10-22 13:09:33.465][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='does zomboid have lore?'}.
+[29-10-22 13:09:33.465][info] Message ChatMessage{chat=Local, author='SciFurr', text='does zomboid have lore?'} sent to chat (id = 1) members.
+[29-10-22 13:10:32.979][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='"the world ending and whatnot" lmaao'}.
+[29-10-22 13:10:32.979][info] Message ChatMessage{chat=Local, author='SciFurr', text='"the world ending and whatnot" lmaao'} sent to chat (id = 1) members.
+[29-10-22 13:10:41.324][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='that sounds like a monty python film title'}.
+[29-10-22 13:10:41.324][info] Message ChatMessage{chat=Local, author='SciFurr', text='that sounds like a monty python film title'} sent to chat (id = 1) members.
+[29-10-22 13:11:17.431][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='shit I'm hungry again'}.
+[29-10-22 13:11:17.431][info] Message ChatMessage{chat=Local, author='SciFurr', text='shit I'm hungry again'} sent to chat (id = 1) members.
+[29-10-22 13:12:36.472][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='daaaamn'}.
+[29-10-22 13:12:36.472][info] Message ChatMessage{chat=Local, author='SciFurr', text='daaaamn'} sent to chat (id = 1) members.
+[29-10-22 13:13:21.169][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='huh, suppose that's a good use for it'}.
+[29-10-22 13:13:21.169][info] Message ChatMessage{chat=Local, author='SciFurr', text='huh, suppose that's a good use for it'} sent to chat (id = 1) members.
+[29-10-22 13:21:57.794][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='oh shoot, is it foggy?'}.
+[29-10-22 13:21:57.794][info] Message ChatMessage{chat=Local, author='SciFurr', text='oh shoot, is it foggy?'} sent to chat (id = 1) members.
+[29-10-22 13:23:36.180][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='ate some tuna'}.
+[29-10-22 13:23:36.180][info] Message ChatMessage{chat=Local, author='SciFurr', text='ate some tuna'} sent to chat (id = 1) members.
+[29-10-22 13:23:50.750][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='loves me some feesh'}.
+[29-10-22 13:23:50.750][info] Message ChatMessage{chat=Local, author='SciFurr', text='loves me some feesh'} sent to chat (id = 1) members.
+[29-10-22 13:24:31.666][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='lmao'}.
+[29-10-22 13:24:31.666][info] Message ChatMessage{chat=Local, author='SciFurr', text='lmao'} sent to chat (id = 1) members.
+[29-10-22 13:24:44.317][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='you ever had oat pancakes?'}.
+[29-10-22 13:24:44.317][info] Message ChatMessage{chat=Local, author='SciFurr', text='you ever had oat pancakes?'} sent to chat (id = 1) members.
+[29-10-22 13:24:53.947][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='strange flavor'}.
+[29-10-22 13:24:53.947][info] Message ChatMessage{chat=Local, author='SciFurr', text='strange flavor'} sent to chat (id = 1) members.
+[29-10-22 13:25:14.509][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='noice'}.
+[29-10-22 13:25:14.509][info] Message ChatMessage{chat=Local, author='SciFurr', text='noice'} sent to chat (id = 1) members.
+[29-10-22 13:25:21.379][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='think I had coffee pancakes once or twice'}.
+[29-10-22 13:25:21.379][info] Message ChatMessage{chat=Local, author='SciFurr', text='think I had coffee pancakes once or twice'} sent to chat (id = 1) members.
+[29-10-22 13:26:34.540][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='oh nice'}.
+[29-10-22 13:26:34.540][info] Message ChatMessage{chat=Local, author='SciFurr', text='oh nice'} sent to chat (id = 1) members.
+[29-10-22 13:28:23.279][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='nabbed another leather jacket and a polo sweater'}.
+[29-10-22 13:28:23.279][info] Message ChatMessage{chat=Local, author='SciFurr', text='nabbed another leather jacket and a polo sweater'} sent to chat (id = 1) members.
+[29-10-22 13:29:07.802][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='damn, it does look pristine af'}.
+[29-10-22 13:29:07.802][info] Message ChatMessage{chat=Local, author='SciFurr', text='damn, it does look pristine af'} sent to chat (id = 1) members.
+[29-10-22 13:29:27.577][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='nothing below 60%'}.
+[29-10-22 13:29:27.577][info] Message ChatMessage{chat=Local, author='SciFurr', text='nothing below 60%'} sent to chat (id = 1) members.
+[29-10-22 13:30:55.993][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='about 50% total'}.
+[29-10-22 13:30:55.993][info] Message ChatMessage{chat=Local, author='SciFurr', text='about 50% total'} sent to chat (id = 1) members.
+[29-10-22 13:31:27.696][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='big oof'}.
+[29-10-22 13:31:27.696][info] Message ChatMessage{chat=Local, author='SciFurr', text='big oof'} sent to chat (id = 1) members.
+[29-10-22 13:32:11.877][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='this one's got a tiny bit of juice'}.
+[29-10-22 13:32:11.877][info] Message ChatMessage{chat=Local, author='SciFurr', text='this one's got a tiny bit of juice'} sent to chat (id = 1) members.
+[29-10-22 13:35:24.778][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='try this one?'}.
+[29-10-22 13:35:24.778][info] Message ChatMessage{chat=Local, author='SciFurr', text='try this one?'} sent to chat (id = 1) members.
+[29-10-22 13:39:31.887][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='bro'}.
+[29-10-22 13:39:31.887][info] Message ChatMessage{chat=Local, author='SciFurr', text='bro'} sent to chat (id = 1) members.
+[29-10-22 13:39:35.753][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='I want that hat'}.
+[29-10-22 13:39:35.753][info] Message ChatMessage{chat=Local, author='SciFurr', text='I want that hat'} sent to chat (id = 1) members.
+[29-10-22 13:39:50.748][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='omg another one lmao'}.
+[29-10-22 13:39:50.748][info] Message ChatMessage{chat=Local, author='SciFurr', text='omg another one lmao'} sent to chat (id = 1) members.
+[29-10-22 13:42:45.747][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='heyyy'}.
+[29-10-22 13:42:45.747][info] Message ChatMessage{chat=Local, author='SciFurr', text='heyyy'} sent to chat (id = 1) members.
+[29-10-22 13:42:47.761][info] Got message:ChatMessage{chat=Local, author='SciFurr', text='checkit'}.
+[29-10-22 13:42:47.761][info] Message ChatMessage{chat=Local, author='SciFurr', text='checkit'} sent to chat (id = 1) members.
+[29-10-22 13:46:44.976][info] Player 0 disconnecting....
+[29-10-22 13:46:44.976][info] Disconnecting player 0 finished.
+[29-10-22 13:46:44.976][info] Player 0 disconnecting....
+[29-10-22 13:46:44.976][info] Disconnecting player 0 finished.

@@ -1,0 +1,20 @@
+[29-11-22 02:04:23.721] reason = createEatingZombies x,y,z = 11563,8056,0
+reason = createEatingZombies x,y,z = 11604,7345,0
+reason = createEatingZombies x,y,z = 11605,7345,0
+reason = createEatingZombies x,y,z = 11562,7326,0
+reason = createEatingZombies x,y,z = 11563,7326,0
+reason = createEatingZombies x,y,z = 11563,7325,0
+reason = createEatingZombies x,y,z = 11726,7239,0
+reason = createEatingZombies x,y,z = 11727,7239,0
+reason = createEatingZombies x,y,z = 11727,7238,0
+reason = createEatingZombies x,y,z = 11747,7227,0
+reason = createEatingZombies x,y,z = 11693,7128,0
+reason = createEatingZombies x,y,z = 11694,7128,0
+reason = createEatingZombies x,y,z = 11710,7121,0
+reason = createEatingZombies x,y,z = 11711,7121,0
+reason = createEatingZombies x,y,z = 11811,7147,0
+reason = RVSCarCrash x,y,z = 11876,7264,0
+reason = RVSCarCrash x,y,z = 11870,7264,0
+reason = RVSCarCrash x,y,z = 11876,7265,0
+reason = RVSCarCrash x,y,z = 11870,7266,0
+reason = RZSForestCampEaten x,y,z = 11657,7371,0.

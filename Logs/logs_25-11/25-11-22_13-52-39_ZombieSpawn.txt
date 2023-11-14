@@ -1,0 +1,23 @@
+[25-11-22 16:57:00.129] reason = roomSpotted x,y,z = 6121,5300,0 room = spiffo_dining
+reason = roomSpotted x,y,z = 6121,5311,0 room = spiffo_dining
+reason = roomSpotted x,y,z = 6123,5314,0 room = bathroom
+reason = roomSpotted x,y,z = 6431,5303,0 room = furniturestore
+reason = roomSpotted x,y,z = 6427,5307,0 room = furniturestore
+reason = roomSpotted x,y,z = 6426,5295,0 room = furniturestore
+reason = roomSpotted x,y,z = 6434,5300,0 room = furniturestore
+reason = roomSpotted x,y,z = 6434,5294,0 room = furniturestore
+reason = roomSpotted x,y,z = 6426,5294,0 room = furniturestore
+reason = roomSpotted x,y,z = 6425,5309,0 room = furniturestore
+reason = roomSpotted x,y,z = 6460,5297,0 room = office
+reason = roomSpotted x,y,z = 6466,5299,0 room = office
+reason = roomSpotted x,y,z = 6464,5305,0 room = office
+reason = roomSpotted x,y,z = 6464,5295,0 room = office
+reason = roomSpotted x,y,z = 6469,5298,0 room = office
+reason = roomSpotted x,y,z = 6458,5302,0 room = office
+reason = roomSpotted x,y,z = 6331,5375,0 room = bathroom.
+[25-11-22 18:13:35.657] reason = roomSpotted x,y,z = 6312,5373,0 room = kitchen
+reason = roomSpotted x,y,z = 6315,5376,0 room = closet
+reason = roomSpotted x,y,z = 6469,5228,0 room = icecream
+reason = RDSBandPractice x,y,z = 6530,5426,0 room = garage
+reason = RDSBandPractice x,y,z = 6532,5426,0 room = garage
+reason = RDSBandPractice x,y,z = 6530,5429,0 room = garage.

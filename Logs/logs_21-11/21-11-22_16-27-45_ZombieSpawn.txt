@@ -1,0 +1,6 @@
+[21-11-22 16:51:29.609] ================================================================================.
+[21-11-22 16:53:57.818] ================================================================================.
+[21-11-22 18:27:11.045] reason = roomSpotted x,y,z = 10506,7173,0 room = producestorage
+reason = roomSpotted x,y,z = 10774,7131,0 room = livingroom
+reason = roomSpotted x,y,z = 10771,7135,0 room = livingroom
+reason = roomSpotted x,y,z = 10776,7128,0 room = bathroom.

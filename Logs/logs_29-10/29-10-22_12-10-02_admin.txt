@@ -1,0 +1,5 @@
+[29-10-22 12:10:02.688] BigGurt enabled invisibility on BigGurt.
+[29-10-22 12:10:03.429] BigGurt enabled godmode on BigGurt.
+[29-10-22 12:27:04.746] BigGurt teleported SciFurr to BigGurt.
+[29-10-22 12:28:02.819] BigGurt disabled invisibility on BigGurt.
+[29-10-22 12:28:03.487] BigGurt disabled godmode on BigGurt.

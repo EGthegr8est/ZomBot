@@ -1,0 +1,15 @@
+[21-11-22 04:04:54.140][info] Init chat system....
+[21-11-22 04:04:54.140][info] Mode: multiplayer.
+[21-11-22 04:04:54.140][info] Chat owner: EG.
+[21-11-22 04:07:13.835][info] Got message from server: ChatMessage{chat=Local, author='The Jukebox', text='cum'}.
+[21-11-22 04:09:46.035][info] Got message from server: ChatMessage{chat=Local, author='The Jukebox', text='ilias i will kill you'}.
+[21-11-22 04:09:54.180][info] Got message from server: ChatMessage{chat=Local, author='Soulbringer', text='not if i kill myself first'}.
+[21-11-22 04:11:40.240][info] Got message from server: ChatMessage{chat=Local, author='The Jukebox', text='cum'}.
+[21-11-22 04:11:45.811][info] Got message from server: ChatMessage{chat=Local, author='Soulbringer', text='zone'}.
+[21-11-22 04:18:49.338][info] Got message from server: ChatMessage{chat=Local, author='The Jukebox', text='hey! did you fall from heaven? because your face looks all kinds of fucked up'}.
+[21-11-22 04:27:34.725][info] Got message from server: ChatMessage{chat=Local, author='Soulbringer', text='books are gay'}.
+[21-11-22 04:51:05.001][info] Got message from server: ChatMessage{chat=Local, author='The Jukebox', text='come in, fuckers. fuckers, come in.'}.
+[21-11-22 04:51:12.298][info] Got message from server: ChatMessage{chat=Local, author='The Jukebox', text='this is big papa bear 90210'}.
+[21-11-22 05:27:57.023][info] Got message from server: ChatMessage{chat=Local, author='Soulbringer', text='This is pretty fucked up, ey.'}.
+[21-11-22 05:28:43.679][info] Got message from server: ChatMessage{chat=Server, author='Server', text='yx killed The Jukebox.'}.
+[21-11-22 05:28:59.998][info] Got message from server: ChatMessage{chat=Server, author='Server', text='EG killed yx.'}.

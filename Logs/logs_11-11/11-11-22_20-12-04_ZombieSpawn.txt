@@ -1,0 +1,2 @@
+[11-11-22 21:36:47.676] reason = RZSForestCamp x,y,z = 10326,9761,0
+reason = RZSForestCamp x,y,z = 10326,9761,0.

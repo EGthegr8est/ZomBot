@@ -1,0 +1,661 @@
+[28-11-22 01:17:15.415] reason = RZSSexyTime x,y,z = 11823,6598,0
+reason = RZSSexyTime x,y,z = 11824,6598,0
+reason = RBBurntFireman x,y,z = 11831,6691,0 room = livingroom
+reason = RBBurntFireman x,y,z = 11830,6689,0 room = livingroom
+reason = RDSPokerNight x,y,z = 11772,6751,0 room = kitchen
+reason = RDSPokerNight x,y,z = 11774,6753,0 room = kitchen
+reason = RDSPokerNight x,y,z = 11774,6748,0 room = kitchen
+reason = RDSPokerNight x,y,z = 11771,6749,0 room = kitchen
+reason = RDSPokerNight x,y,z = 11773,6752,0 room = kitchen
+reason = RVSCarCrash x,y,z = 11746,6711,0
+reason = RVSCarCrash x,y,z = 11743,6708,0
+reason = RVSCarCrash x,y,z = 11744,6711,0
+reason = RDSBedroomZed x,y,z = 11724,6727,1 room = bedroom
+reason = RDSBedroomZed x,y,z = 11727,6729,1 room = bedroom
+reason = createEatingZombies x,y,z = 11727,6721,0
+reason = createEatingZombies x,y,z = 11728,6721,0
+reason = createEatingZombies x,y,z = 11726,6683,0
+reason = createEatingZombies x,y,z = 11727,6683,0
+reason = createEatingZombies x,y,z = 11727,6682,0
+reason = createEatingZombies x,y,z = 11717,6714,0.
+[28-11-22 01:23:07.533] reason = createEatingZombies x,y,z = 11718,6714,0
+reason = roomSpotted x,y,z = 14073,2615,1 room = bathroom
+reason = RVSCarCrash x,y,z = 14066,2701,0
+reason = RVSCarCrash x,y,z = 14067,2702,0
+reason = RVSCarCrash x,y,z = 14060,2702,0
+reason = RVSCarCrash x,y,z = 14062,2702,0
+reason = RBSafehouse x,y,z = 14017,2548,1 room = bathroom
+reason = RBSafehouse x,y,z = 14009,2541,1 room = hall
+reason = RBSafehouse x,y,z = 14019,2546,1 room = bathroom
+reason = createEatingZombies x,y,z = 13987,2695,0
+reason = createEatingZombies x,y,z = 13988,2695,0
+reason = createEatingZombies x,y,z = 13988,2694,0
+reason = createEatingZombies x,y,z = 14060,2718,0
+reason = createEatingZombies x,y,z = 14061,2718,0
+reason = createEatingZombies x,y,z = 14061,2717,0
+reason = createEatingZombies x,y,z = 14041,2474,0
+reason = createEatingZombies x,y,z = 14042,2474,0
+reason = RDSTinFoilHat x,y,z = 14073,2488,0 room = livingroom
+reason = RDSTinFoilHat x,y,z = 14073,2484,0 room = livingroom
+reason = RDSTinFoilHat x,y,z = 14074,2489,0 room = livingroom.
+[28-11-22 01:25:45.015] reason = RDSTinFoilHat x,y,z = 14073,2488,0 room = livingroom
+reason = roomSpotted x,y,z = 14015,2498,0 room = bathroom
+reason = createEatingZombies x,y,z = 13908,2566,0
+reason = RDSStagDo x,y,z = 14030,2383,0 room = livingroom
+reason = RDSStagDo x,y,z = 14032,2384,0 room = livingroom
+reason = RDSStagDo x,y,z = 14033,2382,0 room = livingroom
+reason = RDSStagDo x,y,z = 14032,2379,0 room = livingroom
+reason = RDSStagDo x,y,z = 14030,2383,0 room = livingroom
+reason = RDSStagDo x,y,z = 14032,2383,0 room = livingroom
+reason = RDSStagDo x,y,z = 14034,2379,0 room = livingroom
+reason = RBSafehouse x,y,z = 13947,2332,1 room = bedroom
+reason = RBSafehouse x,y,z = 13948,2330,0 room = hall
+reason = RDSBathroomZed x,y,z = 13915,2329,0 room = bathroom
+reason = RDSZombieLockedBathroom x,y,z = 13948,2306,0 room = bathroom
+reason = RDSPokerNight x,y,z = 13860,2449,0 room = kitchen
+reason = RDSPokerNight x,y,z = 13860,2448,0 room = kitchen
+reason = RDSPokerNight x,y,z = 13860,2448,0 room = kitchen
+reason = RDSPokerNight x,y,z = 13860,2447,0 room = kitchen.
+[28-11-22 01:27:21.944] reason = RDSPokerNight x,y,z = 13861,2450,0 room = kitchen
+reason = RDSStudentNight x,y,z = 13873,2296,0 room = livingroom
+reason = RDSStudentNight x,y,z = 13874,2296,0 room = livingroom
+reason = RDSStudentNight x,y,z = 13876,2295,0 room = livingroom
+reason = RDSStudentNight x,y,z = 13876,2293,0 room = livingroom
+reason = RDSStudentNight x,y,z = 13876,2292,1 room = bedroom
+reason = RDSStudentNight x,y,z = 13875,2294,1 room = bedroom
+reason = createEatingZombies x,y,z = 13815,2421,0
+reason = createEatingZombies x,y,z = 13816,2421,0
+reason = createEatingZombies x,y,z = 13816,2420,0
+reason = roomSpotted x,y,z = 13880,2330,0 room = office
+reason = RDSZombieLockedBathroom x,y,z = 13668,2254,0 room = bathroom
+reason = RDSBathroomZed x,y,z = 13652,2168,0 room = bathroom
+reason = createEatingZombies x,y,z = 13658,2093,0
+reason = createEatingZombies x,y,z = 13659,2093,0
+reason = createEatingZombies x,y,z = 13659,2092,0
+reason = RBBurntFireman x,y,z = 13650,2088,0 room = livingroom
+reason = RBBurntFireman x,y,z = 13649,2086,0 room = livingroom.
+[28-11-22 01:27:27.106] reason = RVSConstructionSite x,y,z = 13631,2228,0
+reason = RVSConstructionSite x,y,z = 13635,2233,0
+reason = RVSConstructionSite x,y,z = 13633,2227,0
+reason = RVSConstructionSite x,y,z = 13634,2234,0
+reason = createEatingZombies x,y,z = 13614,2119,0 room = livingroom
+reason = RBBurntFireman x,y,z = 13585,2097,0 room = livingroom
+reason = RBSafehouse x,y,z = 13572,2053,0 room = bedroom
+reason = RBSafehouse x,y,z = 13566,2055,0 room = bedroom
+reason = RBSafehouse x,y,z = 13571,2055,0 room = kitchen
+reason = RBSafehouse x,y,z = 13571,2057,0 room = kitchen
+reason = RBShopLooted x,y,z = 13562,2128,0 room = gasstore
+reason = RBShopLooted x,y,z = 13560,2131,0 room = gasstore
+reason = RBShopLooted x,y,z = 13560,2129,0 room = gasstore
+reason = RBShopLooted x,y,z = 13561,2132,0 room = gasstore
+reason = RBShopLooted x,y,z = 13552,2130,0 room = gasstore
+reason = RBShopLooted x,y,z = 13556,2129,0 room = gasstore
+reason = RBShopLooted x,y,z = 13556,2129,0 room = gasstore
+reason = RBSafehouse x,y,z = 13713,1984,0 room = bathroom.
+[28-11-22 01:27:29.590] reason = RBSafehouse x,y,z = 13713,1989,0 room = kitchen
+reason = RBSafehouse x,y,z = 13711,1980,0 room = bedroom
+reason = roomSpotted x,y,z = 13612,2055,0 room = bedroom
+reason = RDSZombieLockedBathroom x,y,z = 13517,2036,0 room = bathroom
+reason = RBBurntCorpse x,y,z = 13517,2073,0 room = livingroom
+reason = RBBurntCorpse x,y,z = 13520,2075,0 room = bathroom
+reason = RBBurntCorpse x,y,z = 13519,2069,0 room = kitchen
+reason = RBBurntCorpse x,y,z = 13521,2073,0 room = bedroom
+reason = RBBurntCorpse x,y,z = 13516,2070,0 room = kitchen
+reason = RBSafehouse x,y,z = 13606,1924,0 room = bedroom
+reason = RBSafehouse x,y,z = 13605,1925,0 room = bedroom
+reason = RBSafehouse x,y,z = 13600,1927,0 room = bathroom
+reason = RBSafehouse x,y,z = 13606,1925,0 room = bedroom
+reason = RBSafehouse x,y,z = 13605,1927,0 room = livingroom
+reason = RDSHouseParty x,y,z = 13494,1938,0 room = livingroom
+reason = RDSHouseParty x,y,z = 13493,1937,0 room = livingroom
+reason = RDSHouseParty x,y,z = 13490,1939,0 room = livingroom.
+[28-11-22 01:27:31.530] reason = RDSHouseParty x,y,z = 13494,1938,0 room = livingroom
+reason = RDSHouseParty x,y,z = 13492,1941,0 room = livingroom
+reason = RDSHouseParty x,y,z = 13495,1939,0 room = livingroom
+reason = RDSHouseParty x,y,z = 13493,1942,0 room = livingroom
+reason = RBBurntCorpse x,y,z = 13562,1922,0 room = livingroom
+reason = RBBurntCorpse x,y,z = 13566,1921,0 room = bathroom
+reason = RBBurntCorpse x,y,z = 13559,1922,0 room = bedroom
+reason = RBBurntCorpse x,y,z = 13566,1919,0 room = livingroom
+reason = RBSafehouse x,y,z = 13472,1974,1 room = bathroom
+reason = RBSafehouse x,y,z = 13474,1969,1 room = bedroom
+reason = RBSafehouse x,y,z = 13473,1970,1 room = bedroom
+reason = RBSafehouse x,y,z = 13472,1977,0 room = kitchen
+reason = RBSafehouse x,y,z = 13472,1977,0 room = kitchen
+reason = RBSafehouse x,y,z = 13474,1970,1 room = bedroom
+reason = createEatingZombies x,y,z = 13467,1990,0 room = garagestorage
+reason = createEatingZombies x,y,z = 13468,1990,0 room = garagestorage
+reason = RBSafehouse x,y,z = 13468,1881,0 room = bedroom.
+[28-11-22 01:27:33.230] reason = RBSafehouse x,y,z = 13468,1882,0 room = bedroom
+reason = RBSafehouse x,y,z = 13466,1883,0 room = kitchen
+reason = RBSafehouse x,y,z = 13466,1886,0 room = bedroom
+reason = RBShopLooted x,y,z = 13441,1894,0 room = library
+reason = RBShopLooted x,y,z = 13443,1893,0 room = library
+reason = RBShopLooted x,y,z = 13443,1894,0 room = library
+reason = RBShopLooted x,y,z = 13441,1893,0 room = library
+reason = RBShopLooted x,y,z = 13443,1892,0 room = library
+reason = RBShopLooted x,y,z = 13443,1892,0 room = library
+reason = RBBurntCorpse x,y,z = 13427,1968,0 room = bathroom
+reason = RBBurntCorpse x,y,z = 13427,1968,0 room = bathroom
+reason = RBBurntCorpse x,y,z = 13427,1969,0 room = bedroom
+reason = RDSStudentNight x,y,z = 13422,1969,0 room = livingroom
+reason = RDSStudentNight x,y,z = 13419,1964,0 room = livingroom
+reason = RDSStudentNight x,y,z = 13421,1966,0 room = livingroom
+reason = RDSStudentNight x,y,z = 13415,1972,0 room = bedroom
+reason = RDSStudentNight x,y,z = 13414,1972,0 room = bedroom.
+[28-11-22 01:27:36.091] reason = roomSpotted x,y,z = 13495,1916,0 room = livingroom
+reason = RBSafehouse x,y,z = 13385,1875,0 room = lobby
+reason = RBSafehouse x,y,z = 13386,1869,0 room = diningroom
+reason = roomSpotted x,y,z = 13467,1897,0 room = kitchen
+reason = roomSpotted x,y,z = 13468,1899,0 room = bedroom
+reason = RBBurntFireman x,y,z = 13433,1809,0 room = livingroom
+reason = RBBurntFireman x,y,z = 13434,1812,0 room = livingroom
+reason = RDSBathroomZed x,y,z = 13405,1812,0 room = bathroom
+reason = RBSafehouse x,y,z = 13397,1816,1 room = bedroom
+reason = RBSafehouse x,y,z = 13400,1808,1 room = bathroom
+reason = RBSafehouse x,y,z = 13398,1813,0 room = kitchen
+reason = RBSafehouse x,y,z = 13391,1814,0 room = kitchen
+reason = RBSafehouse x,y,z = 13391,1809,1 room = bathroom
+reason = RBSafehouse x,y,z = 13392,1808,1 room = bathroom
+reason = RBSafehouse x,y,z = 13390,1813,1 room = bedroom
+reason = RBSafehouse x,y,z = 13391,1816,1 room = bedroom
+reason = RDSStudentNight x,y,z = 13363,1966,0 room = livingroom
+reason = RDSStudentNight x,y,z = 13363,1963,0 room = livingroom.
+[28-11-22 01:27:37.980] reason = RDSStudentNight x,y,z = 13362,1965,0 room = livingroom
+reason = RDSStudentNight x,y,z = 13364,1966,1 room = bedroom
+reason = RDSStudentNight x,y,z = 13362,1965,1 room = bedroom
+reason = RDSStagDo x,y,z = 13375,1809,0 room = livingroom
+reason = RDSStagDo x,y,z = 13369,1805,0 room = livingroom
+reason = RDSStagDo x,y,z = 13369,1806,0 room = livingroom
+reason = RDSStagDo x,y,z = 13373,1807,0 room = livingroom
+reason = RDSStagDo x,y,z = 13372,1807,0 room = livingroom
+reason = RDSStagDo x,y,z = 13373,1809,0 room = livingroom
+reason = RDSBedroomZed x,y,z = 13420,1787,1 room = bedroom
+reason = RDSBedroomZed x,y,z = 13419,1787,1 room = bedroom
+reason = RBBurntFireman x,y,z = 13395,1789,0 room = livingroom
+reason = RBBurntFireman x,y,z = 13399,1790,0 room = livingroom
+reason = RVSChangingTire x,y,z = 13332,1834,0
+reason = RVSChangingTire x,y,z = 13328,1830,0
+reason = RDSPoliceAtHouse x,y,z = 13326,1886,0 room = livingroom
+reason = RDSPoliceAtHouse x,y,z = 13323,1883,0 room = livingroom
+reason = RDSPoliceAtHouse x,y,z = 13325,1883,0 room = livingroom.
+[28-11-22 01:27:41.003] reason = RDSPoliceAtHouse x,y,z = 13324,1866,0
+reason = RDSPoliceAtHouse x,y,z = 13324,1866,0
+reason = RDSBedroomZed x,y,z = 13477,1757,1 room = bedroom
+reason = RDSBedroomZed x,y,z = 13478,1756,1 room = bedroom
+reason = roomSpotted x,y,z = 13397,1821,1 room = bedroom
+reason = RDSBedroomZed x,y,z = 13314,1829,1 room = bedroom
+reason = RDSBedroomZed x,y,z = 13314,1828,1 room = bedroom
+reason = RDSPokerNight x,y,z = 13311,1724,0 room = kitchen
+reason = RDSPokerNight x,y,z = 13311,1723,0 room = kitchen
+reason = RDSPokerNight x,y,z = 13308,1722,0 room = kitchen
+reason = RDSPokerNight x,y,z = 13308,1721,0 room = kitchen
+reason = roomSpotted x,y,z = 13376,1768,0 room = kitchen
+reason = roomSpotted x,y,z = 13376,1764,0 room = kitchen
+reason = roomSpotted x,y,z = 13376,1766,0 room = kitchen
+reason = roomSpotted x,y,z = 13378,1768,0 room = kitchen
+reason = roomSpotted x,y,z = 13378,1766,0 room = kitchen
+reason = roomSpotted x,y,z = 13377,1764,0 room = kitchen
+reason = roomSpotted x,y,z = 13378,1767,0 room = kitchen.
+[28-11-22 01:27:43.123] reason = roomSpotted x,y,z = 13376,1765,1 room = bathroom
+reason = roomSpotted x,y,z = 13372,1758,1 room = bedroom
+reason = roomSpotted x,y,z = 13375,1764,1 room = closet
+reason = roomSpotted x,y,z = 13369,1771,0 room = livingroom
+reason = roomSpotted x,y,z = 13376,1769,1 room = bedroom
+reason = roomSpotted x,y,z = 13378,1776,1 room = bathroom
+reason = roomSpotted x,y,z = 13375,1785,0 room = livingroom
+reason = roomSpotted x,y,z = 13372,1785,0 room = livingroom
+reason = roomSpotted x,y,z = 13370,1777,0 room = bathroom
+reason = roomSpotted x,y,z = 13376,1786,0 room = kitchen
+reason = roomSpotted x,y,z = 13377,1781,1 room = bedroom
+reason = roomSpotted x,y,z = 13370,1786,0 room = bathroom
+reason = createEatingZombies x,y,z = 13315,1696,0
+reason = createEatingZombies x,y,z = 13316,1696,0
+reason = RDSBathroomZed x,y,z = 13370,1686,0 room = bathroom
+reason = RBSafehouse x,y,z = 13350,1680,0 room = livingroom
+reason = RBSafehouse x,y,z = 13350,1682,0 room = kitchen
+reason = RBSafehouse x,y,z = 13349,1683,1 room = bathroom.
+[28-11-22 01:27:43.927] reason = RBSafehouse x,y,z = 13352,1680,1 room = livingroom
+reason = RBSafehouse x,y,z = 13248,1837,0 room = kitchen
+reason = RBSafehouse x,y,z = 13249,1840,0 room = livingroom
+reason = RBSafehouse x,y,z = 13251,1835,0 room = kitchen
+reason = RBSafehouse x,y,z = 13251,1840,1 room = bedroom
+reason = RBSafehouse x,y,z = 13248,1842,1 room = bathroom
+reason = roomSpotted x,y,z = 13310,1759,0 room = kitchen
+reason = roomSpotted x,y,z = 13313,1762,1 room = livingroom
+reason = roomSpotted x,y,z = 13317,1767,1 room = bedroom
+reason = roomSpotted x,y,z = 13311,1781,0 room = livingroom
+reason = roomSpotted x,y,z = 13314,1788,0 room = livingroom
+reason = RBSafehouse x,y,z = 13235,1746,0 room = kitchen
+reason = RBSafehouse x,y,z = 13238,1750,1 room = bedroom
+reason = RBSafehouse x,y,z = 13239,1747,1 room = bathroom
+reason = RDSPokerNight x,y,z = 13235,1788,0 room = kitchen
+reason = RDSPokerNight x,y,z = 13237,1789,0 room = kitchen
+reason = RDSPokerNight x,y,z = 13234,1788,0 room = kitchen
+reason = RDSPokerNight x,y,z = 13233,1786,0 room = kitchen.
+[28-11-22 01:27:58.011] reason = addSurvivorInHorde x,y,z = 13229,1795,0
+reason = addSurvivorInHorde x,y,z = 13229,1795,0
+reason = addSurvivorInHorde x,y,z = 13229,1795,0
+reason = addSurvivorInHorde x,y,z = 13229,1795,0
+reason = addSurvivorInHorde x,y,z = 13229,1795,0
+reason = addSurvivorInHorde x,y,z = 13229,1795,0
+reason = addSurvivorInHorde x,y,z = 13229,1795,0
+reason = addSurvivorInHorde x,y,z = 13229,1795,0
+reason = addSurvivorInHorde x,y,z = 13229,1795,0
+reason = addSurvivorInHorde x,y,z = 13229,1795,0
+reason = addSurvivorInHorde x,y,z = 13229,1795,0
+reason = addSurvivorInHorde x,y,z = 13229,1795,0
+reason = addSurvivorInHorde x,y,z = 13229,1795,0
+reason = addSurvivorInHorde x,y,z = 13229,1795,0
+reason = addSurvivorInHorde x,y,z = 13229,1795,0
+reason = addSurvivorInHorde x,y,z = 13229,1795,0
+reason = roomSpotted x,y,z = 13297,1710,1 room = bathroom
+reason = roomSpotted x,y,z = 13291,1718,0 room = livingroom
+reason = roomSpotted x,y,z = 13292,1715,1 room = bedroom
+reason = roomSpotted x,y,z = 13299,1719,1 room = bedroom.
+[28-11-22 01:28:01.126] reason = roomSpotted x,y,z = 13290,1731,1 room = bedroom
+reason = roomSpotted x,y,z = 13299,1731,1 room = bedroom
+reason = roomSpotted x,y,z = 13294,1739,1 room = bedroom
+reason = RVSFlippedCrash x,y,z = 13196,1712,0
+reason = RVSFlippedCrash x,y,z = 13199,1718,0
+reason = RVSFlippedCrash x,y,z = 13203,1717,0
+reason = RBSafehouse x,y,z = 13309,1617,1 room = livingroom
+reason = RBSafehouse x,y,z = 13307,1616,0 room = kitchen
+reason = RBSafehouse x,y,z = 13311,1616,0 room = livingroom
+reason = RBSafehouse x,y,z = 13305,1619,1 room = livingroom
+reason = RBSafehouse x,y,z = 13309,1617,0 room = kitchen
+reason = RDSHouseParty x,y,z = 13330,1608,0 room = livingroom
+reason = RDSHouseParty x,y,z = 13328,1609,0 room = livingroom
+reason = RDSHouseParty x,y,z = 13328,1608,0 room = livingroom
+reason = RDSHouseParty x,y,z = 13330,1608,0 room = livingroom
+reason = RDSHouseParty x,y,z = 13329,1608,0 room = livingroom
+reason = roomSpotted x,y,z = 13251,1688,0 room = laundry
+reason = roomSpotted x,y,z = 13250,1684,0 room = laundry.
+[28-11-22 01:28:04.527] reason = roomSpotted x,y,z = 13245,1683,0 room = laundry
+reason = roomSpotted x,y,z = 13247,1651,1 room = office
+reason = roomSpotted x,y,z = 13247,1649,1 room = office
+reason = roomSpotted x,y,z = 13243,1658,1 room = hallway
+reason = roomSpotted x,y,z = 13247,1689,0 room = laundry
+reason = createEatingZombies x,y,z = 13270,1589,0 room = livingroom
+reason = createEatingZombies x,y,z = 13136,1608,0
+reason = createEatingZombies x,y,z = 13137,1608,0
+reason = createEatingZombies x,y,z = 13137,1607,0
+reason = RDSHouseParty x,y,z = 13120,1622,0 room = livingroom
+reason = RDSHouseParty x,y,z = 13119,1622,0 room = livingroom
+reason = RDSHouseParty x,y,z = 13120,1621,0 room = livingroom
+reason = RDSHouseParty x,y,z = 13118,1622,0 room = livingroom
+reason = RDSHouseParty x,y,z = 13120,1625,0 room = livingroom
+reason = RDSHouseParty x,y,z = 13118,1621,0 room = livingroom
+reason = roomSpotted x,y,z = 13169,1611,0 room = kitchen
+reason = roomSpotted x,y,z = 13167,1616,0 room = kitchen
+reason = roomSpotted x,y,z = 13169,1612,0 room = kitchen.
+[28-11-22 01:28:04.848] reason = roomSpotted x,y,z = 13172,1609,0 room = office
+reason = roomSpotted x,y,z = 13179,1609,0 room = office
+reason = roomSpotted x,y,z = 13176,1609,0 room = office
+reason = roomSpotted x,y,z = 13175,1614,0 room = office
+reason = roomSpotted x,y,z = 13172,1613,0 room = office
+reason = roomSpotted x,y,z = 13178,1608,0 room = grocery
+reason = roomSpotted x,y,z = 13170,1604,0 room = grocery
+reason = roomSpotted x,y,z = 13183,1604,0 room = grocery
+reason = roomSpotted x,y,z = 13171,1608,0 room = grocery
+reason = roomSpotted x,y,z = 13174,1608,0 room = grocery
+reason = roomSpotted x,y,z = 13163,1602,0 room = grocerystorage
+reason = roomSpotted x,y,z = 13167,1605,0 room = grocerystorage
+reason = roomSpotted x,y,z = 13163,1607,0 room = grocerystorage
+reason = roomSpotted x,y,z = 13170,1607,1 room = kitchen
+reason = roomSpotted x,y,z = 13179,1622,1 room = livingroom
+reason = roomSpotted x,y,z = 13180,1623,1 room = livingroom
+reason = roomSpotted x,y,z = 13168,1618,1 room = bathroom
+reason = createEatingZombies x,y,z = 13269,1541,0 room = livingroom.
+[28-11-22 01:28:07.300] reason = roomSpotted x,y,z = 13138,1629,0 room = hall
+reason = roomSpotted x,y,z = 13142,1628,0 room = hall
+reason = roomSpotted x,y,z = 13142,1627,0 room = hall
+reason = roomSpotted x,y,z = 13141,1628,0 room = hall
+reason = roomSpotted x,y,z = 13146,1631,0 room = hall
+reason = roomSpotted x,y,z = 13140,1629,0 room = hall
+reason = roomSpotted x,y,z = 13142,1631,0 room = hall
+reason = roomSpotted x,y,z = 13137,1628,0 room = hall
+reason = roomSpotted x,y,z = 13137,1627,0 room = hall
+reason = roomSpotted x,y,z = 13144,1631,0 room = hall
+reason = roomSpotted x,y,z = 13145,1628,0 room = hall
+reason = roomSpotted x,y,z = 13139,1629,0 room = hall
+reason = roomSpotted x,y,z = 13129,1627,0 room = laundry
+reason = roomSpotted x,y,z = 13130,1631,2 room = bathroom
+reason = roomSpotted x,y,z = 13142,1618,0 room = garage
+reason = roomSpotted x,y,z = 13130,1612,0 room = garage
+reason = roomSpotted x,y,z = 13131,1620,0 room = garage
+reason = roomSpotted x,y,z = 13136,1621,0 room = garage
+reason = roomSpotted x,y,z = 13129,1615,0 room = garage.
+[28-11-22 01:28:07.300] reason = roomSpotted x,y,z = 13144,1619,0 room = garage
+reason = roomSpotted x,y,z = 13136,1616,0 room = garage
+reason = roomSpotted x,y,z = 13128,1615,0 room = garage
+reason = roomSpotted x,y,z = 13127,1621,0 room = garage
+reason = roomSpotted x,y,z = 13141,1620,0 room = garage
+reason = roomSpotted x,y,z = 13138,1623,0 room = garage
+reason = roomSpotted x,y,z = 13142,1616,0 room = garage
+reason = roomSpotted x,y,z = 13129,1619,0 room = garage
+reason = roomSpotted x,y,z = 13145,1614,0 room = garage
+reason = roomSpotted x,y,z = 13145,1626,0 room = garage
+reason = roomSpotted x,y,z = 13126,1615,0 room = garage
+reason = roomSpotted x,y,z = 13133,1611,0 room = garage
+reason = roomSpotted x,y,z = 13145,1623,0 room = garage
+reason = roomSpotted x,y,z = 13139,1618,0 room = garage
+reason = roomSpotted x,y,z = 13144,1616,0 room = garage
+reason = roomSpotted x,y,z = 13133,1612,0 room = garage
+reason = roomSpotted x,y,z = 13126,1613,0 room = garage
+reason = roomSpotted x,y,z = 13143,1623,0 room = garage.
+[28-11-22 01:28:07.301] reason = roomSpotted x,y,z = 13126,1616,0 room = garage
+reason = roomSpotted x,y,z = 13140,1616,0 room = garage
+reason = roomSpotted x,y,z = 13127,1623,0 room = garage
+reason = roomSpotted x,y,z = 13132,1617,1 room = livingroom
+reason = roomSpotted x,y,z = 13126,1616,1 room = livingroom
+reason = roomSpotted x,y,z = 13133,1616,1 room = livingroom
+reason = roomSpotted x,y,z = 13131,1622,1 room = livingroom
+reason = roomSpotted x,y,z = 13133,1619,1 room = livingroom
+reason = roomSpotted x,y,z = 13130,1623,1 room = livingroom
+reason = roomSpotted x,y,z = 13134,1622,1 room = livingroom
+reason = roomSpotted x,y,z = 13133,1620,1 room = livingroom
+reason = roomSpotted x,y,z = 13130,1616,1 room = livingroom
+reason = roomSpotted x,y,z = 13133,1623,1 room = livingroom
+reason = roomSpotted x,y,z = 13133,1622,1 room = livingroom
+reason = roomSpotted x,y,z = 13129,1620,1 room = livingroom
+reason = roomSpotted x,y,z = 13134,1621,1 room = livingroom
+reason = roomSpotted x,y,z = 13126,1617,1 room = livingroom.
+[28-11-22 01:28:07.302] reason = roomSpotted x,y,z = 13134,1616,1 room = livingroom
+reason = roomSpotted x,y,z = 13127,1617,1 room = livingroom
+reason = roomSpotted x,y,z = 13130,1618,1 room = livingroom
+reason = roomSpotted x,y,z = 13133,1618,1 room = livingroom
+reason = roomSpotted x,y,z = 13133,1624,1 room = livingroom
+reason = roomSpotted x,y,z = 13130,1620,1 room = livingroom
+reason = roomSpotted x,y,z = 13130,1624,1 room = livingroom
+reason = roomSpotted x,y,z = 13132,1620,2 room = livingroom
+reason = roomSpotted x,y,z = 13131,1617,2 room = livingroom
+reason = roomSpotted x,y,z = 13131,1624,2 room = livingroom
+reason = roomSpotted x,y,z = 13133,1622,2 room = livingroom
+reason = roomSpotted x,y,z = 13130,1619,2 room = livingroom
+reason = roomSpotted x,y,z = 13131,1619,2 room = livingroom
+reason = roomSpotted x,y,z = 13128,1616,2 room = livingroom
+reason = roomSpotted x,y,z = 13130,1622,2 room = livingroom
+reason = roomSpotted x,y,z = 13126,1617,2 room = livingroom
+reason = roomSpotted x,y,z = 13130,1624,2 room = livingroom.
+[28-11-22 01:28:07.303] reason = roomSpotted x,y,z = 13129,1616,2 room = livingroom
+reason = roomSpotted x,y,z = 13134,1617,2 room = livingroom
+reason = roomSpotted x,y,z = 13129,1617,2 room = livingroom
+reason = roomSpotted x,y,z = 13132,1616,2 room = livingroom
+reason = roomSpotted x,y,z = 13133,1618,2 room = livingroom
+reason = roomSpotted x,y,z = 13132,1623,2 room = livingroom
+reason = roomSpotted x,y,z = 13130,1617,2 room = livingroom
+reason = roomSpotted x,y,z = 13131,1618,2 room = livingroom
+reason = roomSpotted x,y,z = 13134,1616,2 room = livingroom
+reason = roomSpotted x,y,z = 13133,1619,3 room = livingroom
+reason = roomSpotted x,y,z = 13133,1620,3 room = livingroom
+reason = roomSpotted x,y,z = 13134,1622,3 room = livingroom
+reason = roomSpotted x,y,z = 13131,1622,3 room = livingroom
+reason = roomSpotted x,y,z = 13132,1620,3 room = livingroom
+reason = roomSpotted x,y,z = 13131,1619,3 room = livingroom
+reason = roomSpotted x,y,z = 13132,1618,3 room = livingroom
+reason = roomSpotted x,y,z = 13131,1616,3 room = livingroom.
+[28-11-22 01:28:07.305] reason = roomSpotted x,y,z = 13130,1625,3 room = livingroom
+reason = roomSpotted x,y,z = 13131,1620,3 room = livingroom
+reason = roomSpotted x,y,z = 13129,1620,3 room = livingroom
+reason = roomSpotted x,y,z = 13134,1621,3 room = livingroom
+reason = roomSpotted x,y,z = 13133,1625,3 room = livingroom
+reason = roomSpotted x,y,z = 13126,1616,3 room = livingroom
+reason = roomSpotted x,y,z = 13131,1617,3 room = livingroom
+reason = roomSpotted x,y,z = 13131,1616,4 room = livingroom
+reason = roomSpotted x,y,z = 13133,1616,4 room = livingroom
+reason = roomSpotted x,y,z = 13133,1618,4 room = livingroom
+reason = roomSpotted x,y,z = 13126,1616,4 room = livingroom
+reason = roomSpotted x,y,z = 13127,1617,4 room = livingroom
+reason = roomSpotted x,y,z = 13133,1619,4 room = livingroom
+reason = roomSpotted x,y,z = 13134,1625,4 room = livingroom
+reason = roomSpotted x,y,z = 13130,1624,4 room = livingroom
+reason = roomSpotted x,y,z = 13131,1617,4 room = livingroom
+reason = roomSpotted x,y,z = 13130,1623,4 room = livingroom.
+[28-11-22 01:28:07.306] reason = roomSpotted x,y,z = 13129,1619,4 room = livingroom
+reason = roomSpotted x,y,z = 13126,1617,4 room = livingroom
+reason = roomSpotted x,y,z = 13130,1622,4 room = livingroom
+reason = roomSpotted x,y,z = 13130,1616,4 room = livingroom
+reason = roomSpotted x,y,z = 13129,1617,4 room = livingroom
+reason = roomSpotted x,y,z = 13134,1625,5 room = livingroom
+reason = roomSpotted x,y,z = 13127,1617,5 room = livingroom
+reason = roomSpotted x,y,z = 13130,1618,5 room = livingroom
+reason = roomSpotted x,y,z = 13126,1617,5 room = livingroom
+reason = roomSpotted x,y,z = 13134,1624,5 room = livingroom
+reason = roomSpotted x,y,z = 13134,1622,5 room = livingroom
+reason = roomSpotted x,y,z = 13131,1620,5 room = livingroom
+reason = roomSpotted x,y,z = 13131,1623,5 room = livingroom
+reason = roomSpotted x,y,z = 13134,1621,5 room = livingroom
+reason = roomSpotted x,y,z = 13126,1616,5 room = livingroom
+reason = roomSpotted x,y,z = 13131,1617,5 room = livingroom
+reason = roomSpotted x,y,z = 13131,1618,5 room = livingroom.
+[28-11-22 01:28:07.310] reason = roomSpotted x,y,z = 13135,1624,1 room = livingroom
+reason = roomSpotted x,y,z = 13145,1617,1 room = livingroom
+reason = roomSpotted x,y,z = 13140,1618,1 room = livingroom
+reason = roomSpotted x,y,z = 13139,1620,1 room = livingroom
+reason = roomSpotted x,y,z = 13139,1618,1 room = livingroom
+reason = roomSpotted x,y,z = 13141,1619,1 room = livingroom
+reason = roomSpotted x,y,z = 13139,1625,1 room = livingroom
+reason = roomSpotted x,y,z = 13144,1616,1 room = livingroom
+reason = roomSpotted x,y,z = 13135,1616,1 room = livingroom
+reason = roomSpotted x,y,z = 13138,1616,1 room = livingroom
+reason = roomSpotted x,y,z = 13141,1618,1 room = livingroom
+reason = roomSpotted x,y,z = 13137,1625,1 room = livingroom
+reason = roomSpotted x,y,z = 13146,1617,1 room = livingroom
+reason = roomSpotted x,y,z = 13137,1624,1 room = livingroom
+reason = roomSpotted x,y,z = 13141,1616,1 room = livingroom
+reason = roomSpotted x,y,z = 13138,1625,1 room = livingroom
+reason = roomSpotted x,y,z = 13138,1617,1 room = livingroom.
+[28-11-22 01:28:07.313] reason = roomSpotted x,y,z = 13136,1623,1 room = livingroom
+reason = roomSpotted x,y,z = 13135,1622,1 room = livingroom
+reason = roomSpotted x,y,z = 13138,1620,1 room = livingroom
+reason = roomSpotted x,y,z = 13139,1622,1 room = livingroom
+reason = roomSpotted x,y,z = 13135,1617,1 room = livingroom
+reason = roomSpotted x,y,z = 13136,1624,1 room = livingroom
+reason = roomSpotted x,y,z = 13143,1618,1 room = livingroom
+reason = roomSpotted x,y,z = 13143,1616,1 room = livingroom
+reason = roomSpotted x,y,z = 13143,1617,1 room = livingroom
+reason = roomSpotted x,y,z = 13136,1619,1 room = livingroom
+reason = roomSpotted x,y,z = 13141,1616,2 room = livingroom
+reason = roomSpotted x,y,z = 13137,1624,2 room = livingroom
+reason = roomSpotted x,y,z = 13143,1618,2 room = livingroom
+reason = roomSpotted x,y,z = 13139,1620,2 room = livingroom
+reason = roomSpotted x,y,z = 13143,1616,2 room = livingroom
+reason = roomSpotted x,y,z = 13135,1619,2 room = livingroom
+reason = roomSpotted x,y,z = 13136,1620,2 room = livingroom.
+[28-11-22 01:28:07.313] reason = roomSpotted x,y,z = 13137,1616,2 room = livingroom
+reason = roomSpotted x,y,z = 13143,1620,2 room = livingroom
+reason = roomSpotted x,y,z = 13139,1624,2 room = livingroom
+reason = roomSpotted x,y,z = 13135,1624,2 room = livingroom
+reason = roomSpotted x,y,z = 13140,1618,2 room = livingroom
+reason = roomSpotted x,y,z = 13137,1620,2 room = livingroom
+reason = roomSpotted x,y,z = 13138,1623,2 room = livingroom
+reason = roomSpotted x,y,z = 13136,1624,2 room = livingroom
+reason = roomSpotted x,y,z = 13138,1619,2 room = livingroom
+reason = roomSpotted x,y,z = 13139,1616,2 room = livingroom
+reason = roomSpotted x,y,z = 13137,1625,2 room = livingroom
+reason = roomSpotted x,y,z = 13138,1624,2 room = livingroom
+reason = roomSpotted x,y,z = 13136,1618,2 room = livingroom
+reason = roomSpotted x,y,z = 13136,1623,2 room = livingroom
+reason = roomSpotted x,y,z = 13142,1618,2 room = livingroom
+reason = roomSpotted x,y,z = 13135,1617,2 room = livingroom
+reason = roomSpotted x,y,z = 13136,1622,2 room = livingroom.
+[28-11-22 01:28:07.317] reason = roomSpotted x,y,z = 13138,1621,2 room = livingroom
+reason = roomSpotted x,y,z = 13139,1622,2 room = livingroom
+reason = roomSpotted x,y,z = 13142,1616,2 room = livingroom
+reason = roomSpotted x,y,z = 13137,1622,2 room = livingroom
+reason = roomSpotted x,y,z = 13140,1616,2 room = livingroom
+reason = roomSpotted x,y,z = 13135,1616,3 room = livingroom
+reason = roomSpotted x,y,z = 13143,1617,3 room = livingroom
+reason = roomSpotted x,y,z = 13143,1619,3 room = livingroom
+reason = roomSpotted x,y,z = 13139,1624,3 room = livingroom
+reason = roomSpotted x,y,z = 13138,1623,3 room = livingroom
+reason = roomSpotted x,y,z = 13135,1617,3 room = livingroom
+reason = roomSpotted x,y,z = 13135,1623,3 room = livingroom
+reason = roomSpotted x,y,z = 13140,1616,3 room = livingroom
+reason = roomSpotted x,y,z = 13141,1616,3 room = livingroom
+reason = roomSpotted x,y,z = 13137,1618,3 room = livingroom
+reason = roomSpotted x,y,z = 13139,1620,3 room = livingroom
+reason = roomSpotted x,y,z = 13137,1621,3 room = livingroom.
+[28-11-22 01:28:07.321] reason = roomSpotted x,y,z = 13140,1620,3 room = livingroom
+reason = roomSpotted x,y,z = 13138,1616,3 room = livingroom
+reason = roomSpotted x,y,z = 13139,1616,3 room = livingroom
+reason = roomSpotted x,y,z = 13135,1622,3 room = livingroom
+reason = roomSpotted x,y,z = 13139,1625,3 room = livingroom
+reason = roomSpotted x,y,z = 13142,1618,3 room = livingroom
+reason = roomSpotted x,y,z = 13135,1620,3 room = livingroom
+reason = roomSpotted x,y,z = 13139,1621,3 room = livingroom
+reason = roomSpotted x,y,z = 13135,1625,3 room = livingroom
+reason = roomSpotted x,y,z = 13139,1619,3 room = livingroom
+reason = roomSpotted x,y,z = 13137,1625,3 room = livingroom
+reason = roomSpotted x,y,z = 13136,1619,3 room = livingroom
+reason = roomSpotted x,y,z = 13143,1618,3 room = livingroom
+reason = roomSpotted x,y,z = 13138,1624,3 room = livingroom
+reason = roomSpotted x,y,z = 13145,1617,3 room = livingroom
+reason = roomSpotted x,y,z = 13138,1622,4 room = livingroom
+reason = roomSpotted x,y,z = 13139,1618,4 room = livingroom.
+[28-11-22 01:28:07.321] reason = roomSpotted x,y,z = 13141,1618,4 room = livingroom
+reason = roomSpotted x,y,z = 13138,1618,4 room = livingroom
+reason = roomSpotted x,y,z = 13136,1617,4 room = livingroom
+reason = roomSpotted x,y,z = 13140,1618,4 room = livingroom
+reason = roomSpotted x,y,z = 13143,1617,4 room = livingroom
+reason = roomSpotted x,y,z = 13135,1616,4 room = livingroom
+reason = roomSpotted x,y,z = 13140,1619,4 room = livingroom
+reason = roomSpotted x,y,z = 13137,1617,4 room = livingroom
+reason = roomSpotted x,y,z = 13142,1618,4 room = livingroom
+reason = roomSpotted x,y,z = 13136,1620,4 room = livingroom
+reason = roomSpotted x,y,z = 13135,1625,4 room = livingroom
+reason = roomSpotted x,y,z = 13135,1622,4 room = livingroom
+reason = roomSpotted x,y,z = 13140,1617,4 room = livingroom
+reason = roomSpotted x,y,z = 13142,1616,4 room = livingroom
+reason = roomSpotted x,y,z = 13144,1617,4 room = livingroom
+reason = roomSpotted x,y,z = 13138,1624,4 room = livingroom
+reason = roomSpotted x,y,z = 13135,1618,4 room = livingroom.
+[28-11-22 01:28:07.326] reason = roomSpotted x,y,z = 13137,1618,4 room = livingroom
+reason = roomSpotted x,y,z = 13137,1619,4 room = livingroom
+reason = roomSpotted x,y,z = 13139,1624,4 room = livingroom
+reason = roomSpotted x,y,z = 13139,1620,4 room = livingroom
+reason = roomSpotted x,y,z = 13138,1623,4 room = livingroom
+reason = roomSpotted x,y,z = 13135,1619,4 room = livingroom
+reason = roomSpotted x,y,z = 13139,1619,4 room = livingroom
+reason = roomSpotted x,y,z = 13139,1617,4 room = livingroom
+reason = roomSpotted x,y,z = 13143,1620,4 room = livingroom
+reason = roomSpotted x,y,z = 13135,1620,4 room = livingroom
+reason = roomSpotted x,y,z = 13138,1616,4 room = livingroom
+reason = roomSpotted x,y,z = 13136,1623,4 room = livingroom
+reason = roomSpotted x,y,z = 13138,1621,4 room = livingroom
+reason = roomSpotted x,y,z = 13139,1622,4 room = livingroom
+reason = roomSpotted x,y,z = 13140,1620,4 room = livingroom
+reason = roomSpotted x,y,z = 13138,1619,5 room = livingroom
+reason = roomSpotted x,y,z = 13139,1619,5 room = livingroom.
+[28-11-22 01:28:07.326] reason = roomSpotted x,y,z = 13139,1617,5 room = livingroom
+reason = roomSpotted x,y,z = 13142,1617,5 room = livingroom
+reason = roomSpotted x,y,z = 13143,1619,5 room = livingroom
+reason = roomSpotted x,y,z = 13139,1623,5 room = livingroom
+reason = roomSpotted x,y,z = 13135,1624,5 room = livingroom
+reason = roomSpotted x,y,z = 13136,1624,5 room = livingroom
+reason = roomSpotted x,y,z = 13138,1620,5 room = livingroom
+reason = roomSpotted x,y,z = 13138,1623,5 room = livingroom
+reason = roomSpotted x,y,z = 13143,1617,5 room = livingroom
+reason = roomSpotted x,y,z = 13140,1618,5 room = livingroom
+reason = roomSpotted x,y,z = 13140,1616,5 room = livingroom
+reason = roomSpotted x,y,z = 13143,1616,5 room = livingroom
+reason = roomSpotted x,y,z = 13136,1618,5 room = livingroom
+reason = roomSpotted x,y,z = 13136,1619,5 room = livingroom
+reason = roomSpotted x,y,z = 13140,1619,5 room = livingroom
+reason = roomSpotted x,y,z = 13138,1625,5 room = livingroom
+reason = roomSpotted x,y,z = 13141,1618,5 room = livingroom.
+[28-11-22 01:28:07.327] reason = roomSpotted x,y,z = 13142,1616,5 room = livingroom
+reason = roomSpotted x,y,z = 13139,1618,5 room = livingroom
+reason = roomSpotted x,y,z = 13139,1620,5 room = livingroom
+reason = roomSpotted x,y,z = 13136,1617,5 room = livingroom
+reason = roomSpotted x,y,z = 13144,1617,5 room = livingroom
+reason = roomSpotted x,y,z = 13139,1621,5 room = livingroom
+reason = roomSpotted x,y,z = 13137,1616,5 room = livingroom
+reason = roomSpotted x,y,z = 13137,1619,5 room = livingroom
+reason = roomSpotted x,y,z = 13137,1618,5 room = livingroom
+reason = roomSpotted x,y,z = 13136,1620,5 room = livingroom
+reason = roomSpotted x,y,z = 13136,1623,5 room = livingroom
+reason = roomSpotted x,y,z = 13138,1621,5 room = livingroom
+reason = roomSpotted x,y,z = 13138,1616,5 room = livingroom
+reason = roomSpotted x,y,z = 13138,1617,5 room = livingroom
+reason = roomSpotted x,y,z = 13145,1617,5 room = livingroom
+reason = roomSpotted x,y,z = 13140,1627,1 room = livingroom
+reason = roomSpotted x,y,z = 13142,1624,1 room = livingroom.
+[28-11-22 01:28:07.329] reason = roomSpotted x,y,z = 13144,1628,1 room = livingroom
+reason = roomSpotted x,y,z = 13144,1625,1 room = livingroom
+reason = roomSpotted x,y,z = 13143,1627,1 room = livingroom
+reason = roomSpotted x,y,z = 13145,1628,1 room = livingroom
+reason = roomSpotted x,y,z = 13141,1622,1 room = livingroom
+reason = roomSpotted x,y,z = 13140,1624,1 room = livingroom
+reason = roomSpotted x,y,z = 13145,1625,1 room = livingroom
+reason = roomSpotted x,y,z = 13137,1632,1 room = livingroom
+reason = roomSpotted x,y,z = 13140,1623,2 room = livingroom
+reason = roomSpotted x,y,z = 13141,1624,2 room = livingroom
+reason = roomSpotted x,y,z = 13142,1628,2 room = livingroom
+reason = roomSpotted x,y,z = 13140,1622,2 room = livingroom
+reason = roomSpotted x,y,z = 13141,1628,2 room = livingroom
+reason = roomSpotted x,y,z = 13143,1631,2 room = livingroom
+reason = roomSpotted x,y,z = 13137,1627,2 room = hall
+reason = roomSpotted x,y,z = 13135,1627,2 room = hall
+reason = roomSpotted x,y,z = 13133,1627,2 room = hall
+reason = roomSpotted x,y,z = 13139,1627,2 room = hall.
+[28-11-22 01:28:07.332] reason = roomSpotted x,y,z = 13134,1627,2 room = hall
+reason = roomSpotted x,y,z = 13146,1627,3 room = livingroom
+reason = roomSpotted x,y,z = 13144,1628,3 room = livingroom
+reason = roomSpotted x,y,z = 13141,1624,3 room = livingroom
+reason = roomSpotted x,y,z = 13142,1625,3 room = livingroom
+reason = roomSpotted x,y,z = 13145,1626,3 room = livingroom
+reason = roomSpotted x,y,z = 13140,1622,3 room = livingroom
+reason = roomSpotted x,y,z = 13141,1632,3 room = livingroom
+reason = roomSpotted x,y,z = 13146,1627,4 room = livingroom
+reason = roomSpotted x,y,z = 13142,1622,4 room = livingroom
+reason = roomSpotted x,y,z = 13140,1626,4 room = livingroom
+reason = roomSpotted x,y,z = 13140,1622,4 room = livingroom
+reason = roomSpotted x,y,z = 13144,1628,4 room = livingroom
+reason = roomSpotted x,y,z = 13140,1628,4 room = livingroom
+reason = roomSpotted x,y,z = 13146,1625,4 room = livingroom
+reason = roomSpotted x,y,z = 13140,1624,4 room = livingroom
+reason = roomSpotted x,y,z = 13142,1630,4 room = livingroom.
+[28-11-22 01:28:07.334] reason = roomSpotted x,y,z = 13135,1626,4 room = hall
+reason = roomSpotted x,y,z = 13134,1628,4 room = hall
+reason = roomSpotted x,y,z = 13138,1629,4 room = hall
+reason = roomSpotted x,y,z = 13140,1627,5 room = livingroom
+reason = roomSpotted x,y,z = 13141,1622,5 room = livingroom
+reason = roomSpotted x,y,z = 13145,1625,5 room = livingroom
+reason = roomSpotted x,y,z = 13140,1622,5 room = livingroom
+reason = roomSpotted x,y,z = 13142,1629,5 room = livingroom
+reason = roomSpotted x,y,z = 13138,1627,5 room = hall
+reason = roomSpotted x,y,z = 13134,1629,5 room = hall
+reason = roomSpotted x,y,z = 13136,1628,5 room = hall
+reason = roomSpotted x,y,z = 13136,1629,5 room = hall
+reason = roomSpotted x,y,z = 13137,1626,5 room = hall
+reason = roomSpotted x,y,z = 13138,1615,1 room = kitchen
+reason = roomSpotted x,y,z = 13136,1614,1 room = kitchen
+reason = roomSpotted x,y,z = 13132,1611,1 room = elevator
+reason = roomSpotted x,y,z = 13145,1619,2 room = bathroom
+reason = roomSpotted x,y,z = 13135,1613,2 room = kitchen.
+[28-11-22 01:28:07.337] reason = roomSpotted x,y,z = 13145,1615,2 room = livingroom
+reason = roomSpotted x,y,z = 13146,1615,2 room = livingroom
+reason = roomSpotted x,y,z = 13145,1613,2 room = livingroom
+reason = roomSpotted x,y,z = 13133,1612,2 room = bedroom
+reason = roomSpotted x,y,z = 13131,1612,2 room = bedroom
+reason = roomSpotted x,y,z = 13131,1611,2 room = elevator
+reason = roomSpotted x,y,z = 13133,1612,3 room = bedroom
+reason = roomSpotted x,y,z = 13131,1615,3 room = bedroom
+reason = roomSpotted x,y,z = 13134,1612,3 room = bedroom
+reason = roomSpotted x,y,z = 13130,1614,3 room = bedroom
+reason = roomSpotted x,y,z = 13132,1612,3 room = bedroom
+reason = roomSpotted x,y,z = 13128,1624,4 room = kitchen
+reason = roomSpotted x,y,z = 13128,1623,4 room = kitchen
+reason = roomSpotted x,y,z = 13128,1625,4 room = kitchen
+reason = roomSpotted x,y,z = 13129,1613,4 room = livingroom
+reason = roomSpotted x,y,z = 13128,1612,4 room = livingroom
+reason = roomSpotted x,y,z = 13127,1614,4 room = livingroom
+reason = roomSpotted x,y,z = 13146,1614,4 room = livingroom.
+[28-11-22 01:41:25.595] reason = roomSpotted x,y,z = 13146,1612,4 room = livingroom
+reason = roomSpotted x,y,z = 13144,1611,4 room = livingroom
+reason = roomSpotted x,y,z = 13145,1615,4 room = livingroom
+reason = roomSpotted x,y,z = 13144,1615,4 room = livingroom
+reason = roomSpotted x,y,z = 13129,1614,5 room = livingroom
+reason = createEatingZombies x,y,z = 13037,1704,0 room = bathroom.

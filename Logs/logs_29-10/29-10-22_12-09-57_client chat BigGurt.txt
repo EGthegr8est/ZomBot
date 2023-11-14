@@ -1,0 +1,81 @@
+[29-10-22 12:09:57.811][info] Init chat system....
+[29-10-22 12:09:57.811][info] Mode: multiplayer.
+[29-10-22 12:09:57.811][info] Chat owner: BigGurt.
+[29-10-22 12:10:02.709][info] Got message from server: ChatMessage{chat=Server, author='Server', text='User BigGurt is now invisible.'}.
+[29-10-22 12:10:03.447][info] Got message from server: ChatMessage{chat=Server, author='Server', text='User BigGurt is now invincible.'}.
+[29-10-22 12:27:04.766][info] Got message from server: ChatMessage{chat=Server, author='Server', text='teleported SciFurr to BigGurt'}.
+[29-10-22 12:27:12.287][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='nah'}.
+[29-10-22 12:27:19.422][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='damn there's so much stuff on this bed lmao'}.
+[29-10-22 12:28:02.834][info] Got message from server: ChatMessage{chat=Server, author='Server', text='User BigGurt is no more invisible.'}.
+[29-10-22 12:28:03.508][info] Got message from server: ChatMessage{chat=Server, author='Server', text='User BigGurt is no more invincible.'}.
+[29-10-22 12:28:09.339][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='oh there you are'}.
+[29-10-22 12:29:11.644][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='got a can opener'}.
+[29-10-22 12:32:29.120][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='I like to collect pots'}.
+[29-10-22 12:35:20.613][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='gettin bling'}.
+[29-10-22 12:36:44.722][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='a flashlight, hammer, and two saws'}.
+[29-10-22 12:39:28.769][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='are there boats?'}.
+[29-10-22 12:39:35.097][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='darn lmao'}.
+[29-10-22 12:40:51.066][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='lmfao'}.
+[29-10-22 12:41:05.939][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='sweet, a map and digital watch'}.
+[29-10-22 12:41:21.128][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='I'll leave you to it'}.
+[29-10-22 12:43:14.526][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='oh shit they got boxesss'}.
+[29-10-22 12:44:09.581][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='Newton Geiger'}.
+[29-10-22 12:44:31.820][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='lmfao'}.
+[29-10-22 12:44:37.016][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='wait mine or the character?'}.
+[29-10-22 12:48:10.773][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='I could take some'}.
+[29-10-22 12:49:23.503][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='wait was it this one or the next one?'}.
+[29-10-22 12:51:57.322][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='we gots us a tire pump'}.
+[29-10-22 12:52:26.066][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='I got a battery'}.
+[29-10-22 12:52:59.059][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='oh okay'}.
+[29-10-22 12:53:15.084][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='where should I put materials like paperclips and twine?'}.
+[29-10-22 12:54:20.002][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='one of the zeds had it'}.
+[29-10-22 12:54:40.153][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='I can go check out the other house'}.
+[29-10-22 12:55:28.364][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='I'm just imagining brodyquest playing lmao'}.
+[29-10-22 12:55:44.536][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='you ever just find yourself thinking "why does my brain work this way"?'}.
+[29-10-22 12:56:51.766][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='lets wait'}.
+[29-10-22 12:56:53.956][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='let them break it first'}.
+[29-10-22 12:59:04.076][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='oh shiiit, another flash'}.
+[29-10-22 12:59:21.998][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='holy fuck that actually jumpscared me'}.
+[29-10-22 12:59:38.068][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='gonna grab that keytar'}.
+[29-10-22 12:59:53.994][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='aw, we cant play em?'}.
+[29-10-22 13:00:08.705][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='damn, thought it might be a way to counteract boredom lmao'}.
+[29-10-22 13:00:35.208][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='you sure?'}.
+[29-10-22 13:02:04.908][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='got some bling for you ;)'}.
+[29-10-22 13:02:22.301][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='just coz it's the apocalypse doesn't mean we can''}.
+[29-10-22 13:02:25.673][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='can't look fab'}.
+[29-10-22 13:02:59.105][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='is sink water unsafe?'}.
+[29-10-22 13:03:42.786][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='I can relate lmao'}.
+[29-10-22 13:03:57.156][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='yap'}.
+[29-10-22 13:05:36.250][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='opened up some pineapple'}.
+[29-10-22 13:06:07.796][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='lmao damn'}.
+[29-10-22 13:06:12.490][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='that does sound pretty good tho'}.
+[29-10-22 13:06:39.203][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='lately been snacking on crackers with cheese spread and crab rangoon dip'}.
+[29-10-22 13:07:52.643][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='can we drink out of sinks?'}.
+[29-10-22 13:09:00.150][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='oh lawdie'}.
+[29-10-22 13:09:33.487][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='does zomboid have lore?'}.
+[29-10-22 13:10:33.000][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='"the world ending and whatnot" lmaao'}.
+[29-10-22 13:10:41.343][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='that sounds like a monty python film title'}.
+[29-10-22 13:11:17.451][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='shit I'm hungry again'}.
+[29-10-22 13:12:36.495][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='daaaamn'}.
+[29-10-22 13:13:21.189][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='huh, suppose that's a good use for it'}.
+[29-10-22 13:21:57.819][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='oh shoot, is it foggy?'}.
+[29-10-22 13:23:36.196][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='ate some tuna'}.
+[29-10-22 13:23:50.769][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='loves me some feesh'}.
+[29-10-22 13:24:31.682][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='lmao'}.
+[29-10-22 13:24:44.339][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='you ever had oat pancakes?'}.
+[29-10-22 13:24:53.968][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='strange flavor'}.
+[29-10-22 13:25:14.528][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='noice'}.
+[29-10-22 13:25:21.394][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='think I had coffee pancakes once or twice'}.
+[29-10-22 13:26:34.555][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='oh nice'}.
+[29-10-22 13:28:23.300][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='nabbed another leather jacket and a polo sweater'}.
+[29-10-22 13:29:07.823][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='damn, it does look pristine af'}.
+[29-10-22 13:29:27.596][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='nothing below 60%'}.
+[29-10-22 13:30:56.011][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='about 50% total'}.
+[29-10-22 13:31:27.713][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='big oof'}.
+[29-10-22 13:32:11.896][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='this one's got a tiny bit of juice'}.
+[29-10-22 13:35:24.799][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='try this one?'}.
+[29-10-22 13:39:31.919][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='bro'}.
+[29-10-22 13:39:35.790][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='I want that hat'}.
+[29-10-22 13:39:50.777][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='omg another one lmao'}.
+[29-10-22 13:42:45.764][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='heyyy'}.
+[29-10-22 13:42:47.778][info] Got message from server: ChatMessage{chat=Local, author='SciFurr', text='checkit'}.

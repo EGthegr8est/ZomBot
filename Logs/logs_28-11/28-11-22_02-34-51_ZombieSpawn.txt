@@ -1,0 +1,4 @@
+[28-11-22 03:39:26.871] reason = roomSpotted x,y,z = 11616,8252,0 room = clothingstorage
+reason = RVSUtilityVehicle x,y,z = 11643,8405,0
+reason = RVSUtilityVehicle x,y,z = 11643,8402,0
+reason = roomSpotted x,y,z = 11689,8377,0 room = garage_storage.

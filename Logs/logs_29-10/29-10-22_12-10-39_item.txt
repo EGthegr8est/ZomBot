@@ -1,0 +1,413 @@
+[29-10-22 12:10:39.815] 76561198042240682 "BigGurt" container +0 12084,2174,0 [Base.Bag_Schoolbag].
+[29-10-22 12:10:54.806] 76561198042240682 "BigGurt" container -1 12082,2174,0 [Base.PopBottle].
+[29-10-22 12:10:57.812] 76561198042240682 "BigGurt" container -1 12082,2174,0 [Base.Margarine].
+[29-10-22 12:11:00.814] 76561198042240682 "BigGurt" container -2 12083,2174,0 [Base.TinOpener, Base.TunaTin].
+[29-10-22 12:11:03.819] 76561198042240682 "BigGurt" container -3 12083,2174,0 [Base.CannedChili, Base.TinnedSoup, Base.TinnedBeans].
+[29-10-22 12:11:09.805] 76561198042240682 "BigGurt" container -1 12084,2174,0 [Base.KitchenKnife].
+[29-10-22 12:11:15.818] 76561198042240682 "BigGurt" container -1 12085,2174,0 [Base.Saucepan].
+[29-10-22 12:11:18.812] 76561198042240682 "BigGurt" container -1 12086,2174,0 [Base.Pop3].
+[29-10-22 12:11:42.816] 76561198042240682 "BigGurt" container -1 12086,2172,0 [Base.BookFarming1].
+[29-10-22 12:12:51.809] 76561198042240682 "BigGurt" container -2 12086,2172,0 [Base.Notebook, Base.RedPen].
+[29-10-22 12:13:12.817] 76561198042240682 "BigGurt" container -1 12085,2167,0 [Base.Revolver].
+[29-10-22 12:13:18.805] 76561198042240682 "BigGurt" container -1 12085,2167,0 [Radio.CDplayer].
+[29-10-22 12:13:33.810] 76561198042240682 "BigGurt" container -2 12090,2174,0 [Base.HandTorch, Base.Gloves_WhiteTINT].
+[29-10-22 12:13:36.807] 76561198042240682 "BigGurt" container -1 12090,2174,0 [Base.FirstAidKit].
+[29-10-22 12:13:54.813] 76561198042240682 "BigGurt" container -2 12089,2174,0 [Base.Bandaid, Base.Tweezers].
+[29-10-22 12:15:33.821] 76561198042240682 "BigGurt" container -1 12082,2190,0 [Base.Headphones].
+[29-10-22 12:15:48.807] 76561198042240682 "BigGurt" container -1 12082,2183,0 [Base.BeerCan].
+[29-10-22 12:15:57.821] 76561198042240682 "BigGurt" container -1 12083,2183,0 [Base.MeatCleaver].
+[29-10-22 12:16:06.818] 76561198042240682 "BigGurt" container -1 12085,2183,0 [Base.CannedCorn].
+[29-10-22 12:16:09.817] 76561198042240682 "BigGurt" container +0 12085,2183,0 [Base.Headphones].
+[29-10-22 12:16:12.821] 76561198042240682 "BigGurt" container -1 12085,2183,0 [Base.Headphones].
+[29-10-22 12:16:24.816] 76561198042240682 "BigGurt" container -1 12085,2183,0 [Base.CannedPeaches].
+[29-10-22 12:16:39.815] 76561198042240682 "BigGurt" container -1 12085,2183,0 [Base.CannedPineapple].
+[29-10-22 12:16:39.815] 76561198042240682 "BigGurt" container +0 12085,2183,0 [Base.Notebook].
+[29-10-22 12:17:06.645] 76561198042240682 "BigGurt" container -1 12092,2190,0 [Base.CookingMag2].
+[29-10-22 12:17:48.817] 76561198042240682 "BigGurt" container -1 12087,2148,0 [Base.Bandaid].
+[29-10-22 12:18:09.814] 76561198042240682 "BigGurt" container -1 12089,2154,0 [Base.CannedCornedBeef].
+[29-10-22 12:18:18.022] 76561198042240682 "BigGurt" container -1 12091,2153,0 [Base.Cereal].
+[29-10-22 12:18:21.812] 76561198042240682 "BigGurt" container -1 12089,2154,0 [Base.CannedBolognese].
+[29-10-22 12:18:42.018] 76561198041779008 "SciFurr" container -1 12307,3065,0 [Base.WaterBottleFull].
+[29-10-22 12:18:45.016] 76561198041779008 "SciFurr" container -1 12307,3065,0 [Base.Pop2].
+[29-10-22 12:18:48.020] 76561198041779008 "SciFurr" container -3 12306,3065,0 [Base.TinOpener, Base.CannedPeaches, Base.CannedFruitCocktail].
+[29-10-22 12:19:03.084] 76561198041779008 "SciFurr" container -1 12304,3065,0 [Base.GlassTumbler].
+[29-10-22 12:19:06.018] 76561198041779008 "SciFurr" container -1 12304,3063,0 [Base.RoastingPan].
+[29-10-22 12:19:09.029] 76561198041779008 "SciFurr" container -1 12304,3063,0 [Base.Saucepan].
+[29-10-22 12:19:12.027] 76561198041779008 "SciFurr" container -1 12304,3063,0 [Base.Pot].
+[29-10-22 12:20:11.042] 76561198042240682 "BigGurt" floor +1 12024,2165,1 [Radio.CDplayer].
+[29-10-22 12:20:16.607] 76561198042240682 "BigGurt" floor +1 12024,2165,1 [Base.Saucepan].
+[29-10-22 12:20:24.030] 76561198042240682 "BigGurt" floor +1 12024,2165,1 [Base.Headphones].
+[29-10-22 12:20:29.141] 76561198042240682 "BigGurt" floor +1 12024,2165,1 [Base.Gloves_WhiteTINT].
+[29-10-22 12:20:56.694] 76561198042240682 "BigGurt" floor +1 12024,2165,1 [Base.Revolver].
+[29-10-22 12:21:01.286] 76561198042240682 "BigGurt" floor +1 12024,2165,1 [Base.Margarine].
+[29-10-22 12:21:08.428] 76561198042240682 "BigGurt" floor +1 12024,2165,1 [Base.Pop3].
+[29-10-22 12:21:15.270] 76561198042240682 "BigGurt" floor +1 12023,2165,1 [Base.BeerCan].
+[29-10-22 12:21:20.442] 76561198042240682 "BigGurt" floor +1 12023,2165,1 [Base.Cereal].
+[29-10-22 12:21:30.041] 76561198042240682 "BigGurt" floor +1 12023,2165,1 [Base.MeatCleaver].
+[29-10-22 12:21:43.483] 76561198042240682 "BigGurt" floor +1 12023,2165,1 [Base.Crisps].
+[29-10-22 12:21:50.795] 76561198042240682 "BigGurt" floor -1 12023,2165,1 [Base.Cereal].
+[29-10-22 12:21:50.824] 76561198042240682 "BigGurt" floor +1 12023,2165,1 [Base.Cereal].
+[29-10-22 12:21:56.446] 76561198042240682 "BigGurt" floor +1 12023,2165,1 [Base.TunaTin].
+[29-10-22 12:22:03.170] 76561198042240682 "BigGurt" floor +1 12023,2165,1 [Base.CannedCornedBeef].
+[29-10-22 12:22:10.598] 76561198042240682 "BigGurt" floor +1 12023,2165,1 [Base.PopBottle].
+[29-10-22 12:22:20.086] 76561198042240682 "BigGurt" floor +1 12023,2166,1 [Base.CookingMag2].
+[29-10-22 12:22:35.080] 76561198042240682 "BigGurt" floor +1 12023,2166,1 [Base.BookFarming1].
+[29-10-22 12:23:03.818] 76561198042240682 "BigGurt" container -1 12023,2162,1 [Base.Jumper_PoloNeck].
+[29-10-22 12:23:09.817] 76561198042240682 "BigGurt" container -1 12023,2162,1 [Base.Socks_Ankle].
+[29-10-22 12:23:12.809] 76561198042240682 "BigGurt" container -1 12023,2162,1 [Base.Shirt_FormalWhite_ShortSleeveTINT].
+[29-10-22 12:23:27.810] 76561198042240682 "BigGurt" container -1 12028,2167,1 [Base.Toolbox].
+[29-10-22 12:23:27.971] 76561198042240682 "BigGurt" floor +1 12025,2166,1 [Base.Toolbox].
+[29-10-22 12:23:33.818] 76561198042240682 "BigGurt" container -1 12028,2167,1 [Base.Shoes_Random].
+[29-10-22 12:23:36.373] 76561198042240682 "BigGurt" floor +1 12025,2166,1 [Base.Shoes_Random].
+[29-10-22 12:23:54.138] 76561198042240682 "BigGurt" container -2 12029,2154,1 [Base.Jacket_Shellsuit_Black, Base.Trousers_DefaultTEXTURE].
+[29-10-22 12:23:57.816] 76561198042240682 "BigGurt" container -1 12030,2154,1 [Base.Underpants_White].
+[29-10-22 12:24:00.814] 76561198042240682 "BigGurt" container -1 12030,2154,1 [Base.BoobTube].
+[29-10-22 12:24:36.824] 76561198042240682 "BigGurt" container -1 12029,2166,1 [Base.Disc_Retail].
+[29-10-22 12:24:38.173] 76561198041779008 "SciFurr" container -1 12371,3030,0 [Base.MagazineCrossword1].
+[29-10-22 12:24:39.817] 76561198042240682 "BigGurt" container -3 12029,2166,1 [Base.Boxers_Silk_Red, Base.Socks_Ankle].
+[29-10-22 12:24:48.816] 76561198042240682 "BigGurt" container -2 12033,2157,1 [Base.Gloves_LeatherGlovesBlack, Base.Hammer].
+[29-10-22 12:24:51.820] 76561198042240682 "BigGurt" container -1 12032,2157,1 [Base.Shoes_BlackBoots].
+[29-10-22 12:24:54.814] 76561198042240682 "BigGurt" container -2 12032,2157,1 [Base.Bag_FannyPackFront, Base.FirstAidKit].
+[29-10-22 12:24:57.814] 76561198042240682 "BigGurt" container -2 12032,2157,1 [Base.Hammer].
+[29-10-22 12:25:00.399] 76561198042240682 "BigGurt" container -2 12032,2157,1 [Base.Jacket_WhiteTINT, Base.Screwdriver].
+[29-10-22 12:25:06.813] 76561198042240682 "BigGurt" container -1 12028,2163,1 [Base.ToiletPaper].
+[29-10-22 12:25:09.814] 76561198042240682 "BigGurt" container -3 12028,2164,1 [Base.Soap2, Base.Sheet, Base.Pills].
+[29-10-22 12:25:12.810] 76561198042240682 "BigGurt" container -2 12028,2164,1 [Base.ToiletPaper, Base.Tweezers].
+[29-10-22 12:25:53.802] 76561198042240682 "BigGurt" floor +1 12025,2166,1 [Base.Shoes_BlackBoots].
+[29-10-22 12:26:03.878] 76561198042240682 "BigGurt" floor +1 12024,2166,1 [Base.Hammer].
+[29-10-22 12:26:05.981] 76561198042240682 "BigGurt" floor +1 12024,2166,1 [Base.Hammer].
+[29-10-22 12:26:15.808] 76561198042240682 "BigGurt" container +0 12025,2166,1 [Base.Hammer, Base.Trousers_DefaultTEXTURE].
+[29-10-22 12:26:18.810] 76561198042240682 "BigGurt" container +0 12025,2166,1 [Base.Jacket_Shellsuit_Black].
+[29-10-22 12:26:21.820] 76561198042240682 "BigGurt" container +0 12025,2166,1 [Base.Underpants_White, Base.Socks_Ankle].
+[29-10-22 12:26:24.809] 76561198042240682 "BigGurt" container +0 12025,2166,1 [Base.Gloves_LeatherGlovesBlack].
+[29-10-22 12:26:30.817] 76561198042240682 "BigGurt" container +0 12025,2166,1 [Base.Jacket_WhiteTINT].
+[29-10-22 12:26:44.138] 76561198042240682 "BigGurt" floor +1 12023,2164,1 [Base.FirstAidKit].
+[29-10-22 12:26:51.815] 76561198042240682 "BigGurt" container +0 12025,2166,1 [Base.ToiletPaper].
+[29-10-22 12:26:55.108] 76561198042240682 "BigGurt" floor +1 12024,2166,1 [Base.ToiletPaper].
+[29-10-22 12:26:55.715] 76561198042240682 "BigGurt" floor +1 12024,2166,1 [Base.ToiletPaper].
+[29-10-22 12:26:57.817] 76561198042240682 "BigGurt" container -2 12025,2166,1 [Base.ToiletPaper].
+[29-10-22 12:27:30.782] 76561198042240682 "BigGurt" floor +1 12024,2165,1 [Base.Disc_Retail].
+[29-10-22 12:27:34.989] 76561198042240682 "BigGurt" floor +1 12024,2166,1 [Base.Soap2].
+[29-10-22 12:28:46.428] 76561198041779008 "SciFurr" floor +1 12024,2164,1 [Base.CannedPeaches].
+[29-10-22 12:28:55.897] 76561198041779008 "SciFurr" floor +1 12024,2163,1 [Base.CannedFruitCocktail].
+[29-10-22 12:28:59.443] 76561198041779008 "SciFurr" floor +1 12024,2163,1 [Base.Crisps].
+[29-10-22 12:29:20.375] 76561198042240682 "BigGurt" floor +1 12026,2164,1 [Base.TinOpener].
+[29-10-22 12:29:25.395] 76561198041779008 "SciFurr" floor +1 12026,2163,1 [Base.TinOpener].
+[29-10-22 12:29:39.683] 76561198041779008 "SciFurr" floor +1 12025,2163,1 [Base.WaterBottleFull].
+[29-10-22 12:29:39.739] 76561198041779008 "SciFurr" floor +1 12025,2163,1 [Base.WaterBottleFull].
+[29-10-22 12:29:44.302] 76561198041779008 "SciFurr" floor +1 12025,2163,1 [Base.Pop2].
+[29-10-22 12:29:49.093] 76561198042240682 "BigGurt" floor +1 12023,2164,1 [Base.CannedBolognese].
+[29-10-22 12:29:52.700] 76561198042240682 "BigGurt" floor +1 12023,2164,1 [Base.CannedPineapple].
+[29-10-22 12:29:56.211] 76561198042240682 "BigGurt" floor +1 12023,2164,1 [Base.CannedPeaches].
+[29-10-22 12:30:03.144] 76561198042240682 "BigGurt" floor +1 12023,2164,1 [Base.TinnedSoup].
+[29-10-22 12:30:20.163] 76561198041779008 "SciFurr" container -2 12025,2166,1 [Base.Jacket_WhiteTINT, Base.Gloves_LeatherGlovesBlack].
+[29-10-22 12:30:26.887] 76561198042240682 "BigGurt" floor +1 12024,2163,1 [Base.Bag_Satchel].
+[29-10-22 12:30:27.803] 76561198042240682 "BigGurt" container -1 12023,2162,1 [Base.Bag_Satchel].
+[29-10-22 12:30:29.082] 76561198041779008 "SciFurr" floor -1 12025,2166,1 [Base.Shoes_BlackBoots].
+[29-10-22 12:30:39.794] 76561198041779008 "SciFurr" floor -1 12024,2163,1 [Base.Bag_Satchel].
+[29-10-22 12:31:17.196] 76561198041779008 "SciFurr" container +0 12025,2166,1 [Base.Hammer].
+[29-10-22 12:31:17.909] 76561198041779008 "SciFurr" floor +1 12026,2165,1 [Base.Bag_Schoolbag].
+[29-10-22 12:31:34.044] 76561198042240682 "BigGurt" floor -1 12025,2163,1 [Base.Pop2].
+[29-10-22 12:31:34.062] 76561198042240682 "BigGurt" floor +1 12023,2164,1 [Base.Pop2].
+[29-10-22 12:31:35.165] 76561198041779008 "SciFurr" container -1 12025,2166,1 [Base.Socks_Ankle].
+[29-10-22 12:31:39.336] 76561198042240682 "BigGurt" floor -1 12024,2164,1 [Base.CannedPeaches].
+[29-10-22 12:31:39.414] 76561198042240682 "BigGurt" floor +1 12023,2164,1 [Base.CannedPeaches].
+[29-10-22 12:31:43.671] 76561198042240682 "BigGurt" floor -1 12024,2163,1 [Base.CannedFruitCocktail].
+[29-10-22 12:31:45.161] 76561198042240682 "BigGurt" floor +1 12023,2165,1 [Base.CannedFruitCocktail].
+[29-10-22 12:31:47.158] 76561198041779008 "SciFurr" container +0 12025,2166,1 [Base.Socks_Ankle].
+[29-10-22 12:31:50.201] 76561198042240682 "BigGurt" floor -1 12024,2163,1 [Base.Crisps].
+[29-10-22 12:31:53.261] 76561198041779008 "SciFurr" container +0 12025,2166,1 [Base.Shoes_TrainerTINT].
+[29-10-22 12:31:53.846] 76561198042240682 "BigGurt" floor +1 12023,2166,1 [Base.Crisps].
+[29-10-22 12:31:54.956] 76561198041779008 "SciFurr" floor +1 12025,2164,1 [Base.GlassTumbler].
+[29-10-22 12:31:57.340] 76561198041779008 "SciFurr" floor +1 12025,2164,1 [Base.Saucepan].
+[29-10-22 12:31:59.387] 76561198041779008 "SciFurr" floor +1 12025,2164,1 [Base.RoastingPan].
+[29-10-22 12:32:00.408] 76561198041779008 "SciFurr" floor +1 12025,2164,1 [Base.Pot].
+[29-10-22 12:32:06.489] 76561198042240682 "BigGurt" floor -1 12025,2163,1 [Base.WaterBottleFull].
+[29-10-22 12:32:07.344] 76561198042240682 "BigGurt" floor -1 12025,2163,1 [Base.WaterBottleFull].
+[29-10-22 12:32:08.758] 76561198042240682 "BigGurt" floor +1 12023,2165,1 [Base.WaterBottleFull].
+[29-10-22 12:32:08.869] 76561198042240682 "BigGurt" floor +1 12023,2165,1 [Base.WaterBottleFull].
+[29-10-22 12:32:17.173] 76561198041779008 "SciFurr" container +0 12023,2164,1 [Base.MagazineCrossword1].
+[29-10-22 12:32:24.313] 76561198042240682 "BigGurt" floor -1 12026,2163,1 [Base.TinOpener].
+[29-10-22 12:34:30.807] 76561198042240682 "BigGurt" container -1 12002,2143,0 [Base.Socks_Long].
+[29-10-22 12:34:32.156] 76561198041779008 "SciFurr" container -1 12002,2143,0 [Base.NoseStud_Gold].
+[29-10-22 12:35:09.809] 76561198042240682 "BigGurt" container -1 12010,2132,0 [Base.WristWatch_Left_ClassicBlack].
+[29-10-22 12:35:14.157] 76561198041779008 "SciFurr" container -1 12010,2132,0 [Base.Necklace_Silver].
+[29-10-22 12:35:26.008] 76561198042240682 "BigGurt" floor +1 12024,2131,0 [Base.Hat_BaseballCapKY].
+[29-10-22 12:35:38.168] 76561198041779008 "SciFurr" container -1 12024,2131,0 [Base.Bracelet_BangleRightSilver].
+[29-10-22 12:36:37.491] 76561198042240682 "BigGurt" floor +1 12035,2116,1 [Base.Toolbox].
+[29-10-22 12:36:38.157] 76561198041779008 "SciFurr" container -2 12032,2119,1 [Base.Saw].
+[29-10-22 12:36:39.815] 76561198042240682 "BigGurt" container -1 12035,2115,1 [Base.Toolbox].
+[29-10-22 12:36:41.156] 76561198041779008 "SciFurr" container -2 12032,2119,1 [Base.HandTorch, Base.Hammer].
+[29-10-22 12:36:42.823] 76561198042240682 "BigGurt" container -2 12035,2116,1 [Base.GardenSaw, Base.NailsBox].
+[29-10-22 12:37:09.818] 76561198042240682 "BigGurt" container -1 12024,2111,0 [Base.Scotchtape].
+[29-10-22 12:37:21.807] 76561198042240682 "BigGurt" container -20 12027,2111,0 [Base.Cigarettes].
+[29-10-22 12:37:35.152] 76561198041779008 "SciFurr" container -2 12024,2110,0 [Base.Paperclip].
+[29-10-22 12:37:36.816] 76561198042240682 "BigGurt" container -1 12035,2111,0 [Base.CannedSardines].
+[29-10-22 12:37:39.810] 76561198042240682 "BigGurt" container -1 12035,2113,0 [Base.Coffee2].
+[29-10-22 12:37:45.814] 76561198042240682 "BigGurt" container -3 12035,2111,0 [Base.CannedPotato2, Base.CannedPeas, Base.CannedPeaches].
+[29-10-22 12:37:48.807] 76561198042240682 "BigGurt" container -1 12035,2111,0 [Base.CannedPineapple].
+[29-10-22 12:38:19.751] 76561198042240682 "BigGurt" floor +1 12005,2103,0 [Base.Hat_BaseballCapKY].
+[29-10-22 12:38:22.958] 76561198042240682 "BigGurt" floor +1 12005,2104,0 [Base.Glasses_Reading].
+[29-10-22 12:38:23.231] 76561198041779008 "SciFurr" floor +1 12005,2104,0 [Base.Hat_BaseballCapKY].
+[29-10-22 12:38:23.232] 76561198041779008 "SciFurr" floor +1 12005,2103,0 [Base.Glasses_Reading].
+[29-10-22 12:38:31.587] 76561198041779008 "SciFurr" floor -1 12005,2103,0 [Base.Glasses_Reading].
+[29-10-22 12:38:37.099] 76561198041779008 "SciFurr" floor -1 12005,2103,0 [Base.Hat_BaseballCapKY].
+[29-10-22 12:38:48.809] 76561198042240682 "BigGurt" container -1 12000,2100,0 [Base.Necklace_Crucifix].
+[29-10-22 12:38:53.153] 76561198041779008 "SciFurr" container -1 12000,2100,0 [Base.Earring_LoopLrg_Silver].
+[29-10-22 12:38:54.197] 76561198042240682 "BigGurt" container -1 12001,2100,0 [Base.Scissors].
+[29-10-22 12:38:59.236] 76561198041779008 "SciFurr" container -1 12000,2100,0 [Base.WristWatch_Left_ClassicBrown].
+[29-10-22 12:39:05.162] 76561198041779008 "SciFurr" container -1 12001,2100,0 [Base.Ring_Left_RingFinger_Gold].
+[29-10-22 12:39:15.809] 76561198042240682 "BigGurt" container -1 12009,2100,0 [Base.Hat_RidingHelmet].
+[29-10-22 12:40:25.717] 76561198042240682 "BigGurt" floor +1 12013,2045,0 [Base.Glasses].
+[29-10-22 12:40:36.808] 76561198042240682 "BigGurt" container -1 12011,2044,0 [Base.WhiskeyFull].
+[29-10-22 12:40:39.814] 76561198042240682 "BigGurt" container -1 12011,2043,0 [Base.BeerBottle].
+[29-10-22 12:40:40.135] 76561198041779008 "SciFurr" floor +1 12023,2040,0 [Base.Hat_BandanaTINT].
+[29-10-22 12:40:51.806] 76561198042240682 "BigGurt" container -1 12021,2041,0 [Base.WaterBottleEmpty].
+[29-10-22 12:40:56.179] 76561198041779008 "SciFurr" container -1 12022,2040,0 [Base.Hat_CrashHelmetFULL].
+[29-10-22 12:41:02.150] 76561198041779008 "SciFurr" container -1 12022,2039,0 [Base.LouisvilleMap1].
+[29-10-22 12:41:11.144] 76561198041779008 "SciFurr" container -1 12022,2039,0 [Base.WristWatch_Left_DigitalRed].
+[29-10-22 12:41:33.505] 76561198042240682 "BigGurt" container +0 12022,2039,0 [Base.BeerEmpty].
+[29-10-22 12:41:42.818] 76561198042240682 "BigGurt" container -1 12013,2039,0 [Base.WhiskeyFull].
+[29-10-22 12:41:57.810] 76561198042240682 "BigGurt" container -1 12011,2042,0 [Base.Wine2].
+[29-10-22 12:42:10.720] 76561198042240682 "BigGurt" floor +1 12013,2038,0 [Base.WineEmpty2].
+[29-10-22 12:42:16.766] 76561198042240682 "BigGurt" floor -1 12013,2038,0 [Base.WineEmpty2].
+[29-10-22 12:42:18.810] 76561198042240682 "BigGurt" container +0 12013,2039,0 [Base.WineEmpty2].
+[29-10-22 12:42:21.809] 76561198042240682 "BigGurt" container -1 12011,2039,0 [Base.WhiskeyFull].
+[29-10-22 12:42:30.811] 76561198042240682 "BigGurt" container -1 12013,2039,0 [Base.Wine].
+[29-10-22 12:42:32.159] 76561198041779008 "SciFurr" container -1 12026,2044,0 [Base.Battery].
+[29-10-22 12:42:38.167] 76561198041779008 "SciFurr" container -2 12028,2044,0 [Base.Paperclip].
+[29-10-22 12:42:48.656] 76561198042240682 "BigGurt" floor +1 12025,2044,0 [Base.WineEmpty].
+[29-10-22 12:42:56.180] 76561198041779008 "SciFurr" container -1 12031,2044,0 [Base.Paperclip].
+[29-10-22 12:43:20.155] 76561198041779008 "SciFurr" container -3 12036,2032,0 [Base.trashcontainers_01_24].
+[29-10-22 12:43:21.816] 76561198042240682 "BigGurt" container -1 12036,2033,0 [Base.Twine].
+[29-10-22 12:43:23.146] 76561198041779008 "SciFurr" container -2 12036,2032,0 [Base.trashcontainers_01_24].
+[29-10-22 12:43:29.068] 76561198042240682 "BigGurt" floor +1 12035,2033,0 [Base.WhiskeyFull].
+[29-10-22 12:43:40.938] 76561198042240682 "BigGurt" floor -1 12035,2033,0 [Base.WhiskeyFull].
+[29-10-22 12:43:41.146] 76561198041779008 "SciFurr" container +0 12036,2035,0 [Base.trashcontainers_01_24].
+[29-10-22 12:43:44.143] 76561198041779008 "SciFurr" container +0 12036,2035,0 [Base.trashcontainers_01_24].
+[29-10-22 12:43:47.152] 76561198041779008 "SciFurr" container +0 12036,2035,0 [Base.trashcontainers_01_24].
+[29-10-22 12:44:08.625] 76561198042240682 "BigGurt" floor +1 12033,2036,0 [Base.Plank].
+[29-10-22 12:44:08.626] 76561198042240682 "BigGurt" floor +1 12033,2036,0 [Base.Nails].
+[29-10-22 12:44:08.627] 76561198042240682 "BigGurt" floor +1 12033,2036,0 [Base.Nails].
+[29-10-22 12:44:23.235] 76561198041779008 "SciFurr" floor +1 12031,2037,0 [Base.Plank].
+[29-10-22 12:44:23.235] 76561198041779008 "SciFurr" floor +1 12031,2037,0 [Base.Nails].
+[29-10-22 12:44:31.139] 76561198042240682 "BigGurt" floor +1 12033,2035,0 [Base.Plank].
+[29-10-22 12:44:31.139] 76561198042240682 "BigGurt" floor +1 12033,2035,0 [Base.Nails].
+[29-10-22 12:44:47.868] 76561198041779008 "SciFurr" floor +1 12031,2036,0 [Base.UnusableWood].
+[29-10-22 12:44:52.483] 76561198042240682 "BigGurt" floor +1 12033,2037,0 [Base.Nails].
+[29-10-22 12:44:52.484] 76561198042240682 "BigGurt" floor +1 12033,2037,0 [Base.Nails].
+[29-10-22 12:44:52.485] 76561198042240682 "BigGurt" floor +1 12033,2037,0 [Base.Nails].
+[29-10-22 12:44:52.485] 76561198042240682 "BigGurt" floor +1 12033,2037,0 [Base.UnusableWood].
+[29-10-22 12:44:52.486] 76561198042240682 "BigGurt" floor +1 12033,2037,0 [Base.UnusableWood].
+[29-10-22 12:44:52.500] 76561198042240682 "BigGurt" floor -1 12033,2036,0 [Base.Nails].
+[29-10-22 12:44:52.500] 76561198042240682 "BigGurt" floor -1 12033,2035,0 [Base.Nails].
+[29-10-22 12:44:52.500] 76561198042240682 "BigGurt" floor -1 12033,2036,0 [Base.Nails].
+[29-10-22 12:45:07.957] 76561198042240682 "BigGurt" floor +1 12032,2036,0 [Base.Nails].
+[29-10-22 12:45:07.957] 76561198042240682 "BigGurt" floor +1 12032,2036,0 [Base.Nails].
+[29-10-22 12:45:07.958] 76561198042240682 "BigGurt" floor +1 12032,2036,0 [Base.Plank].
+[29-10-22 12:45:07.959] 76561198042240682 "BigGurt" floor +1 12032,2037,0 [Base.Plank].
+[29-10-22 12:45:11.578] 76561198041779008 "SciFurr" floor +1 12031,2035,0 [Base.UnusableWood].
+[29-10-22 12:45:11.578] 76561198041779008 "SciFurr" floor +1 12031,2035,0 [Base.UnusableWood].
+[29-10-22 12:45:11.883] 76561198042240682 "BigGurt" floor -1 12032,2036,0 [Base.Nails].
+[29-10-22 12:45:11.883] 76561198042240682 "BigGurt" floor -1 12032,2036,0 [Base.Nails].
+[29-10-22 12:45:11.883] 76561198042240682 "BigGurt" floor -1 12031,2037,0 [Base.Nails].
+[29-10-22 12:45:11.883] 76561198042240682 "BigGurt" floor -1 12033,2037,0 [Base.Nails].
+[29-10-22 12:45:11.883] 76561198042240682 "BigGurt" floor -1 12033,2037,0 [Base.Nails].
+[29-10-22 12:45:11.884] 76561198042240682 "BigGurt" floor -1 12033,2037,0 [Base.Nails].
+[29-10-22 12:45:17.960] 76561198042240682 "BigGurt" floor -1 12032,2036,0 [Base.Plank].
+[29-10-22 12:45:21.091] 76561198042240682 "BigGurt" floor -1 12033,2036,0 [Base.Plank].
+[29-10-22 12:45:24.216] 76561198042240682 "BigGurt" floor -1 12031,2037,0 [Base.Plank].
+[29-10-22 12:45:27.356] 76561198042240682 "BigGurt" floor -1 12032,2037,0 [Base.Plank].
+[29-10-22 12:45:32.385] 76561198042240682 "BigGurt" floor -1 12033,2035,0 [Base.Plank].
+[29-10-22 12:45:45.892] 76561198041779008 "SciFurr" floor +1 12031,2034,0 [Base.UnusableWood].
+[29-10-22 12:46:06.808] 76561198042240682 "BigGurt" container -1 12028,2044,0 [Base.Scotchtape].
+[29-10-22 12:46:48.815] 76561198042240682 "BigGurt" container -1 12015,2061,0 [Base.Plasticbag].
+[29-10-22 12:46:50.224] 76561198042240682 "BigGurt" container -1 12015,2061,0 [Base.EmptySandbag].
+[29-10-22 12:47:03.808] 76561198042240682 "BigGurt" container -41 12015,2073,0 [Base.CarKey, Base.Cigarettes].
+[29-10-22 12:47:05.146] 76561198041779008 "SciFurr" container -2 12041,2070,0 [Base.Twine, Base.TirePump].
+[29-10-22 12:47:18.808] 76561198042240682 "BigGurt" container -2 12015,2073,0 [Base.PopBottleEmpty, Base.ToiletPaper].
+[29-10-22 12:47:51.805] 76561198042240682 "BigGurt" container -2 12011,2043,0 [Base.BeerCan].
+[29-10-22 12:49:54.814] 76561198042240682 "BigGurt" container -2 12033,2163,0 [Base.Saw, Base.NailsBox].
+[29-10-22 12:49:54.814] 76561198042240682 "BigGurt" container +0 12033,2163,0 [Base.GardenSaw].
+[29-10-22 12:50:00.807] 76561198042240682 "BigGurt" container -1 12033,2163,0 [Base.Plank].
+[29-10-22 12:51:24.815] 76561198042240682 "BigGurt" container +0 12025,2166,1 [Base.Plasticbag, Base.EmptySandbag, Base.NailsBox, Base.ToiletPaper].
+[29-10-22 12:51:27.820] 76561198042240682 "BigGurt" container +0 12025,2166,1 [Base.BeerCan, Base.Scotchtape].
+[29-10-22 12:51:30.806] 76561198042240682 "BigGurt" container +0 12025,2166,1 [Base.WhiskeyFull].
+[29-10-22 12:51:41.133] 76561198041779008 "SciFurr" container +0 12029,2164,0 [Base.Hat_BaseballCapKY_Reverse].
+[29-10-22 12:51:44.146] 76561198041779008 "SciFurr" container +0 12029,2164,0 [Base.Glasses_Reading].
+[29-10-22 12:51:49.632] 76561198042240682 "BigGurt" floor +1 12023,2163,1 [Base.TinnedBeans].
+[29-10-22 12:51:49.786] 76561198042240682 "BigGurt" floor +1 12023,2163,1 [Base.CannedChili].
+[29-10-22 12:51:49.928] 76561198042240682 "BigGurt" floor +1 12023,2163,1 [Base.CannedCorn].
+[29-10-22 12:51:50.051] 76561198042240682 "BigGurt" floor +1 12023,2163,1 [Base.CannedPeaches].
+[29-10-22 12:51:50.142] 76561198041779008 "SciFurr" container +0 12033,2163,0 [Base.TirePump].
+[29-10-22 12:51:50.172] 76561198042240682 "BigGurt" floor +1 12023,2163,1 [Base.CannedPeas].
+[29-10-22 12:51:50.273] 76561198042240682 "BigGurt" floor +1 12023,2163,1 [Base.CannedPineapple].
+[29-10-22 12:51:50.373] 76561198042240682 "BigGurt" floor +1 12023,2163,1 [Base.CannedPotato2].
+[29-10-22 12:51:52.639] 76561198042240682 "BigGurt" floor +1 12024,2166,1 [Base.Socks_Long].
+[29-10-22 12:51:53.136] 76561198041779008 "SciFurr" container +0 12033,2163,0 [Base.Saw, Base.Hammer].
+[29-10-22 12:51:58.593] 76561198042240682 "BigGurt" floor +1 12023,2166,1 [Base.Coffee2].
+[29-10-22 12:52:06.818] 76561198042240682 "BigGurt" container +0 12025,2166,1 [Base.Scotchtape].
+[29-10-22 12:52:21.821] 76561198042240682 "BigGurt" container -1 12029,2154,1 [Radio.CDplayer].
+[29-10-22 12:52:33.815] 76561198042240682 "BigGurt" container +0 12030,2154,1 [Radio.CDplayer].
+[29-10-22 12:53:29.136] 76561198041779008 "SciFurr" container +0 12028,2167,1 [Base.Twine, Base.Paperclip, Base.WristWatch_Left_ClassicBrown].
+[29-10-22 12:53:30.808] 76561198042240682 "BigGurt" container +0 12028,2167,1 [Base.Twine, Base.Nails].
+[29-10-22 12:53:36.814] 76561198042240682 "BigGurt" container -1 12028,2167,1 [Base.Nails].
+[29-10-22 12:53:36.814] 76561198042240682 "BigGurt" container +0 12028,2167,1 [Base.Nails].
+[29-10-22 12:53:38.136] 76561198041779008 "SciFurr" container +0 12028,2167,1 [Base.LouisvilleMap1].
+[29-10-22 12:53:39.814] 76561198042240682 "BigGurt" container -4 12028,2167,1 [Base.Nails].
+[29-10-22 12:53:42.814] 76561198042240682 "BigGurt" container -3 12028,2167,1 [Base.Nails].
+[29-10-22 12:53:47.143] 76561198041779008 "SciFurr" container +0 12028,2167,1 [Base.Book].
+[29-10-22 12:53:48.806] 76561198042240682 "BigGurt" container +0 12028,2167,1 [Base.Scissors].
+[29-10-22 12:53:51.816] 76561198042240682 "BigGurt" container +0 12028,2167,1 [Base.KitchenKnife].
+[29-10-22 12:53:54.814] 76561198042240682 "BigGurt" container +0 12028,2167,1 [Base.Cigarettes].
+[29-10-22 12:53:57.817] 76561198042240682 "BigGurt" container -9 12028,2167,1 [Base.Cigarettes].
+[29-10-22 12:54:03.815] 76561198042240682 "BigGurt" container +0 12028,2167,1 [Base.CannedSardines].
+[29-10-22 12:56:42.815] 76561198042240682 "BigGurt" container -2 12003,2193,0 [Base.WristWatch_Left_DigitalBlack, Base.MeatCleaver].
+[29-10-22 12:57:03.427] 76561198042240682 "BigGurt" floor +1 12010,2214,0 [Base.Glasses_Reading].
+[29-10-22 12:57:08.466] 76561198041779008 "SciFurr" floor +1 12010,2213,0 [Base.Glasses_Reading].
+[29-10-22 12:57:50.138] 76561198041779008 "SciFurr" container -1 12006,2226,0 [Base.Ring_Left_RingFinger_Silver].
+[29-10-22 12:57:53.135] 76561198041779008 "SciFurr" container -1 12006,2226,0 [Base.Earring_LoopLrg_Gold].
+[29-10-22 12:58:03.813] 76561198042240682 "BigGurt" container -1 12005,2208,0 [Base.DuctTape].
+[29-10-22 12:58:05.145] 76561198041779008 "SciFurr" container -1 12009,2213,0 [Base.Ring_Left_RingFinger_Silver].
+[29-10-22 12:58:06.821] 76561198042240682 "BigGurt" container -1 12005,2208,0 [Base.Wrench].
+[29-10-22 12:58:09.808] 76561198042240682 "BigGurt" container -1 12004,2208,0 [Base.Screwdriver].
+[29-10-22 12:58:12.822] 76561198042240682 "BigGurt" container -1 12004,2208,0 [Base.MetalBar].
+[29-10-22 12:58:12.822] 76561198042240682 "BigGurt" container -5 12006,2208,0 [Base.Nails].
+[29-10-22 12:58:15.812] 76561198042240682 "BigGurt" container -1 12006,2208,0 [Base.Wrench].
+[29-10-22 12:58:57.809] 76561198042240682 "BigGurt" container -2 12030,2218,0 [Base.CannedBolognese, Base.TunaTin].
+[29-10-22 12:58:59.145] 76561198041779008 "SciFurr" container -1 12031,2209,0 [Base.HandTorch].
+[29-10-22 12:59:06.818] 76561198042240682 "BigGurt" container -2 12032,2217,0 [Base.JamFruit, Base.PancakeMix].
+[29-10-22 12:59:09.154] 76561198041779008 "SciFurr" floor +1 12032,2214,0 [Base.Glasses_Normal].
+[29-10-22 12:59:12.808] 76561198042240682 "BigGurt" container -1 12032,2216,0 [Base.Ramen].
+[29-10-22 12:59:30.819] 76561198042240682 "BigGurt" container -1 12031,2209,0 [Base.EmptyPetrolCan].
+[29-10-22 12:59:32.129] 76561198041779008 "SciFurr" container -1 12031,2214,0 [Base.Keytar].
+[29-10-22 12:59:57.816] 76561198042240682 "BigGurt" container -1 12031,2214,0 [Base.GuitarAcoustic].
+[29-10-22 13:00:34.633] 76561198041779008 "SciFurr" floor -1 12017,2211,0 [Base.PropaneTank].
+[29-10-22 13:00:56.131] 76561198041779008 "SciFurr" container -1 12001,2194,0 [Base.Bracelet_BangleLeftSilver].
+[29-10-22 13:01:54.671] 76561198042240682 "BigGurt" floor +1 12025,2166,0 [Base.GuitarAcoustic].
+[29-10-22 13:02:12.653] 76561198041779008 "SciFurr" floor +1 12026,2167,0 [Base.Keytar].
+[29-10-22 13:02:39.817] 76561198042240682 "BigGurt" container +0 12028,2167,1 [Base.Wrench].
+[29-10-22 13:02:42.818] 76561198042240682 "BigGurt" container +0 12028,2167,1 [Base.Wrench].
+[29-10-22 13:02:45.820] 76561198042240682 "BigGurt" container +0 12028,2167,1 [Base.MetalBar].
+[29-10-22 13:02:48.820] 76561198042240682 "BigGurt" container +0 12028,2167,1 [Base.Ramen, Base.MeatCleaver, Base.JamFruit, Base.DuctTape].
+[29-10-22 13:02:51.813] 76561198042240682 "BigGurt" container +0 12028,2167,1 [Base.CannedBolognese, Base.TunaTin].
+[29-10-22 13:02:54.813] 76561198042240682 "BigGurt" container +0 12028,2167,1 [Base.WhiskeyFull].
+[29-10-22 13:02:57.815] 76561198042240682 "BigGurt" container +0 12028,2167,1 [Base.PancakeMix].
+[29-10-22 13:03:06.819] 76561198042240682 "BigGurt" container +0 12028,2167,1 [Base.Screwdriver].
+[29-10-22 13:03:09.812] 76561198042240682 "BigGurt" container +0 12028,2167,1 [Base.Earring_LoopLrg_Silver].
+[29-10-22 13:03:15.806] 76561198042240682 "BigGurt" container +0 12028,2167,1 [Base.WristWatch_Left_ClassicBlack].
+[29-10-22 13:04:09.199] 76561198041779008 "SciFurr" floor -1 12026,2164,1 [Base.TinOpener].
+[29-10-22 13:04:44.697] 76561198041779008 "SciFurr" floor -1 12023,2166,1 [Base.Crisps].
+[29-10-22 13:05:19.419] 76561198041779008 "SciFurr" floor -1 12023,2164,1 [Base.CannedPineapple].
+[29-10-22 13:05:24.818] 76561198042240682 "BigGurt" container -1 12023,2162,1 [Base.Belt2].
+[29-10-22 13:05:24.818] 76561198042240682 "BigGurt" container +0 12024,2162,1 [Base.Belt2].
+[29-10-22 13:05:27.816] 76561198042240682 "BigGurt" container -1 12023,2162,1 [Base.Shoes_FlipFlop].
+[29-10-22 13:05:27.816] 76561198042240682 "BigGurt" container +0 12024,2162,1 [Base.Shoes_FlipFlop].
+[29-10-22 13:05:30.817] 76561198042240682 "BigGurt" container -1 12024,2162,1 [Base.Belt2].
+[29-10-22 13:05:30.817] 76561198042240682 "BigGurt" container +0 12023,2164,1 [Base.Belt2].
+[29-10-22 13:05:33.818] 76561198042240682 "BigGurt" container -1 12024,2162,1 [Base.Pillow].
+[29-10-22 13:05:33.818] 76561198042240682 "BigGurt" container +0 12023,2164,1 [Base.Pillow].
+[29-10-22 13:05:36.818] 76561198042240682 "BigGurt" container -2 12024,2162,1 [Base.Pillow, Base.Shoes_FlipFlop].
+[29-10-22 13:05:36.818] 76561198042240682 "BigGurt" container +0 12023,2164,1 [Base.Pillow, Base.Shoes_FlipFlop].
+[29-10-22 13:05:39.809] 76561198042240682 "BigGurt" container -1 12024,2162,1 [Base.Trousers_Suit].
+[29-10-22 13:05:39.809] 76561198042240682 "BigGurt" container +0 12023,2164,1 [Base.Trousers_Suit].
+[29-10-22 13:06:00.818] 76561198042240682 "BigGurt" container +0 12023,2164,1 [Base.TinCanEmpty].
+[29-10-22 13:06:26.045] 76561198042240682 "BigGurt" floor +1 12025,2162,1 [Base.Bag_Schoolbag].
+[29-10-22 13:06:48.326] 76561198042240682 "BigGurt" floor -1 12023,2166,1 [Base.CookingMag2].
+[29-10-22 13:06:48.439] 76561198042240682 "BigGurt" floor -1 12024,2166,1 [Base.Socks_Long].
+[29-10-22 13:06:48.547] 76561198042240682 "BigGurt" floor -1 12024,2166,1 [Base.Soap2].
+[29-10-22 13:06:48.761] 76561198042240682 "BigGurt" floor -1 12024,2166,1 [Base.ToiletPaper].
+[29-10-22 13:06:48.979] 76561198042240682 "BigGurt" floor -1 12024,2166,1 [Base.ToiletPaper].
+[29-10-22 13:06:49.814] 76561198042240682 "BigGurt" floor -1 12023,2166,1 [Base.BookFarming1].
+[29-10-22 13:06:50.854] 76561198042240682 "BigGurt" floor -1 12024,2166,1 [Base.Hammer].
+[29-10-22 13:06:51.906] 76561198042240682 "BigGurt" floor -1 12024,2166,1 [Base.Hammer].
+[29-10-22 13:06:52.963] 76561198042240682 "BigGurt" floor -1 12025,2166,1 [Base.Shoes_Random].
+[29-10-22 13:07:00.816] 76561198042240682 "BigGurt" container +0 12023,2164,1 [Base.CookingMag2, Base.Soap2, Base.Socks_Long, Base.ToiletPaper].
+[29-10-22 13:07:03.813] 76561198042240682 "BigGurt" container +0 12023,2164,1 [Base.BookFarming1, Base.Hammer, Base.ToiletPaper].
+[29-10-22 13:07:06.812] 76561198042240682 "BigGurt" container +0 12023,2164,1 [Base.Shoes_Random, Base.Hammer].
+[29-10-22 13:09:15.808] 76561198042240682 "BigGurt" container -2 12025,2162,1 [Base.Battery, Base.HandTorch].
+[29-10-22 13:09:27.817] 76561198042240682 "BigGurt" container +0 12025,2162,1 [Base.Screwdriver, Base.Cigarettes, Base.Pills].
+[29-10-22 13:09:30.813] 76561198042240682 "BigGurt" container +0 12025,2162,1 [Base.Hat_BandanaMask].
+[29-10-22 13:11:53.119] 76561198041779008 "SciFurr" container -1 12030,2154,0 [Base.Eggplant].
+[29-10-22 13:12:43.571] 76561198041779008 "SciFurr" floor +1 12026,2164,1 [Base.Eggplant].
+[29-10-22 13:15:36.807] 76561198042240682 "BigGurt" container -1 12025,2162,1 [Base.BaseballBat].
+[29-10-22 13:15:39.821] 76561198042240682 "BigGurt" container -1 12025,2162,1 [Base.Hammer].
+[29-10-22 13:15:42.819] 76561198042240682 "BigGurt" container -1 12025,2162,1 [Base.Hat_RidingHelmet].
+[29-10-22 13:15:45.818] 76561198042240682 "BigGurt" container -1 12025,2162,1 [Base.Glasses_SafetyGoggles].
+[29-10-22 13:15:48.824] 76561198042240682 "BigGurt" container -1 12025,2162,1 [Base.Hat_BandanaMask].
+[29-10-22 13:15:57.813] 76561198042240682 "BigGurt" container +0 12023,2164,1 [Base.Hat_Bandana].
+[29-10-22 13:16:30.820] 76561198042240682 "BigGurt" container -1 12025,2158,1 [Base.Key1].
+[29-10-22 13:16:50.833] 76561198042240682 "BigGurt" corpse +1 12015,2154,0.
+[29-10-22 13:16:57.817] 76561198042240682 "BigGurt" container -1 12023,2160,0 [Base.SewingKit].
+[29-10-22 13:17:03.819] 76561198042240682 "BigGurt" container -2 12024,2160,0 [Base.Tshirt_WhiteTINT].
+[29-10-22 13:17:06.820] 76561198042240682 "BigGurt" container -2 12024,2160,0 [Base.Vest_DefaultTEXTURE_TINT].
+[29-10-22 13:17:09.813] 76561198042240682 "BigGurt" container -2 12025,2160,0 [Base.BathTowel, Base.Socks_Ankle].
+[29-10-22 13:17:33.807] 76561198042240682 "BigGurt" container -2 12033,2158,0 [Base.DuctTape, Base.JacketLong_Random].
+[29-10-22 13:17:48.360] 76561198042240682 "BigGurt" container -1 12029,2154,1 [Base.Shirt_CropTopNoArmTINT].
+[29-10-22 13:18:09.815] 76561198042240682 "BigGurt" container -1 12034,2164,1 [Base.Shirt_FormalWhite_ShortSleeve].
+[29-10-22 13:18:27.813] 76561198042240682 "BigGurt" container -1 12023,2164,1 [Base.Socks_Long].
+[29-10-22 13:18:36.816] 76561198042240682 "BigGurt" container -1 12023,2164,1 [Base.Trousers_Suit].
+[29-10-22 13:19:00.813] 76561198042240682 "BigGurt" container -1 12025,2166,1 [Base.Trousers_DefaultTEXTURE].
+[29-10-22 13:19:03.818] 76561198042240682 "BigGurt" container -1 12025,2166,1 [Base.Socks_Ankle].
+[29-10-22 13:19:09.811] 76561198042240682 "BigGurt" container -1 12025,2166,1 [Base.Socks_Ankle].
+[29-10-22 13:19:30.806] 76561198042240682 "BigGurt" container -1 12028,2167,1 [Base.Scissors].
+[29-10-22 13:19:56.176] 76561198042240682 "BigGurt" floor -1 12025,2164,1 [Base.Saucepan].
+[29-10-22 13:19:57.814] 76561198042240682 "BigGurt" container +0 12026,2165,1 [Base.Saucepan].
+[29-10-22 13:19:58.679] 76561198042240682 "BigGurt" floor -1 12025,2164,1 [Base.Pot].
+[29-10-22 13:20:00.814] 76561198042240682 "BigGurt" container +0 12026,2165,1 [Base.Pot].
+[29-10-22 13:20:01.913] 76561198042240682 "BigGurt" floor -1 12025,2164,1 [Base.RoastingPan].
+[29-10-22 13:20:02.178] 76561198042240682 "BigGurt" floor -1 12025,2164,1 [Base.GlassTumbler].
+[29-10-22 13:20:03.809] 76561198042240682 "BigGurt" container +0 12026,2165,1 [Base.GlassTumbler, Base.RoastingPan].
+[29-10-22 13:20:07.105] 76561198042240682 "BigGurt" floor -1 12026,2165,1 [Base.Bag_Schoolbag].
+[29-10-22 13:20:07.419] 76561198042240682 "BigGurt" floor +1 12025,2166,1 [Base.Bag_Schoolbag].
+[29-10-22 13:20:08.258] 76561198042240682 "BigGurt" floor -1 12026,2164,1 [Base.Eggplant].
+[29-10-22 13:20:21.258] 76561198042240682 "BigGurt" container +0 12031,2154,0 [Base.Eggplant].
+[29-10-22 13:21:00.819] 76561198042240682 "BigGurt" container +0 12023,2164,1 [Base.Scissors].
+[29-10-22 13:22:17.795] 76561198041779008 "SciFurr" floor -1 12023,2165,1 [Base.TunaTin].
+[29-10-22 13:22:51.808] 76561198042240682 "BigGurt" container +0 12024,2162,1 [Base.JacketLong_Random].
+[29-10-22 13:22:54.808] 76561198042240682 "BigGurt" container +0 12024,2162,1 [Base.SewingKit].
+[29-10-22 13:23:00.819] 76561198042240682 "BigGurt" container +0 12024,2162,1 [Base.BathTowel, Base.RippedSheetsDirty, Base.Shirt_CropTopNoArmTINT, Base.DuctTape].
+[29-10-22 13:23:06.024] 76561198042240682 "BigGurt" floor -1 12025,2162,1 [Base.Bag_Schoolbag].
+[29-10-22 13:23:43.853] 76561198042240682 "BigGurt" floor -1 12023,2163,1 [Base.CannedPeas].
+[29-10-22 13:24:00.811] 76561198042240682 "BigGurt" container +0 12023,2162,1 [Base.TinCanEmpty].
+[29-10-22 13:24:09.809] 76561198042240682 "BigGurt" container +0 12024,2162,1 [Base.Scissors].
+[29-10-22 13:27:08.099] 76561198041779008 "SciFurr" container -2 12011,2041,0 [Base.BeerBottle, Base.Wine].
+[29-10-22 13:27:11.152] 76561198041779008 "SciFurr" container -1 12011,2040,0 [Base.BeerBottle].
+[29-10-22 13:27:13.376] 76561198041779008 "SciFurr" container -1 12011,2040,0 [Base.BeerCan].
+[29-10-22 13:27:17.105] 76561198041779008 "SciFurr" container -1 12011,2039,0 [Base.Wine].
+[29-10-22 13:27:47.107] 76561198041779008 "SciFurr" container -1 12009,2034,0 [Base.JacketLong_Random].
+[29-10-22 13:27:50.111] 76561198041779008 "SciFurr" container -1 12009,2034,0 [Base.Jumper_PoloNeck].
+[29-10-22 13:27:59.147] 76561198041779008 "SciFurr" container -1 12010,2036,0 [Base.Ring_Left_RingFinger_Gold].
+[29-10-22 13:28:02.955] 76561198041779008 "SciFurr" floor +1 12009,2048,0 [Base.Hat_BaseballCap].
+[29-10-22 13:34:44.650] 76561198042240682 "BigGurt" floor +1 12014,2070,0 [Base.Hat_BaseballCapKY].
+[29-10-22 13:34:48.353] 76561198041779008 "SciFurr" floor +1 12014,2070,0 [Base.Hat_BaseballCapKY].
+[29-10-22 13:34:54.817] 76561198042240682 "BigGurt" container -1 12013,2070,0 [Base.HuntingKnife].
+[29-10-22 13:35:11.453] 76561198042240682 "BigGurt" floor +1 12012,2070,0 [Base.CarBattery1].
+[29-10-22 13:35:42.816] 76561198042240682 "BigGurt" container -2 12015,2061,0 [Base.Battery, Base.Bandaid].
+[29-10-22 13:36:06.817] 76561198042240682 "BigGurt" container -1 12015,2058,0 [Base.Lighter].
+[29-10-22 13:36:51.810] 76561198042240682 "BigGurt" container -3 12015,2058,0 [Base.Twine, Base.Plasticbag, Base.LugWrench].
+[29-10-22 13:37:12.817] 76561198042240682 "BigGurt" container +0 12015,2073,0 [Base.Twine, Base.Plasticbag].
+[29-10-22 13:37:15.811] 76561198042240682 "BigGurt" container +0 12015,2073,0 [Base.LugWrench].
+[29-10-22 13:37:47.437] 76561198042240682 "BigGurt" floor +1 12012,2072,0 [Base.CarBattery1].
+[29-10-22 13:41:23.076] 76561198041779008 "SciFurr" container -1 12046,2163,0 [].
+[29-10-22 13:41:43.099] 76561198041779008 "SciFurr" floor +1 12049,2164,0 [Base.Glasses_Reading].
+[29-10-22 13:41:56.078] 76561198041779008 "SciFurr" container -1 12049,2164,0 [Base.Ring_Left_RingFinger_GoldRuby].
+[29-10-22 13:42:06.812] 76561198042240682 "BigGurt" container +0 12032,2165,0 [Base.WaterBottlePetrol, Base.PetrolPopBottle].
+[29-10-22 13:42:09.807] 76561198042240682 "BigGurt" container -4 12032,2165,0 [Base.Magazine, Base.RubberBand, Base.MakeupFoundation, Base.BluePen].
+[29-10-22 13:42:12.820] 76561198042240682 "BigGurt" container -2 12032,2165,0 [Base.Notebook].
+[29-10-22 13:42:20.085] 76561198041779008 "SciFurr" container -1 12046,2163,0 [].
+[29-10-22 13:42:21.811] 76561198042240682 "BigGurt" container -2 12029,2164,0 [Base.Glasses_Reading, Base.Hat_BaseballCapKY_Reverse].
+[29-10-22 13:42:23.087] 76561198041779008 "SciFurr" container -1 12046,2163,0 [].
+[29-10-22 13:42:38.076] 76561198041779008 "SciFurr" container -1 12044,2163,0 [Base.Ring_Left_RingFinger_Silver].
+[29-10-22 13:42:42.819] 76561198042240682 "BigGurt" container +0 12033,2158,0 [Base.Glasses_Reading, Base.RubberBand, Base.MakeupFoundation, Base.BluePen].
+[29-10-22 13:42:45.818] 76561198042240682 "BigGurt" container +0 12033,2158,0 [Base.Notebook, Base.Magazine, Base.Hat_BaseballCapKY_Reverse].
+[29-10-22 13:44:12.815] 76561198042240682 "BigGurt" container +0 12033,2158,0 [Base.Hat_RidingHelmet, Base.Glasses_SafetyGoggles].
+[29-10-22 13:44:44.079] 76561198041779008 "SciFurr" container -1 12023,2162,1 [Base.TinCanEmpty].
+[29-10-22 13:44:47.076] 76561198041779008 "SciFurr" container +0 12023,2162,1 [Base.JacketLong_Random].
+[29-10-22 13:44:50.089] 76561198041779008 "SciFurr" container +0 12023,2162,1 [Base.Jumper_PoloNeck, Base.NecklaceLong_Silver].
+[29-10-22 13:44:53.078] 76561198041779008 "SciFurr" container +0 12023,2162,1 [Base.Ring_Left_MiddleFinger_Silver, Base.Ring_Right_MiddleFinger_Silver, Base.Ring_Left_RingFinger_Silver].
+[29-10-22 13:45:02.087] 76561198041779008 "SciFurr" container +0 12028,2167,1 [Base.TinCanEmpty].
+[29-10-22 13:45:14.086] 76561198041779008 "SciFurr" container +0 12025,2166,1 [Base.HandTorch].
+[29-10-22 13:45:14.118] 76561198042240682 "BigGurt" floor -1 12023,2165,1 [Base.Cereal].
+[29-10-22 13:45:20.077] 76561198041779008 "SciFurr" container -1 12025,2166,1 [Base.Hammer].
+[29-10-22 13:45:25.891] 76561198042240682 "BigGurt" floor +1 12023,2164,1 [Base.Cereal].

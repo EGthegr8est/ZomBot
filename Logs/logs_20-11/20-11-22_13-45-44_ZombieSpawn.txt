@@ -1,0 +1,25 @@
+[20-11-22 15:09:30.335] reason = roomSpotted x,y,z = 10210,7417,0 room = bedroom
+reason = roomSpotted x,y,z = 10216,7566,0 room = loggingtruck
+reason = roomSpotted x,y,z = 10219,7589,0 room = construction
+reason = roomSpotted x,y,z = 10219,7591,0 room = construction
+reason = roomSpotted x,y,z = 10218,7591,0 room = construction
+reason = roomSpotted x,y,z = 10218,7589,0 room = construction
+reason = roomSpotted x,y,z = 10219,7588,0 room = construction
+reason = roomSpotted x,y,z = 10219,7590,0 room = construction
+reason = roomSpotted x,y,z = 10218,7590,0 room = construction
+reason = roomSpotted x,y,z = 10227,7583,0 room = construction
+reason = roomSpotted x,y,z = 10228,7593,0 room = construction
+reason = roomSpotted x,y,z = 10230,7594,0 room = construction
+reason = createEatingZombies x,y,z = 9849,7669,0 room = kitchen
+reason = roomSpotted x,y,z = 9808,7644,0 room = livingroom
+reason = roomSpotted x,y,z = 9808,7639,1 room = closet
+reason = roomSpotted x,y,z = 9774,7597,0 room = farmstorage
+reason = RVSPoliceBlockadeShooting x,y,z = 9856,7776,0.
+[20-11-22 18:53:30.802] reason = RVSPoliceBlockadeShooting x,y,z = 9853,7775,0
+reason = RVSPoliceBlockadeShooting x,y,z = 9851,7780,0
+reason = RVSPoliceBlockadeShooting x,y,z = 9852,7783,0
+reason = roomSpotted x,y,z = 9859,7805,0 room = bathroom
+reason = roomSpotted x,y,z = 9881,7812,0 room = garagestorage
+reason = roomSpotted x,y,z = 9811,7847,0 room = bedroom
+reason = roomSpotted x,y,z = 9818,7841,0 room = closet
+reason = createEatingZombies x,y,z = 9996,7666,0.

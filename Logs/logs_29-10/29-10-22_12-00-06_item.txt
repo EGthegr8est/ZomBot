@@ -1,0 +1,9 @@
+[29-10-22 12:00:06.245] 76561198042240682 "BigGurt" floor +1 13855,3043,0 [Base.Bag_Schoolbag].
+[29-10-22 12:00:11.157] 76561198042240682 "BigGurt" floor -1 13855,3043,0 [Base.Bag_Schoolbag].
+[29-10-22 12:00:11.717] 76561198042240682 "BigGurt" container +0 13854,3044,0 [Base.Bag_Schoolbag].
+[29-10-22 12:01:20.723] 76561198042240682 "BigGurt" container -5 13850,3044,0 [Base.Crackers, Base.JamFruit, Base.OatsRaw, Base.Bread].
+[29-10-22 12:01:53.712] 76561198042240682 "BigGurt" container -1 13850,3040,0 [Base.DuctTape].
+[29-10-22 12:01:56.720] 76561198042240682 "BigGurt" container -1 13850,3040,0 [Base.Hammer].
+[29-10-22 12:01:59.709] 76561198042240682 "BigGurt" container -1 13850,3040,0 [Base.Rope].
+[29-10-22 12:02:14.714] 76561198042240682 "BigGurt" container -1 13850,3045,0 [Base.Lemon].
+[29-10-22 12:02:26.719] 76561198042240682 "BigGurt" container -3 13850,3045,0 [Base.JuiceBox, Base.Corn, Base.Avocado].

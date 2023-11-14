@@ -1,0 +1,1165 @@
+[11-11-22 19:47:57.715] LOG  : General     , 1668224877715> cachedir set to "C:\Users\egbig\Zomboid".
+[11-11-22 19:47:57.720] LOG  : General     , 1668224877720> 11-11-2022 19:47:57.
+[11-11-22 19:47:57.721] LOG  : General     , 1668224877721> cachedir is "C:\Users\egbig\Zomboid".
+[11-11-22 19:47:57.721] LOG  : General     , 1668224877721> LogFileDir is "C:\Users\egbig\Zomboid\Logs".
+[11-11-22 19:47:57.721] LOG  : General     , 1668224877721> ===== System specs =====.
+[11-11-22 19:47:57.723] LOG  : General     , 1668224877723> OS: Windows 10, version: 10.0, arch: amd64.
+[11-11-22 19:47:57.723] LOG  : General     , 1668224877723> Processor: AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD.
+[11-11-22 19:47:57.723] LOG  : General     , 1668224877723> Processor cores: 16.
+[11-11-22 19:47:57.724] LOG  : General     , 1668224877724> Available processors (cores): 16.
+[11-11-22 19:47:57.726] LOG  : General     , 1668224877726> Memory free: 491.3758 MB.
+[11-11-22 19:47:57.726] LOG  : General     , 1668224877726> Memory max: 3072.0 MB.
+[11-11-22 19:47:57.726] LOG  : General     , 1668224877726> Memory  total available to JVM: 512.0 MB.
+[11-11-22 19:47:57.729] LOG  : General     , 1668224877729> C:\, Total: 930.8997 GB, Free: 233.759 GB.
+[11-11-22 19:47:57.858] LOG  : General     , 1668224877857> Mobo = [Product=X570 AORUS ELITE WIFI].
+[11-11-22 19:47:57.948] LOG  : General     , 1668224877948> CPU = [Manufacturer=AuthenticAMD,MaxClockSpeed=3801,Name=AMD Ryzen 7 5800X 8-Core Processor].
+[11-11-22 19:47:58.219] LOG  : General     , 1668224878219> Graphics = [AdapterRAM=4293918720,DriverVersion=31.0.15.2647,Name=NVIDIA GeForce RTX 3070 Ti].
+[11-11-22 19:47:58.316] LOG  : General     , 1668224878316> VideoMode = [VideoModeDescription=3840 x 2160 x 4294967296 colors].
+[11-11-22 19:47:58.412] LOG  : General     , 1668224878412> Sound = { [Manufacturer=Microsoft,Name=USB Audio 2.0], [Manufacturer=Realtek,Name=Realtek High Definition Audio], [Manufacturer=NVIDIA,Name=NVIDIA High Definition Audio], [Manufacturer=NVIDIA,Name=NVIDIA Virtual Audio Device (Wave Extensible) (WDM)], [Manufacturer=NVIDIA,Name=NVIDIA Broadcast], [Manufacturer=(Generic USB Audio),Name=USB Audio Device] }.
+[11-11-22 19:47:58.504] LOG  : General     , 1668224878504> Memory RAM = { [Capacity=17179869184,Manufacturer=Unknown], [Capacity=17179869184,Manufacturer=Unknown] }.
+[11-11-22 19:47:58.504] LOG  : General     , 1668224878504> ========================.
+[11-11-22 19:47:58.505] LOG  : General     , 1668224878505> -- listing properties --.
+[11-11-22 19:47:58.505] LOG  : General     , 1668224878505> java.specification.version=17.
+[11-11-22 19:47:58.505] LOG  : General     , 1668224878505> sun.cpu.isalist=amd64.
+[11-11-22 19:47:58.505] LOG  : General     , 1668224878505> sun.jnu.encoding=Cp1252.
+[11-11-22 19:47:58.506] LOG  : General     , 1668224878506> java.class.path=.;commons-compress-1.18.jar;istack-co....
+[11-11-22 19:47:58.506] LOG  : General     , 1668224878506> java.vm.vendor=Azul Systems, Inc..
+[11-11-22 19:47:58.506] LOG  : General     , 1668224878506> sun.arch.data.model=64.
+[11-11-22 19:47:58.506] LOG  : General     , 1668224878506> user.variant=.
+[11-11-22 19:47:58.507] LOG  : General     , 1668224878506> java.vendor.url=http://www.azul.com/.
+[11-11-22 19:47:58.507] LOG  : General     , 1668224878507> user.timezone=America/Los_Angeles.
+[11-11-22 19:47:58.507] LOG  : General     , 1668224878507> zomboid.steam=1.
+[11-11-22 19:47:58.507] LOG  : General     , 1668224878507> java.vm.specification.version=17.
+[11-11-22 19:47:58.507] LOG  : General     , 1668224878507> os.name=Windows 10.
+[11-11-22 19:47:58.508] LOG  : General     , 1668224878508> user.country=US.
+[11-11-22 19:47:58.508] LOG  : General     , 1668224878508> sun.boot.library.path=C:\Program Files (x86)\Steam\steamapp....
+[11-11-22 19:47:58.508] LOG  : General     , 1668224878508> zomboid.znetlog=1.
+[11-11-22 19:47:58.508] LOG  : General     , 1668224878508> jdk.debug=release.
+[11-11-22 19:47:58.508] LOG  : General     , 1668224878508> sun.cpu.endian=little.
+[11-11-22 19:47:58.509] LOG  : General     , 1668224878509> user.home=C:\Users\egbig.
+[11-11-22 19:47:58.509] LOG  : General     , 1668224878509> user.language=en.
+[11-11-22 19:47:58.509] LOG  : General     , 1668224878509> java.specification.vendor=Oracle Corporation.
+[11-11-22 19:47:58.509] LOG  : General     , 1668224878509> java.version.date=2021-10-19.
+[11-11-22 19:47:58.509] LOG  : General     , 1668224878509> java.home=C:\Program Files (x86)\Steam\steamapp....
+[11-11-22 19:47:58.510] LOG  : General     , 1668224878510> file.separator=\.
+[11-11-22 19:47:58.510] LOG  : General     , 1668224878510> java.vm.compressedOopsMode=Zero based.
+[11-11-22 19:47:58.510] LOG  : General     , 1668224878510> line.separator=.
+[11-11-22 19:47:58.510] LOG  : General     , 1668224878510> java.vm.specification.vendor=Oracle Corporation.
+[11-11-22 19:47:58.511] LOG  : General     , 1668224878511> java.specification.name=Java Platform API Specification.
+[11-11-22 19:47:58.511] LOG  : General     , 1668224878511> java.awt.headless=true.
+[11-11-22 19:47:58.511] LOG  : General     , 1668224878511> user.script=.
+[11-11-22 19:47:58.511] LOG  : General     , 1668224878511> sun.management.compiler=HotSpot 64-Bit Tiered Compilers.
+[11-11-22 19:47:58.512] LOG  : General     , 1668224878511> java.runtime.version=17.0.1+12-LTS.
+[11-11-22 19:47:58.512] LOG  : General     , 1668224878512> user.name=egbig.
+[11-11-22 19:47:58.512] LOG  : General     , 1668224878512> path.separator=;.
+[11-11-22 19:47:58.512] LOG  : General     , 1668224878512> os.version=10.0.
+[11-11-22 19:47:58.512] LOG  : General     , 1668224878512> java.runtime.name=OpenJDK Runtime Environment.
+[11-11-22 19:47:58.513] LOG  : General     , 1668224878513> file.encoding=Cp1252.
+[11-11-22 19:47:58.513] LOG  : General     , 1668224878513> java.vm.name=OpenJDK 64-Bit Server VM.
+[11-11-22 19:47:58.513] LOG  : General     , 1668224878513> java.vendor.version=Zulu17.30+15-CA.
+[11-11-22 19:47:58.513] LOG  : General     , 1668224878513> java.vendor.url.bug=http://www.azul.com/support/.
+[11-11-22 19:47:58.513] LOG  : General     , 1668224878513> java.io.tmpdir=C:\Users\egbig\AppData\Local\Temp\.
+[11-11-22 19:47:58.513] LOG  : General     , 1668224878513> java.version=17.0.1.
+[11-11-22 19:47:58.514] LOG  : General     , 1668224878514> user.dir=C:\Program Files (x86)\Steam\steamapp....
+[11-11-22 19:47:58.514] LOG  : General     , 1668224878514> os.arch=amd64.
+[11-11-22 19:47:58.514] LOG  : General     , 1668224878514> java.vm.specification.name=Java Virtual Machine Specification.
+[11-11-22 19:47:58.514] LOG  : General     , 1668224878514> sun.os.patch.level=.
+[11-11-22 19:47:58.514] LOG  : General     , 1668224878514> native.encoding=Cp1252.
+[11-11-22 19:47:58.515] LOG  : General     , 1668224878515> java.library.path=win64/;..
+[11-11-22 19:47:58.515] LOG  : General     , 1668224878515> java.vm.info=mixed mode, sharing.
+[11-11-22 19:47:58.515] LOG  : General     , 1668224878515> java.vendor=Azul Systems, Inc..
+[11-11-22 19:47:58.515] LOG  : General     , 1668224878515> java.vm.version=17.0.1+12-LTS.
+[11-11-22 19:47:58.515] LOG  : General     , 1668224878515> sun.io.unicode.encoding=UnicodeLittle.
+[11-11-22 19:47:58.515] LOG  : General     , 1668224878515> java.class.version=61.0.
+[11-11-22 19:47:58.516] LOG  : General     , 1668224878516> -----.
+[11-11-22 19:47:58.516] LOG  : General     , 1668224878516> version=41.78.7 demo=false.
+[11-11-22 19:47:58.792] LOG  : General     , 1668224878792> LightingFPS set to 15.
+[11-11-22 19:47:58.793] LOG  : General     , 1668224878793> [javafmodJNI] Init: Start.
+[11-11-22 19:47:58.794] LOG  : General     , 1668224878793> [javafmodJNI] Init: WIN 64.
+[11-11-22 19:47:58.809] LOG  : General     , 1668224878809> 1668224878807 fmod: Java loging: OK.
+[11-11-22 19:47:58.814] LOG  : General     , 1668224878814> closest width=640 freq=59.
+[11-11-22 19:47:58.814] LOG  : General     , 1668224878814> closest width=640 freq=60.
+[11-11-22 19:47:58.815] LOG  : General     , 1668224878815> closest width=640 freq=144.
+[11-11-22 19:47:58.815] LOG  : General     , 1668224878815> 1668224878815 fmod: FMOD::Studio::System::create() result: No errors..
+[11-11-22 19:47:58.815] LOG  : General     , 1668224878815> closest width=720 freq=59.
+[11-11-22 19:47:58.815] LOG  : General     , 1668224878815> 1668224878815 fmod: FMOD::Studio::System::getCoreSystem() result: No errors..
+[11-11-22 19:47:58.815] LOG  : General     , 1668224878815> closest width=720 freq=60.
+[11-11-22 19:47:58.815] LOG  : General     , 1668224878815> 1668224878815 fmod: FMOD_System_GetVersion() result: No errors..
+[11-11-22 19:47:58.815] LOG  : General     , 1668224878815> closest width=720 freq=144.
+[11-11-22 19:47:58.816] LOG  : General     , 1668224878816> 1668224878816 fmod: fmodintegration built with version 20206, fmod shared library version 20206.
+[11-11-22 19:47:58.816] LOG  : General     , 1668224878816> closest width=800 freq=60.
+[11-11-22 19:47:58.816] LOG  : General     , 1668224878816> 1668224878816 fmod: System Create: OK.
+[11-11-22 19:47:58.816] LOG  : General     , 1668224878816> closest width=800 freq=144.
+[11-11-22 19:47:58.816] LOG  : General     , 1668224878816> 1668224878816 fmod: FMOD_System_SetSoftwareFormat() result: No errors..
+[11-11-22 19:47:58.816] LOG  : General     , 1668224878816> closest width=1176 freq=59.
+[11-11-22 19:47:58.816] LOG  : General     , 1668224878816> closest width=1176 freq=60.
+[11-11-22 19:47:58.817] LOG  : General     , 1668224878817> closest width=1280 freq=59.
+[11-11-22 19:47:58.817] LOG  : General     , 1668224878817> closest width=1280 freq=60.
+[11-11-22 19:47:58.817] LOG  : General     , 1668224878817> closest width=1280 freq=144.
+[11-11-22 19:47:58.817] LOG  : General     , 1668224878817> closest width=1360 freq=59.
+[11-11-22 19:47:58.817] LOG  : General     , 1668224878817> closest width=1360 freq=60.
+[11-11-22 19:47:58.817] LOG  : General     , 1668224878817> closest width=1360 freq=144.
+[11-11-22 19:47:58.818] LOG  : General     , 1668224878818> closest width=1366 freq=59.
+[11-11-22 19:47:58.818] LOG  : General     , 1668224878818> closest width=1366 freq=60.
+[11-11-22 19:47:58.818] LOG  : General     , 1668224878818> closest width=1366 freq=144.
+[11-11-22 19:47:58.818] LOG  : General     , 1668224878818> closest width=1600 freq=59.
+[11-11-22 19:47:58.818] LOG  : General     , 1668224878818> closest width=1600 freq=60.
+[11-11-22 19:47:58.819] LOG  : General     , 1668224878818> closest width=1600 freq=144.
+[11-11-22 19:47:58.819] LOG  : General     , 1668224878819> closest width=1680 freq=59.
+[11-11-22 19:47:58.819] LOG  : General     , 1668224878819> closest width=1680 freq=60.
+[11-11-22 19:47:58.819] LOG  : General     , 1668224878819> closest width=1680 freq=144.
+[11-11-22 19:47:58.819] LOG  : General     , 1668224878819> closest width=1920 freq=59.
+[11-11-22 19:47:58.819] LOG  : General     , 1668224878819> closest width=1920 freq=60.
+[11-11-22 19:47:58.820] LOG  : General     , 1668224878820> closest width=1920 freq=144.
+[11-11-22 19:47:58.820] LOG  : General     , 1668224878820> closest width=2048 freq=60.
+[11-11-22 19:47:58.820] LOG  : General     , 1668224878820> closest width=2048 freq=95.
+[11-11-22 19:47:58.820] LOG  : General     , 1668224878820> closest width=2048 freq=144.
+[11-11-22 19:47:58.820] LOG  : General     , 1668224878820> closest width=2560 freq=60.
+[11-11-22 19:47:58.821] LOG  : General     , 1668224878821> closest width=2560 freq=95.
+[11-11-22 19:47:58.821] LOG  : General     , 1668224878821> closest width=2560 freq=144.
+[11-11-22 19:47:58.821] LOG  : General     , 1668224878821> closest width=3840 freq=60.
+[11-11-22 19:47:58.821] LOG  : General     , 1668224878821> closest width=3840 freq=95.
+[11-11-22 19:47:58.831] LOG  : General     , 1668224878831> 1668224878831 fmod: FMOD::Studio::System::Initialize() result: No errors..
+[11-11-22 19:47:58.832] LOG  : General     , 1668224878832> 1668224878832 fmod: Creating DSP for capture sound.
+[11-11-22 19:47:58.832] LOG  : General     , 1668224878832> 1668224878832 fmod: FMOD_System_CreateDSP() result: No errors..
+[11-11-22 19:47:58.832] LOG  : General     , 1668224878832> 1668224878832 fmod: FMOD_DSP_SetBypass() result: No errors..
+[11-11-22 19:47:58.832] LOG  : General     , 1668224878832> 1668224878832 fmod: FMOD_System_GetMasterChannelGroup() result: No errors..
+[11-11-22 19:47:58.833] LOG  : General     , 1668224878833> 1668224878833 fmod: FMOD_ChannelGroup_AddDSP() result: No errors..
+[11-11-22 19:47:58.833] LOG  : General     , 1668224878833> 1668224878833 fmod: FMOD_System_Set3DSettings() result: No errors..
+[11-11-22 19:47:59.179] LOG  : General     , 1668224879179> GraphicsCard: NVIDIA Corporation NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2.
+[11-11-22 19:47:59.180] LOG  : General     , 1668224879180> OpenGL version: 4.6.0 NVIDIA 526.47.
+[11-11-22 19:47:59.180] LOG  : General     , 1668224879180> Desktop resolution 3840x2160.
+[11-11-22 19:47:59.182] LOG  : General     , 1668224879182> Initial resolution 3840x2160 fullScreen=true.
+[11-11-22 19:47:59.182] LOG  : General     , 1668224879182> OpenGL 1.5 buffer objects supported.
+[11-11-22 19:47:59.183] LOG  : General     , 1668224879183> VSync: OFF.
+[11-11-22 19:47:59.197] LOG  : General     , 1668224879197> NVIDIA: current available GPU memory is 6528 MB.
+[11-11-22 19:47:59.197] LOG  : General     , 1668224879197> NVIDIA: dedicated available GPU memory is 8192 MB.
+[11-11-22 19:47:59.198] LOG  : General     , 1668224879198> NVIDIA: total available GPU memory is 8192 MB.
+[11-11-22 19:48:07.210] LOG  : General     , 1668224887210> AngelCodeFont failed to load page 0 texture C:/Program Files (x86)/Steam/steamapps/common/ProjectZomboid/media/mainfont_0.png.
+[11-11-22 19:48:07.214] LOG  : General     , 1668224887214> AngelCodeFont failed to load page 0 texture C:/Program Files (x86)/Steam/steamapps/common/ProjectZomboid/media/mainfont2_0.png.
+[11-11-22 19:48:07.225] WARN : General     , 1668224887225> TextManager.Init> font "MediumNew" not found in fonts.txt.
+[11-11-22 19:48:07.225] WARN : General     , 1668224887225> TextManager.Init> font "AutoNormSmall" not found in fonts.txt.
+[11-11-22 19:48:07.225] WARN : General     , 1668224887225> TextManager.Init> font "AutoNormMedium" not found in fonts.txt.
+[11-11-22 19:48:07.225] WARN : General     , 1668224887225> TextManager.Init> font "AutoNormLarge" not found in fonts.txt.
+[11-11-22 19:48:07.228] LOG  : General     , 1668224887228> AngelCodeFont failed to load page 0 texture C:/Program Files (x86)/Steam/steamapps/common/ProjectZomboid/media/fonts/zomboidDialogue.bmfc_0.png.
+[11-11-22 19:48:07.243] WARN : General     , 1668224887243> TextManager.Init> font "DebugConsole" not found in fonts.txt.
+[11-11-22 19:48:07.335] LOG  : General     , 1668224887335> Loading networking libraries....
+[11-11-22 19:48:07.335] LOG  : General     , 1668224887335> Loading steam_api64....
+[11-11-22 19:48:07.336] LOG  : General     , 1668224887336> Loading RakNet64....
+[11-11-22 19:48:07.338] LOG  : General     , 1668224887338> Loading ZNetJNI64....
+[11-11-22 19:48:07.462] LOG  : Network     , 1668224887462> [11-11-22 19:48:07.462] > ZNet: SetLogLevel 2.
+[11-11-22 19:48:07.473] LOG  : Network     , 1668224887473> [11-11-22 19:48:07.473] > ZNet: SteamAPI initialised successfully.
+[11-11-22 19:48:07.473] LOG  : General     , 1668224887473> SteamUtils initialised successfully.
+[11-11-22 19:48:07.590] LOG  : General     , 1668224887590> AngelCodeFont failed to load page 0 texture C:/Program Files (x86)/Steam/steamapps/common/ProjectZomboid/media/mainfont_0.png.
+[11-11-22 19:48:07.591] LOG  : General     , 1668224887591> AngelCodeFont failed to load page 0 texture C:/Program Files (x86)/Steam/steamapps/common/ProjectZomboid/media/mainfont2_0.png.
+[11-11-22 19:48:07.594] WARN : General     , 1668224887594> TextManager.Init> font "MediumNew" not found in fonts.txt.
+[11-11-22 19:48:07.595] WARN : General     , 1668224887595> TextManager.Init> font "AutoNormSmall" not found in fonts.txt.
+[11-11-22 19:48:07.595] WARN : General     , 1668224887595> TextManager.Init> font "AutoNormMedium" not found in fonts.txt.
+[11-11-22 19:48:07.595] WARN : General     , 1668224887595> TextManager.Init> font "AutoNormLarge" not found in fonts.txt.
+[11-11-22 19:48:07.595] LOG  : General     , 1668224887595> AngelCodeFont failed to load page 0 texture C:/Program Files (x86)/Steam/steamapps/common/ProjectZomboid/media/fonts/zomboidDialogue.bmfc_0.png.
+[11-11-22 19:48:07.603] WARN : General     , 1668224887603> TextManager.Init> font "DebugConsole" not found in fonts.txt.
+[11-11-22 19:48:07.635] LOG  : General     , 1668224887635> translator: language is EN.
+[11-11-22 19:48:07.745] LOG  : General     , 1668224887745> texturepack: loading UI.
+[11-11-22 19:48:07.765] LOG  : General     , 1668224887765> texturepack: loading UI2.
+[11-11-22 19:48:07.770] LOG  : General     , 1668224887770> texturepack: loading IconsMoveables.
+[11-11-22 19:48:07.771] LOG  : General     , 1668224887771> texturepack: loading RadioIcons.
+[11-11-22 19:48:07.772] LOG  : General     , 1668224887772> texturepack: loading ApComUI.
+[11-11-22 19:48:07.773] LOG  : General     , 1668224887773> texturepack: loading Mechanics.
+[11-11-22 19:48:07.778] LOG  : General     , 1668224887778> texturepack: loading WeatherFx.
+[11-11-22 19:48:09.279] WARN : Recipe      , 1668224889279> RecipeManager.resolveItemModuleDotType> WARNING: module "Base" may have forgot to import module Base.
+[11-11-22 19:48:09.281] WARN : Sound       , 1668224889281> GameSounds.initClipEvents> No such FMOD event "Character/Survival/Crafting/AddItemInBeverage" for GameSound "AddItemInBeverage".
+[11-11-22 19:48:09.281] WARN : Sound       , 1668224889281> GameSounds.initClipEvents> No such FMOD event "Character/Survival/Carpentry/Screwing" for GameSound "Screwdriver".
+[11-11-22 19:48:09.282] WARN : Sound       , 1668224889282> GameSounds.initClipEvents> No such FMOD event "NewMusic/WWL_Solo" for GameSound "NewMusic_WWL_Solo".
+[11-11-22 19:48:09.282] WARN : Sound       , 1668224889282> GameSounds.initClipEvents> No such FMOD event "NewMusic/32" for GameSound "NewMusic_32".
+[11-11-22 19:48:09.282] WARN : Sound       , 1668224889282> GameSounds.initClipEvents> No such FMOD event "NewMusic/33" for GameSound "NewMusic_33".
+[11-11-22 19:48:09.282] WARN : Sound       , 1668224889282> GameSounds.initClipEvents> No such FMOD event "NewMusic/34" for GameSound "NewMusic_34".
+[11-11-22 19:48:09.282] WARN : Sound       , 1668224889282> GameSounds.initClipEvents> No such FMOD event "NewMusic/35" for GameSound "NewMusic_35".
+[11-11-22 19:48:09.283] WARN : Sound       , 1668224889283> GameSounds.initClipEvents> No such FMOD event "NewMusic/36" for GameSound "NewMusic_36".
+[11-11-22 19:48:09.283] WARN : Sound       , 1668224889283> GameSounds.initClipEvents> No such FMOD event "NewMusic/Travelling" for GameSound "NewMusic_Travelling".
+[11-11-22 19:48:09.283] WARN : Sound       , 1668224889283> GameSounds.initClipEvents> No such FMOD event "NewMusic/TakeStock" for GameSound "NewMusic_TakeStock".
+[11-11-22 19:48:09.283] WARN : Sound       , 1668224889283> GameSounds.initClipEvents> No such FMOD event "NewMusic/PassingTime" for GameSound "NewMusic_PassingTime".
+[11-11-22 19:48:09.283] WARN : Sound       , 1668224889283> GameSounds.initClipEvents> No such FMOD event "NewMusic/NoTime" for GameSound "NewMusic_NoTime".
+[11-11-22 19:48:09.284] WARN : Sound       , 1668224889284> GameSounds.initClipEvents> No such FMOD event "NewMusic/MoreAreComing" for GameSound "NewMusic_MoreAreComing".
+[11-11-22 19:48:09.284] WARN : Sound       , 1668224889284> GameSounds.initClipEvents> No such FMOD event "NewMusic/OnlyOneWay" for GameSound "NewMusic_OnlyOneWay".
+[11-11-22 19:48:09.284] WARN : Sound       , 1668224889284> GameSounds.initClipEvents> No such FMOD event "NewMusic/KeepMoving" for GameSound "NewMusic_KeepMoving".
+[11-11-22 19:48:09.284] WARN : Sound       , 1668224889284> GameSounds.initClipEvents> No such FMOD event "NewMusic/GoItAlone" for GameSound "NewMusic_GoItAlone".
+[11-11-22 19:48:09.284] WARN : Sound       , 1668224889284> GameSounds.initClipEvents> No such FMOD event "NewMusic/Sunrise" for GameSound "NewMusic_Sunrise".
+[11-11-22 19:48:09.285] WARN : Sound       , 1668224889285> GameSounds.initClipEvents> No such FMOD event "NewMusic/HoldingOutHope" for GameSound "NewMusic_HoldingOutHope".
+[11-11-22 19:48:09.285] WARN : Sound       , 1668224889285> GameSounds.initClipEvents> No such FMOD event "NewMusic/Working" for GameSound "NewMusic_Working".
+[11-11-22 19:48:09.285] WARN : Sound       , 1668224889285> GameSounds.initClipEvents> No such FMOD event "NewMusic/Sunset" for GameSound "NewMusic_Sunset".
+[11-11-22 19:48:09.285] WARN : Sound       , 1668224889285> GameSounds.initClipEvents> No such FMOD event "NewMusic/Mourning" for GameSound "NewMusic_Mourning".
+[11-11-22 19:48:09.285] WARN : Sound       , 1668224889285> GameSounds.initClipEvents> No such FMOD event "NewMusic/LookingAround" for GameSound "NewMusic_LookingAround".
+[11-11-22 19:48:09.285] WARN : Sound       , 1668224889285> GameSounds.initClipEvents> No such FMOD event "NewMusic/Waiting" for GameSound "NewMusic_Waiting".
+[11-11-22 19:48:09.286] WARN : Sound       , 1668224889286> GameSounds.initClipEvents> No such FMOD event "NewMusic/Overrun" for GameSound "NewMusic_Overrun".
+[11-11-22 19:48:09.286] WARN : Sound       , 1668224889286> GameSounds.initClipEvents> No such FMOD event "NewMusic/Rest" for GameSound "NewMusic_Rest".
+[11-11-22 19:48:09.286] WARN : Sound       , 1668224889286> GameSounds.initClipEvents> No such FMOD event "NewMusic/PressOn" for GameSound "NewMusic_PressOn".
+[11-11-22 19:48:09.286] WARN : Sound       , 1668224889286> GameSounds.initClipEvents> No such FMOD event "NewMusic/CalmBeforeTheStorm" for GameSound "NewMusic_CalmBeforeTheStorm".
+[11-11-22 19:48:09.286] WARN : Sound       , 1668224889286> GameSounds.initClipEvents> No such FMOD event "NewMusic/GetReady" for GameSound "NewMusic_GetReady".
+[11-11-22 19:48:09.287] WARN : Sound       , 1668224889287> GameSounds.initClipEvents> No such FMOD event "NewMusic/EchoesFromBefore" for GameSound "NewMusic_EchoesFromBefore".
+[11-11-22 19:48:09.287] WARN : Sound       , 1668224889287> GameSounds.initClipEvents> No such FMOD event "NewMusic/Surrounded" for GameSound "NewMusic_Surrounded".
+[11-11-22 19:48:09.287] WARN : Sound       , 1668224889287> GameSounds.initClipEvents> No such FMOD event "NewMusic/ThePlan" for GameSound "NewMusic_ThePlan".
+[11-11-22 19:48:09.287] WARN : Sound       , 1668224889287> GameSounds.initClipEvents> No such FMOD event "NewMusic/Gear_Up" for GameSound "NewMusic_GearUp".
+[11-11-22 19:48:09.287] WARN : Sound       , 1668224889287> GameSounds.initClipEvents> No such FMOD event "NewMusic/Finally_Calm" for GameSound "NewMusic_FinallyCalm".
+[11-11-22 19:48:09.287] WARN : Sound       , 1668224889287> GameSounds.initClipEvents> No such FMOD event "NewMusic/PatchUp" for GameSound "NewMusic_PatchUp".
+[11-11-22 19:48:09.287] WARN : Sound       , 1668224889287> GameSounds.initClipEvents> No such FMOD event "NewMusic/TheyreClose" for GameSound "NewMusic_TheyreClose".
+[11-11-22 19:48:09.288] WARN : Sound       , 1668224889288> GameSounds.initClipEvents> No such FMOD event "NewMusic/ThinkingOfThePast" for GameSound "NewMusic_ThinkingOfThePast".
+[11-11-22 19:48:09.288] WARN : Sound       , 1668224889288> GameSounds.initClipEvents> No such FMOD event "NewMusic/TouchAndGo" for GameSound "NewMusic_TouchAndGo".
+[11-11-22 19:48:09.288] WARN : Sound       , 1668224889288> GameSounds.initClipEvents> No such FMOD event "NewMusic/Tread_Carefully" for GameSound "NewMusic_Tread_Carefully".
+[11-11-22 19:48:09.288] WARN : Sound       , 1668224889288> GameSounds.initClipEvents> No such FMOD event "NewMusic/Everythings_Gone" for GameSound "NewMusic_Everythings_Gone".
+[11-11-22 19:48:09.288] WARN : Sound       , 1668224889288> GameSounds.initClipEvents> No such FMOD event "AmbientMusic/BrassAmbient" for GameSound "AmbientMusic_BrassAmbient".
+[11-11-22 19:48:09.288] WARN : Sound       , 1668224889288> GameSounds.initClipEvents> No such FMOD event "AmbientMusic/CreepyAmbient" for GameSound "AmbientMusic_CreepyAmbient".
+[11-11-22 19:48:09.289] WARN : Sound       , 1668224889289> GameSounds.initClipEvents> No such FMOD event "AmbientMusic/IntenseAmbient" for GameSound "AmbientMusic_IntenseAmbient".
+[11-11-22 19:48:09.289] WARN : Sound       , 1668224889289> GameSounds.initClipEvents> No such FMOD event "AmbientMusic/PercussiveAmbient" for GameSound "AmbientMusic_PercussiveAmbient".
+[11-11-22 19:48:09.289] WARN : Sound       , 1668224889289> GameSounds.initClipEvents> No such FMOD event "AmbientMusic/RhythmicAmbient" for GameSound "AmbientMusic_RhythmicAmbient".
+[11-11-22 19:48:09.289] WARN : Sound       , 1668224889289> GameSounds.initClipEvents> No such FMOD event "AmbientMusic/VoiceAmbient" for GameSound "AmbientMusic_VoiceAmbient".
+[11-11-22 19:48:09.289] WARN : Sound       , 1668224889289> GameSounds.initClipEvents> No such FMOD event "AmbientMusic/ZombieAmbient" for GameSound "AmbientMusic_ZombieAmbient".
+[11-11-22 19:48:09.290] WARN : Sound       , 1668224889290> GameSounds.initClipEvents> No such FMOD event "NewMusic/Alone" for GameSound "NewMusic_Alone".
+[11-11-22 19:48:09.290] WARN : Sound       , 1668224889290> GameSounds.initClipEvents> No such FMOD event "NewMusic/Barricading" for GameSound "NewMusic_Barricading".
+[11-11-22 19:48:09.290] WARN : Sound       , 1668224889290> GameSounds.initClipEvents> No such FMOD event "NewMusic/Chase" for GameSound "NewMusic_Chase".
+[11-11-22 19:48:09.290] WARN : Sound       , 1668224889290> GameSounds.initClipEvents> No such FMOD event "NewMusic/Desperate Escape" for GameSound "NewMusic_DesperateEscape".
+[11-11-22 19:48:09.291] WARN : Sound       , 1668224889290> GameSounds.initClipEvents> No such FMOD event "NewMusic/Fight or Flight" for GameSound "NewMusic_FightOrFlight".
+[11-11-22 19:48:09.291] WARN : Sound       , 1668224889291> GameSounds.initClipEvents> No such FMOD event "NewMusic/Introduction" for GameSound "NewMusic_Introduction".
+[11-11-22 19:48:09.291] WARN : Sound       , 1668224889291> GameSounds.initClipEvents> No such FMOD event "NewMusic/Main Theme" for GameSound "NewMusic_MainTheme".
+[11-11-22 19:48:09.291] WARN : Sound       , 1668224889291> GameSounds.initClipEvents> No such FMOD event "NewMusic/Maybe Not" for GameSound "NewMusic_MaybeNot".
+[11-11-22 19:48:09.291] WARN : Sound       , 1668224889291> GameSounds.initClipEvents> No such FMOD event "NewMusic/Maybe We Can Win This" for GameSound "NewMusic_MaybeWeCanWinThis".
+[11-11-22 19:48:09.291] WARN : Sound       , 1668224889291> GameSounds.initClipEvents> No such FMOD event "NewMusic/Run" for GameSound "NewMusic_Run".
+[11-11-22 19:48:09.292] WARN : Sound       , 1668224889292> GameSounds.initClipEvents> No such FMOD event "NewMusic/Slow Sad" for GameSound "NewMusic_SlowSad".
+[11-11-22 19:48:09.292] WARN : Sound       , 1668224889292> GameSounds.initClipEvents> No such FMOD event "NewMusic/They Were Once Here" for GameSound "NewMusic_TheyWereOnceHere".
+[11-11-22 19:48:09.292] WARN : Sound       , 1668224889292> GameSounds.initClipEvents> No such FMOD event "NewMusic/Saying Goodbye" for GameSound "NewMusic_SayingGoodbye".
+[11-11-22 19:48:09.292] WARN : Sound       , 1668224889292> GameSounds.initClipEvents> No such FMOD event "NewMusic/The Horde" for GameSound "NewMusic_TheHorde".
+[11-11-22 19:48:09.292] WARN : Sound       , 1668224889292> GameSounds.initClipEvents> No such FMOD event "NewMusic/Death" for GameSound "NewMusic_Death".
+[11-11-22 19:48:09.293] WARN : Sound       , 1668224889293> GameSounds.initClipEvents> No such FMOD event "NewMusic/The Inevitable" for GameSound "NewMusic_TheInevitable".
+[11-11-22 19:48:09.293] WARN : Sound       , 1668224889293> GameSounds.initClipEvents> No such FMOD event "NewMusic/The Zombie Threat" for GameSound "NewMusic_TheZombieThreat".
+[11-11-22 19:48:09.293] WARN : Sound       , 1668224889293> GameSounds.initClipEvents> No such FMOD event "NewMusic/What Was Lost" for GameSound "NewMusic_WhatWasLost".
+[11-11-22 19:48:09.293] WARN : Sound       , 1668224889293> GameSounds.initClipEvents> No such FMOD event "NewMusic/What Was Lost Active" for GameSound "NewMusic_WhatWasLostActive".
+[11-11-22 19:48:09.293] WARN : Sound       , 1668224889293> GameSounds.initClipEvents> No such FMOD event "NewMusic/What Was Lost Active 2" for GameSound "NewMusic_WhatWasLostActive2".
+[11-11-22 19:48:09.293] WARN : Sound       , 1668224889293> GameSounds.initClipEvents> No such FMOD event "NewMusic/Where is Everyone" for GameSound "NewMusic_WhereIsEveryone".
+[11-11-22 19:48:09.294] WARN : Sound       , 1668224889294> GameSounds.initClipEvents> No such FMOD event "NewMusic/Work Fast" for GameSound "NewMusic_WorkFast".
+[11-11-22 19:48:09.294] WARN : Sound       , 1668224889294> GameSounds.initClipEvents> No such FMOD event "NewMusic/Ambient" for GameSound "NewMusic_Ambient".
+[11-11-22 19:48:09.294] WARN : Sound       , 1668224889294> GameSounds.initClipEvents> No such FMOD event "NewMusic/Ambient Guitar" for GameSound "NewMusic_AmbientGuitar".
+[11-11-22 19:48:09.294] WARN : Sound       , 1668224889294> GameSounds.initClipEvents> No such FMOD event "NewMusic/Ambient Low" for GameSound "NewMusic_AmbientLow".
+[11-11-22 19:48:09.294] WARN : Sound       , 1668224889294> GameSounds.initClipEvents> No such FMOD event "NewMusic/NoGoingBack" for GameSound "NewMusic_AmbientPiano".
+[11-11-22 19:48:09.295] WARN : Sound       , 1668224889295> GameSounds.initClipEvents> No such FMOD event "NewMusic/Ambient Raider" for GameSound "NewMusic_AmbientRaider".
+[11-11-22 19:48:09.295] WARN : Sound       , 1668224889295> GameSounds.initClipEvents> No such FMOD event "OldMusic/alone" for GameSound "OldMusic_alone".
+[11-11-22 19:48:09.295] WARN : Sound       , 1668224889295> GameSounds.initClipEvents> No such FMOD event "OldMusic/barricading" for GameSound "OldMusic_barricading".
+[11-11-22 19:48:09.295] WARN : Sound       , 1668224889295> GameSounds.initClipEvents> No such FMOD event "OldMusic/chase" for GameSound "OldMusic_chase".
+[11-11-22 19:48:09.295] WARN : Sound       , 1668224889295> GameSounds.initClipEvents> No such FMOD event "OldMusic/desperate_escape" for GameSound "OldMusic_desperate_escape".
+[11-11-22 19:48:09.296] WARN : Sound       , 1668224889296> GameSounds.initClipEvents> No such FMOD event "OldMusic/fight_or_flight" for GameSound "OldMusic_fight_or_flight".
+[11-11-22 19:48:09.296] WARN : Sound       , 1668224889296> GameSounds.initClipEvents> No such FMOD event "OldMusic/maybe_not" for GameSound "OldMusic_maybe_not".
+[11-11-22 19:48:09.296] WARN : Sound       , 1668224889296> GameSounds.initClipEvents> No such FMOD event "OldMusic/maybe_we_can_win_this" for GameSound "OldMusic_maybe_we_can_win_this".
+[11-11-22 19:48:09.297] WARN : Sound       , 1668224889297> GameSounds.initClipEvents> No such FMOD event "OldMusic/preface" for GameSound "OldMusic_preface".
+[11-11-22 19:48:09.297] WARN : Sound       , 1668224889297> GameSounds.initClipEvents> No such FMOD event "OldMusic/PZ" for GameSound "OldMusic_PZ".
+[11-11-22 19:48:09.297] WARN : Sound       , 1668224889297> GameSounds.initClipEvents> No such FMOD event "OldMusic/run" for GameSound "OldMusic_run".
+[11-11-22 19:48:09.297] WARN : Sound       , 1668224889297> GameSounds.initClipEvents> No such FMOD event "OldMusic/saying_goodbye" for GameSound "OldMusic_saying_goodbye".
+[11-11-22 19:48:09.298] WARN : Sound       , 1668224889298> GameSounds.initClipEvents> No such FMOD event "OldMusic/the_horde" for GameSound "OldMusic_the_horde".
+[11-11-22 19:48:09.298] WARN : Sound       , 1668224889298> GameSounds.initClipEvents> No such FMOD event "OldMusic/the_inevitable" for GameSound "OldMusic_the_inevitable".
+[11-11-22 19:48:09.298] WARN : Sound       , 1668224889298> GameSounds.initClipEvents> No such FMOD event "OldMusic/theme2" for GameSound "OldMusic_theme2".
+[11-11-22 19:48:09.299] WARN : Sound       , 1668224889299> GameSounds.initClipEvents> No such FMOD event "OldMusic/they_were_once_here" for GameSound "OldMusic_they_were_once_here".
+[11-11-22 19:48:09.299] WARN : Sound       , 1668224889299> GameSounds.initClipEvents> No such FMOD event "OldMusic/the_zombie_threat" for GameSound "OldMusic_the_zombie_threat".
+[11-11-22 19:48:09.299] WARN : Sound       , 1668224889299> GameSounds.initClipEvents> No such FMOD event "OldMusic/tunedeath" for GameSound "OldMusic_tunedeath".
+[11-11-22 19:48:09.299] WARN : Sound       , 1668224889299> GameSounds.initClipEvents> No such FMOD event "OldMusic/what_was_lost" for GameSound "OldMusic_what_was_lost".
+[11-11-22 19:48:09.299] WARN : Sound       , 1668224889299> GameSounds.initClipEvents> No such FMOD event "OldMusic/wwl_active" for GameSound "OldMusic_wwl_active".
+[11-11-22 19:48:09.300] WARN : Sound       , 1668224889300> GameSounds.initClipEvents> No such FMOD event "OldMusic/wwl_tense" for GameSound "OldMusic_wwl_tense".
+[11-11-22 19:48:09.300] WARN : Sound       , 1668224889300> GameSounds.initClipEvents> No such FMOD event "OldMusic/where_is_everyone" for GameSound "OldMusic_where_is_everyone".
+[11-11-22 19:48:09.300] WARN : Sound       , 1668224889300> GameSounds.initClipEvents> No such FMOD event "OldMusic/work_fast" for GameSound "OldMusic_work_fast".
+[11-11-22 19:48:09.300] WARN : Sound       , 1668224889300> GameSounds.initClipEvents> No such FMOD event "OldMusic/ambient1" for GameSound "OldMusic_ambient1".
+[11-11-22 19:48:09.301] WARN : Sound       , 1668224889301> GameSounds.initClipEvents> No such FMOD event "OldMusic/ambient2" for GameSound "OldMusic_ambient2".
+[11-11-22 19:48:09.301] WARN : Sound       , 1668224889301> GameSounds.initClipEvents> No such FMOD event "OldMusic/guitar" for GameSound "OldMusic_guitar".
+[11-11-22 19:48:09.301] WARN : Sound       , 1668224889301> GameSounds.initClipEvents> No such FMOD event "OldMusic/low" for GameSound "OldMusic_low".
+[11-11-22 19:48:09.301] WARN : Sound       , 1668224889301> GameSounds.initClipEvents> No such FMOD event "OldMusic/long_ambient" for GameSound "OldMusic_long_ambient".
+[11-11-22 19:48:09.301] WARN : Sound       , 1668224889301> GameSounds.initClipEvents> No such FMOD event "OldMusic/piano" for GameSound "OldMusic_piano".
+[11-11-22 19:48:09.302] WARN : Sound       , 1668224889302> GameSounds.initClipEvents> No such FMOD event "OldMusic/raider" for GameSound "OldMusic_raider".
+[11-11-22 19:48:09.302] WARN : Sound       , 1668224889302> GameSounds.initClipEvents> No such FMOD event "Object/WoodDoor/Creak" for GameSound "WoodDoorCreak".
+[11-11-22 19:48:09.302] WARN : Sound       , 1668224889302> GameSounds.initClipEvents> No such FMOD event "Object/WoodShackDoor/Creak" for GameSound "WoodShackDoorCreak".
+[11-11-22 19:48:09.303] WARN : Sound       , 1668224889303> GameSounds.initClipEvents> No such FMOD event "Object/Window/Rattle" for GameSound "WindowRattle".
+[11-11-22 19:48:09.303] WARN : Sound       , 1668224889303> GameSounds.initClipEvents> No such FMOD event "Object/WoodDoor/Creak" for GameSound "WoodDoorCreaks".
+[11-11-22 19:48:09.304] WARN : Sound       , 1668224889304> GameSounds.initClipEvents> No such FMOD event "Weapon/Melee/BluntLong/WoodenSpear/Stab" for GameSound "SpearBreadKnifeStab".
+[11-11-22 19:48:09.304] WARN : Sound       , 1668224889304> GameSounds.initClipEvents> No such FMOD event "Weapon/Melee/BluntLong/WoodenSpear/Stab" for GameSound "SpearButterKnifeStab".
+[11-11-22 19:48:09.304] WARN : Sound       , 1668224889304> GameSounds.initClipEvents> No such FMOD event "Weapon/Melee/BluntLong/WoodenSpear/Stab" for GameSound "SpearCraftedStab".
+[11-11-22 19:48:09.305] WARN : Sound       , 1668224889305> GameSounds.initClipEvents> No such FMOD event "Weapon/Melee/BluntLong/WoodenSpear/Stab" for GameSound "SpearForkStab".
+[11-11-22 19:48:09.305] WARN : Sound       , 1668224889305> GameSounds.initClipEvents> No such FMOD event "Weapon/Melee/BluntLong/WoodenSpear/Stab" for GameSound "SpearHandForkStab".
+[11-11-22 19:48:09.305] WARN : Sound       , 1668224889305> GameSounds.initClipEvents> No such FMOD event "Weapon/Melee/BluntLong/WoodenSpear/Stab" for GameSound "SpearHuntingKnifeStab".
+[11-11-22 19:48:09.305] WARN : Sound       , 1668224889305> GameSounds.initClipEvents> No such FMOD event "Weapon/Melee/BluntLong/WoodenSpear/Stab" for GameSound "SpearIcePickStab".
+[11-11-22 19:48:09.305] WARN : Sound       , 1668224889305> GameSounds.initClipEvents> No such FMOD event "Weapon/Melee/BluntLong/WoodenSpear/Stab" for GameSound "SpearKnifeStab".
+[11-11-22 19:48:09.305] WARN : Sound       , 1668224889305> GameSounds.initClipEvents> No such FMOD event "Weapon/Melee/BluntLong/WoodenSpear/Stab" for GameSound "SpearLetterOpenerStab".
+[11-11-22 19:48:09.306] WARN : Sound       , 1668224889306> GameSounds.initClipEvents> No such FMOD event "Weapon/Melee/BluntLong/WoodenSpear/Stab" for GameSound "SpearMacheteStab".
+[11-11-22 19:48:09.306] WARN : Sound       , 1668224889306> GameSounds.initClipEvents> No such FMOD event "Weapon/Melee/BluntLong/WoodenSpear/Stab" for GameSound "SpearScalpelStab".
+[11-11-22 19:48:09.306] WARN : Sound       , 1668224889306> GameSounds.initClipEvents> No such FMOD event "Weapon/Melee/BluntLong/WoodenSpear/Stab" for GameSound "SpearScissorsStab".
+[11-11-22 19:48:09.306] WARN : Sound       , 1668224889306> GameSounds.initClipEvents> No such FMOD event "Weapon/Melee/BluntLong/WoodenSpear/Stab" for GameSound "SpearScrewdriverStab".
+[11-11-22 19:48:09.306] WARN : Sound       , 1668224889306> GameSounds.initClipEvents> No such FMOD event "Weapon/Melee/BluntLong/WoodenSpear/Stab" for GameSound "SpearSpoonStab".
+[11-11-22 19:48:09.307] WARN : Sound       , 1668224889307> GameSounds.initClipEvents> No such FMOD event "Weapon/Melee/BluntLong/WoodenSpear/Stab" for GameSound "WoodenLanceStab".
+[11-11-22 19:48:09.309] WARN : Script      , 1668224889309> ModelScript.check> no such model "null" for Base.BareHands.
+[11-11-22 19:48:09.310] WARN : Script      , 1668224889310> ModelScript.check> no such model "???.DisposableRazor" for Base.Razor.
+[11-11-22 19:48:09.314] WARN : Script      , 1668224889314> ModelScript.checkTexture> no such texture "WorldItems/Crayfish" for Base.Crayfish_Ground.
+[11-11-22 19:48:09.315] WARN : Script      , 1668224889315> ModelScript.check> no such model "Chainsaw" for Base.Chainsaw.
+[11-11-22 19:48:10.134] LOG  : Lua         , 1668224890134> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[11-11-22 19:48:10.555] LOG  : Lua         , 1668224890555> Loading: media/lua/shared/a_requires.lua.
+[11-11-22 19:48:10.555] LOG  : Lua         , 1668224890555> Loading: media/lua/shared/defines.lua.
+[11-11-22 19:48:10.556] LOG  : Lua         , 1668224890556> Loading: media/lua/shared/Definitions/AttachedWeaponDefinitions.lua.
+[11-11-22 19:48:10.560] LOG  : Lua         , 1668224890560> Loading: media/lua/shared/Definitions/ClothingRecipesDefinitions.lua.
+[11-11-22 19:48:10.560] LOG  : Lua         , 1668224890560> Loading: media/lua/shared/Definitions/ClothingSelectionDefinitions.lua.
+[11-11-22 19:48:10.562] LOG  : Lua         , 1668224890562> Loading: media/lua/shared/Definitions/ContainerButtonIcons.lua.
+[11-11-22 19:48:10.575] LOG  : Lua         , 1668224890575> Loading: media/lua/shared/Definitions/DamageModelDefinitions.lua.
+[11-11-22 19:48:10.576] LOG  : Lua         , 1668224890576> Loading: media/lua/shared/Definitions/DefaultClothing.lua.
+[11-11-22 19:48:10.576] LOG  : Lua         , 1668224890576> Loading: media/lua/shared/Definitions/FitnessExercises.lua.
+[11-11-22 19:48:10.577] LOG  : Lua         , 1668224890577> Loading: media/lua/shared/Definitions/HairOutfitDefinitions.lua.
+[11-11-22 19:48:10.578] LOG  : Lua         , 1668224890578> Loading: media/lua/shared/Definitions/MakeUpDefinitions.lua.
+[11-11-22 19:48:10.579] LOG  : Lua         , 1668224890579> Loading: media/lua/shared/Definitions/MapSymbolDefinitions.lua.
+[11-11-22 19:48:10.602] LOG  : Lua         , 1668224890602> Loading: media/lua/shared/Definitions/SmashedCarDefinitions.lua.
+[11-11-22 19:48:10.603] LOG  : Lua         , 1668224890603> Loading: media/lua/shared/Definitions/UnderwearDefinition.lua.
+[11-11-22 19:48:10.603] LOG  : Lua         , 1668224890603> Loading: media/lua/shared/Fishing/fishing_properties.lua.
+[11-11-22 19:48:10.606] LOG  : Lua         , 1668224890606> Loading: media/lua/shared/Foraging/forageDefinitions.lua.
+[11-11-22 19:48:10.630] LOG  : Lua         , 1668224890630> Loading: media/lua/shared/Foraging/forageSystem.lua.
+[11-11-22 19:48:10.638] LOG  : Lua         , 1668224890638> Loading: media/lua/shared/ISBaseObject.lua.
+[11-11-22 19:48:10.639] LOG  : Lua         , 1668224890639> Loading: media/lua/shared/iwbumstempmodelcompat.lua.
+[11-11-22 19:48:10.639] LOG  : Lua         , 1668224890639> Loading: media/lua/shared/JoyPad/JoyPadSetup.lua.
+[11-11-22 19:48:10.655] LOG  : Lua         , 1668224890655> Loading: media/lua/shared/keyBinding.lua.
+[11-11-22 19:48:10.657] LOG  : Lua         , 1668224890657> Loading: media/lua/shared/Logs/ISLogSystem.lua.
+[11-11-22 19:48:10.658] LOG  : Lua         , 1668224890658> Loading: media/lua/shared/Logs/ISPerkLog.lua.
+[11-11-22 19:48:10.659] LOG  : Lua         , 1668224890659> Loading: media/lua/shared/luautils.lua.
+[11-11-22 19:48:10.661] LOG  : Lua         , 1668224890661> Loading: media/lua/shared/NPCs/AttachedLocations.lua.
+[11-11-22 19:48:10.663] LOG  : Lua         , 1668224890663> Loading: media/lua/shared/NPCs/BodyLocations.lua.
+[11-11-22 19:48:10.669] LOG  : Lua         , 1668224890669> Loading: media/lua/shared/NPCs/MainCreationMethods.lua.
+[11-11-22 19:48:10.684] LOG  : Lua         , 1668224890684> Loading: media/lua/shared/NPCs/ZombiesZoneDefinition.lua.
+[11-11-22 19:48:10.686] LOG  : Lua         , 1668224890686> Loading: media/lua/shared/RecordedMedia/ISRecordeMedia.lua.
+[11-11-22 19:48:10.687] LOG  : Lua         , 1668224890687> Loading: media/lua/shared/RecordedMedia/recorded_media.lua.
+[11-11-22 19:48:10.730] LOG  : Lua         , 1668224890730> Loading: media/lua/shared/Reloading/ISRackAction.lua.
+[11-11-22 19:48:10.731] LOG  : Lua         , 1668224890731> Loading: media/lua/shared/TimedActions/ISBaseTimedAction.lua.
+[11-11-22 19:48:10.732] LOG  : Lua         , 1668224890732> Loading: media/lua/shared/Reloading/ISReloadable.lua.
+[11-11-22 19:48:10.734] LOG  : Lua         , 1668224890734> Loading: media/lua/shared/Reloading/ISReloadableMagazine.lua.
+[11-11-22 19:48:10.734] LOG  : Lua         , 1668224890734> Loading: media/lua/shared/Reloading/ISReloadableWeapon.lua.
+[11-11-22 19:48:10.735] LOG  : Lua         , 1668224890735> Loading: media/lua/shared/Reloading/ISReloadAction.lua.
+[11-11-22 19:48:10.735] LOG  : Lua         , 1668224890735> Loading: media/lua/shared/Reloading/ISReloadManager.lua.
+[11-11-22 19:48:10.736] LOG  : Lua         , 1668224890736> Loading: media/lua/shared/Reloading/ISReloadUtil.lua.
+[11-11-22 19:48:10.737] LOG  : Lua         , 1668224890737> Loading: media/lua/shared/Reloading/ISSemiAutoWeapon.lua.
+[11-11-22 19:48:10.739] LOG  : Lua         , 1668224890739> Loading: media/lua/shared/Reloading/ISShotgunWeapon.lua.
+[11-11-22 19:48:10.740] LOG  : Lua         , 1668224890740> Loading: media/lua/shared/Reloading/ISRevolverWeapon.lua.
+[11-11-22 19:48:10.741] LOG  : Lua         , 1668224890741> Loading: media/lua/shared/Reloading/stormysReload.lua.
+[11-11-22 19:48:10.742] LOG  : Lua         , 1668224890741> Loading: media/lua/shared/Sandbox/Beginner.lua.
+[11-11-22 19:48:10.742] LOG  : Lua         , 1668224890742> Loading: media/lua/shared/Sandbox/Builder.lua.
+[11-11-22 19:48:10.743] LOG  : Lua         , 1668224890743> Loading: media/lua/shared/Sandbox/FirstWeek.lua.
+[11-11-22 19:48:10.743] LOG  : Lua         , 1668224890743> Loading: media/lua/shared/Sandbox/SandboxVars.lua.
+[11-11-22 19:48:10.744] LOG  : Lua         , 1668224890744> Loading: media/lua/shared/Sandbox/Survival.lua.
+[11-11-22 19:48:10.745] LOG  : Lua         , 1668224890745> Loading: media/lua/shared/Sandbox/SixMonthsLater.lua.
+[11-11-22 19:48:10.745] LOG  : Lua         , 1668224890745> Loading: media/lua/shared/Sandbox/Survivor.lua.
+[11-11-22 19:48:10.746] LOG  : Lua         , 1668224890746> Loading: media/lua/shared/SoundBanks/SoundBanks.lua.
+[11-11-22 19:48:10.748] LOG  : Lua         , 1668224890748> Loading: media/lua/shared/SpawnRegions.lua.
+[11-11-22 19:48:10.749] LOG  : Lua         , 1668224890749> Loading: media/lua/shared/StashDescriptions/LouisvilleStashDesc.lua.
+[11-11-22 19:48:10.750] LOG  : Lua         , 1668224890750> Loading: media/lua/shared/StashDescriptions/StashUtil.lua.
+[11-11-22 19:48:10.751] LOG  : Lua         , 1668224890751> Loading: media/lua/shared/StashDescriptions/MarchRidgeStashDesc.lua.
+[11-11-22 19:48:10.752] LOG  : Lua         , 1668224890752> Loading: media/lua/shared/StashDescriptions/MulStashDesc.lua.
+[11-11-22 19:48:10.754] LOG  : Lua         , 1668224890754> Loading: media/lua/shared/StashDescriptions/RiversideStashDesc.lua.
+[11-11-22 19:48:10.755] LOG  : Lua         , 1668224890755> Loading: media/lua/shared/StashDescriptions/RosewoodStashDesc.lua.
+[11-11-22 19:48:10.756] LOG  : Lua         , 1668224890756> Loading: media/lua/shared/StashDescriptions/WpStashDesc.lua.
+[11-11-22 19:48:10.757] LOG  : Lua         , 1668224890757> Loading: media/lua/shared/Util/AdjacentFreeTileFinder.lua.
+[11-11-22 19:48:10.759] LOG  : Lua         , 1668224890759> Loading: media/lua/shared/Util/BuildingHelper.lua.
+[11-11-22 19:48:10.760] LOG  : Lua         , 1668224890760> Loading: media/lua/shared/Util/ISPriorityTable.lua.
+[11-11-22 19:48:10.760] LOG  : Lua         , 1668224890760> Loading: media/lua/shared/Util/LuaList.lua.
+[11-11-22 19:48:10.761] LOG  : Lua         , 1668224890761> Loading: media/lua/shared/Util/LuaNet.lua.
+[11-11-22 19:48:10.763] LOG  : Lua         , 1668224890763> Loading: media/lua/shared/Util/StringReplacer.lua.
+[11-11-22 19:48:10.763] LOG  : Lua         , 1668224890763> Loading: media/lua/shared/VehicleZoneDefinition.lua.
+[11-11-22 19:48:11.271] LOG  : Lua         , 1668224891271> Loading: media/lua/client/Blacksmith/ISUI/ISBlacksmithMenu.lua.
+[11-11-22 19:48:11.275] LOG  : Lua         , 1668224891275> Loading: media/lua/client/Blacksmith/ISUI/ISFurnaceInfoWindow.lua.
+[11-11-22 19:48:11.276] LOG  : Lua         , 1668224891276> Loading: media/lua/client/ISUI/ISCollapsableWindow.lua.
+[11-11-22 19:48:11.277] LOG  : Lua         , 1668224891277> Loading: media/lua/client/ISUI/ISPanel.lua.
+[11-11-22 19:48:11.277] LOG  : Lua         , 1668224891277> Loading: media/lua/client/ISUI/ISUIElement.lua.
+[11-11-22 19:48:11.279] LOG  : Lua         , 1668224891279> Loading: media/lua/client/ISUI/ISButton.lua.
+[11-11-22 19:48:11.281] LOG  : Lua         , 1668224891281> Loading: media/lua/client/ISUI/ISInventoryPane.lua.
+[11-11-22 19:48:11.286] LOG  : Lua         , 1668224891286> Loading: media/lua/client/ISUI/ISMouseDrag.lua.
+[11-11-22 19:48:11.286] LOG  : Lua         , 1668224891286> Loading: media/lua/client/TimedActions/ISTimedActionQueue.lua.
+[11-11-22 19:48:11.287] LOG  : Lua         , 1668224891287> Loading: media/lua/client/TimedActions/ISEatFoodAction.lua.
+[11-11-22 19:48:11.288] LOG  : Lua         , 1668224891288> Loading: media/lua/client/ISUI/ISResizeWidget.lua.
+[11-11-22 19:48:11.288] LOG  : Lua         , 1668224891288> Loading: media/lua/client/Blacksmith/TimedActions/ISAddCoalInFurnace.lua.
+[11-11-22 19:48:11.289] LOG  : Lua         , 1668224891289> Loading: media/lua/client/Blacksmith/TimedActions/ISAddLogsInDrum.lua.
+[11-11-22 19:48:11.289] LOG  : Lua         , 1668224891289> Loading: media/lua/client/Blacksmith/TimedActions/ISDrumLightFromKindle.lua.
+[11-11-22 19:48:11.290] LOG  : Lua         , 1668224891290> Loading: media/lua/client/Blacksmith/TimedActions/ISDrumLightFromLiterature.lua.
+[11-11-22 19:48:11.290] LOG  : Lua         , 1668224891290> Loading: media/lua/client/Blacksmith/TimedActions/ISDrumLightFromPetrol.lua.
+[11-11-22 19:48:11.291] LOG  : Lua         , 1668224891291> Loading: media/lua/client/Blacksmith/TimedActions/ISEmptyDrum.lua.
+[11-11-22 19:48:11.291] LOG  : Lua         , 1668224891291> Loading: media/lua/client/Blacksmith/TimedActions/ISFurnaceInfoAction.lua.
+[11-11-22 19:48:11.292] LOG  : Lua         , 1668224891292> Loading: media/lua/client/ISUI/ISLayoutManager.lua.
+[11-11-22 19:48:11.293] LOG  : Lua         , 1668224891293> Loading: media/lua/client/Blacksmith/TimedActions/ISFurnaceLightFromKindle.lua.
+[11-11-22 19:48:11.294] LOG  : Lua         , 1668224891293> Loading: media/lua/client/Blacksmith/TimedActions/ISFurnaceLightFromLiterature.lua.
+[11-11-22 19:48:11.294] LOG  : Lua         , 1668224891294> Loading: media/lua/client/Blacksmith/TimedActions/ISFurnaceLightFromPetrol.lua.
+[11-11-22 19:48:11.295] LOG  : Lua         , 1668224891295> Loading: media/lua/client/Blacksmith/TimedActions/ISPutOutFireDrum.lua.
+[11-11-22 19:48:11.295] LOG  : Lua         , 1668224891295> Loading: media/lua/client/Blacksmith/TimedActions/ISRemoveCharcoal.lua.
+[11-11-22 19:48:11.296] LOG  : Lua         , 1668224891296> Loading: media/lua/client/Blacksmith/TimedActions/ISRemoveDrum.lua.
+[11-11-22 19:48:11.296] LOG  : Lua         , 1668224891296> Loading: media/lua/client/Blacksmith/TimedActions/ISStopFurnaceFire.lua.
+[11-11-22 19:48:11.296] LOG  : Lua         , 1668224891296> Loading: media/lua/client/Blacksmith/TimedActions/ISUseBellows.lua.
+[11-11-22 19:48:11.297] LOG  : Lua         , 1668224891297> Loading: media/lua/client/BuildingObjects/ISUI/ISBuildMenu.lua.
+[11-11-22 19:48:11.302] LOG  : Lua         , 1668224891302> Loading: media/lua/client/BuildingObjects/ISUI/ISInventoryBuildMenu.lua.
+[11-11-22 19:48:11.302] LOG  : Lua         , 1668224891302> Loading: media/lua/client/BuildingObjects/ISUI/ISPaintMenu.lua.
+[11-11-22 19:48:11.303] LOG  : Lua         , 1668224891303> Loading: media/lua/client/BuildingObjects/TimedActions/ISBuildAction.lua.
+[11-11-22 19:48:11.304] LOG  : Lua         , 1668224891304> Loading: media/lua/client/BuildingObjects/TimedActions/ISInsertLightSourceFuelAction.lua.
+[11-11-22 19:48:11.304] LOG  : Lua         , 1668224891304> Loading: media/lua/client/BuildingObjects/TimedActions/ISMultiStageBuild.lua.
+[11-11-22 19:48:11.305] LOG  : Lua         , 1668224891305> Loading: media/lua/client/BuildingObjects/TimedActions/ISPaintAction.lua.
+[11-11-22 19:48:11.306] LOG  : Lua         , 1668224891306> Loading: media/lua/client/BuildingObjects/TimedActions/ISPaintSignAction.lua.
+[11-11-22 19:48:11.306] LOG  : Lua         , 1668224891306> Loading: media/lua/client/BuildingObjects/TimedActions/ISPlasterAction.lua.
+[11-11-22 19:48:11.307] LOG  : Lua         , 1668224891307> Loading: media/lua/client/BuildingObjects/TimedActions/ISRemoveLightSourceFuelAction.lua.
+[11-11-22 19:48:11.307] LOG  : Lua         , 1668224891307> Loading: media/lua/client/BuildingObjects/TimedActions/ISShovelGround.lua.
+[11-11-22 19:48:11.307] LOG  : Lua         , 1668224891307> Loading: media/lua/client/BuildingObjects/TimedActions/ISToggleLightSourceAction.lua.
+[11-11-22 19:48:11.308] LOG  : Lua         , 1668224891308> Loading: media/lua/client/Camping/CCampfireGlobalObject.lua.
+[11-11-22 19:48:11.308] LOG  : Lua         , 1668224891308> Loading: media/lua/client/Map/CGlobalObject.lua.
+[11-11-22 19:48:11.309] LOG  : Lua         , 1668224891309> Loading: media/lua/client/Camping/CCampfireSystem.lua.
+[11-11-22 19:48:11.309] LOG  : Lua         , 1668224891309> Loading: media/lua/client/Map/CGlobalObjectSystem.lua.
+[11-11-22 19:48:11.310] LOG  : Lua         , 1668224891310> Loading: media/lua/client/Camping/ISUI/ISCampingInfoWindow.lua.
+[11-11-22 19:48:11.310] LOG  : Lua         , 1668224891310> Loading: media/lua/client/Camping/ISUI/ISCampingMenu.lua.
+[11-11-22 19:48:11.312] LOG  : Lua         , 1668224891312> Loading: media/lua/client/Camping/TimedActions/ISAddFuelAction.lua.
+[11-11-22 19:48:11.312] LOG  : Lua         , 1668224891312> Loading: media/lua/client/Camping/TimedActions/ISAddTentAction.lua.
+[11-11-22 19:48:11.313] LOG  : Lua         , 1668224891313> Loading: media/lua/client/Camping/TimedActions/ISLightFromKindle.lua.
+[11-11-22 19:48:11.314] LOG  : Lua         , 1668224891313> Loading: media/lua/client/Camping/TimedActions/ISLightFromLiterature.lua.
+[11-11-22 19:48:11.314] LOG  : Lua         , 1668224891314> Loading: media/lua/client/Camping/TimedActions/ISLightFromPetrol.lua.
+[11-11-22 19:48:11.314] LOG  : Lua         , 1668224891314> Loading: media/lua/client/Camping/TimedActions/ISPlaceCampfireAction.lua.
+[11-11-22 19:48:11.315] LOG  : Lua         , 1668224891315> Loading: media/lua/client/Camping/TimedActions/ISPutOutCampfireAction.lua.
+[11-11-22 19:48:11.315] LOG  : Lua         , 1668224891315> Loading: media/lua/client/Camping/TimedActions/ISRemoveCampfireAction.lua.
+[11-11-22 19:48:11.315] LOG  : Lua         , 1668224891315> Loading: media/lua/client/Camping/TimedActions/ISRemoveTentAction.lua.
+[11-11-22 19:48:11.316] LOG  : Lua         , 1668224891316> Loading: media/lua/client/Camping/TimedActions/ISSleepInTentAction.lua.
+[11-11-22 19:48:11.316] LOG  : Lua         , 1668224891316> Loading: media/lua/client/Chat/ISChat.lua.
+[11-11-22 19:48:11.318] LOG  : Lua         , 1668224891318> Loading: media/lua/client/ISUI/ISRichTextPanel.lua.
+[11-11-22 19:48:11.319] LOG  : Lua         , 1668224891319> Loading: media/lua/client/ISUI/ISTabPanel.lua.
+[11-11-22 19:48:11.321] LOG  : Lua         , 1668224891321> Loading: media/lua/client/Context/Inventory/InvContextMedia.lua.
+[11-11-22 19:48:11.321] LOG  : Lua         , 1668224891321> Loading: media/lua/client/Context/Inventory/InvContextMovable.lua.
+[11-11-22 19:48:11.322] LOG  : Lua         , 1668224891322> Loading: media/lua/client/Context/Inventory/InvContextRadio.lua.
+[11-11-22 19:48:11.322] LOG  : Lua         , 1668224891322> Loading: media/lua/client/Context/ISContextManager.lua.
+[11-11-22 19:48:11.322] LOG  : Lua         , 1668224891322> Loading: media/lua/client/Context/ISMenuContext.lua.
+[11-11-22 19:48:11.323] LOG  : Lua         , 1668224891323> Loading: media/lua/client/Context/ISMenuContextBuild.lua.
+[11-11-22 19:48:11.323] LOG  : Lua         , 1668224891323> Loading: media/lua/client/Context/ISMenuContextInventory.lua.
+[11-11-22 19:48:11.324] LOG  : Lua         , 1668224891324> Loading: media/lua/client/Context/ISMenuContextWorld.lua.
+[11-11-22 19:48:11.325] LOG  : Lua         , 1668224891324> Loading: media/lua/client/Context/ISMenuElement.lua.
+[11-11-22 19:48:11.325] LOG  : Lua         , 1668224891325> Loading: media/lua/client/Context/World/ISContextDebugHighlights.lua.
+[11-11-22 19:48:11.326] LOG  : Lua         , 1668224891326> Loading: media/lua/client/Context/World/ISContextDisassemble.lua.
+[11-11-22 19:48:11.326] LOG  : Lua         , 1668224891326> Loading: media/lua/client/Context/World/ISContextDisksAndTapes.lua.
+[11-11-22 19:48:11.326] LOG  : Lua         , 1668224891326> Loading: media/lua/client/Context/World/ISContextDoor.lua.
+[11-11-22 19:48:11.327] LOG  : Lua         , 1668224891327> Loading: media/lua/client/Context/World/ISContextTelevision.lua.
+[11-11-22 19:48:11.327] LOG  : Lua         , 1668224891327> Loading: media/lua/client/Context/World/TestMarkers.lua.
+[11-11-22 19:48:11.328] LOG  : Lua         , 1668224891328> Loading: media/lua/client/DebugUIs/AdminContextMenu.lua.
+[11-11-22 19:48:11.328] LOG  : Lua         , 1668224891328> Loading: media/lua/client/DebugUIs/AnimationClipViewer.lua.
+[11-11-22 19:48:11.330] LOG  : Lua         , 1668224891330> Loading: media/lua/client/ISUI/ISScrollingListBox.lua.
+[11-11-22 19:48:11.331] LOG  : Lua         , 1668224891331> Loading: media/lua/client/ISUI/ISPanelJoypad.lua.
+[11-11-22 19:48:11.332] LOG  : Lua         , 1668224891332> Loading: media/lua/client/Vehicles/ISUI/ISUI3DScene.lua.
+[11-11-22 19:48:11.333] LOG  : Lua         , 1668224891333> Loading: media/lua/client/DebugUIs/AttachmentEditorUI.lua.
+[11-11-22 19:48:11.335] LOG  : Lua         , 1668224891335> Loading: media/lua/client/DebugUIs/BrushTool/BrushToolChooseTileUI.lua.
+[11-11-22 19:48:11.336] LOG  : Lua         , 1668224891336> Loading: media/lua/client/DebugUIs/BrushTool/BrushToolManager.lua.
+[11-11-22 19:48:11.337] LOG  : Lua         , 1668224891337> Loading: media/lua/client/DebugUIs/BrushTool/FireBrushUI.lua.
+[11-11-22 19:48:11.338] LOG  : Lua         , 1668224891338> Loading: media/lua/client/DebugUIs/DebugChunkState/DebugChunkState_ObjectPickerPanel.lua.
+[11-11-22 19:48:11.338] LOG  : Lua         , 1668224891338> Loading: media/lua/client/DebugUIs/DebugChunkState/DebugChunkState_ObjectProperties.lua.
+[11-11-22 19:48:11.339] LOG  : Lua         , 1668224891339> Loading: media/lua/client/DebugUIs/DebugChunkState/ISSectionedPanel.lua.
+[11-11-22 19:48:11.340] LOG  : Lua         , 1668224891340> Loading: media/lua/client/DebugUIs/DebugChunkState/DebugChunkState_SquarePanel.lua.
+[11-11-22 19:48:11.341] LOG  : Lua         , 1668224891341> Loading: media/lua/client/DebugUIs/DebugChunkState/DebugChunkState_Tools.lua.
+[11-11-22 19:48:11.341] LOG  : Lua         , 1668224891341> Loading: media/lua/client/DebugUIs/DebugChunkState/DebugChunkState_VehicleStoryPanel.lua.
+[11-11-22 19:48:11.341] LOG  : Lua         , 1668224891341> Loading: media/lua/client/DebugUIs/DebugChunkState/DebugChunkStateUI.lua.
+[11-11-22 19:48:11.342] LOG  : Lua         , 1668224891342> Loading: media/lua/client/RadioCom/ISUIRadio/ISSliderPanel.lua.
+[11-11-22 19:48:11.343] LOG  : Lua         , 1668224891343> Loading: media/lua/client/DebugUIs/DebugContextMenu.lua.
+[11-11-22 19:48:11.346] LOG  : Lua         , 1668224891346> Loading: media/lua/client/DebugUIs/DebugErrorsWindow.lua.
+[11-11-22 19:48:11.346] LOG  : Lua         , 1668224891346> Loading: media/lua/client/DebugUIs/DebuggerContextMenu.lua.
+[11-11-22 19:48:11.347] LOG  : Lua         , 1668224891347> Loading: media/lua/client/ISUI/ISContextMenu.lua.
+[11-11-22 19:48:11.349] LOG  : Lua         , 1668224891349> Loading: media/lua/client/DebugUIs/DebugGlobalObjectState/DebugGlobalObjectState_PropertiesPanel.lua.
+[11-11-22 19:48:11.350] LOG  : Lua         , 1668224891350> Loading: media/lua/client/DebugUIs/DebugGlobalObjectState/DebugGlobalObjectState_Tools.lua.
+[11-11-22 19:48:11.351] LOG  : Lua         , 1668224891351> Loading: media/lua/client/DebugUIs/DebugGlobalObjectState/DebugGlobalObjectStateUI.lua.
+[11-11-22 19:48:11.352] LOG  : Lua         , 1668224891352> Loading: media/lua/client/DebugUIs/DebugLogSettings.lua.
+[11-11-22 19:48:11.353] LOG  : Lua         , 1668224891353> Loading: media/lua/client/DebugUIs/DebugMenu/Anims/FloatArrayPlotter.lua.
+[11-11-22 19:48:11.353] LOG  : Lua         , 1668224891353> Loading: media/lua/client/DebugUIs/DebugMenu/Anims/ISAnimDebugMonitor.lua.
+[11-11-22 19:48:11.354] LOG  : Lua         , 1668224891354> Loading: media/lua/client/DebugUIs/DebugMenu/Anims/ISAnimLoggerOutput.lua.
+[11-11-22 19:48:11.354] LOG  : Lua         , 1668224891354> Loading: media/lua/client/DebugUIs/DebugMenu/Base/ISDebugSubPanelBase.lua.
+[11-11-22 19:48:11.355] LOG  : Lua         , 1668224891355> Loading: media/lua/client/DebugUIs/DebugMenu/Base/ISDebugPanelBase.lua.
+[11-11-22 19:48:11.355] LOG  : Lua         , 1668224891355> Loading: media/lua/client/DebugUIs/DebugMenu/Climate/ClimateColorsDebug.lua.
+[11-11-22 19:48:11.356] LOG  : Lua         , 1668224891356> Loading: media/lua/client/DebugUIs/DebugMenu/Climate/ClimateControlDebug.lua.
+[11-11-22 19:48:11.356] LOG  : Lua         , 1668224891356> Loading: media/lua/client/DebugUIs/DebugMenu/Climate/ClimateDebug.lua.
+[11-11-22 19:48:11.357] LOG  : Lua         , 1668224891357> Loading: media/lua/client/DebugUIs/DebugMenu/Climate/ClimateOptionsDebug.lua.
+[11-11-22 19:48:11.358] LOG  : Lua         , 1668224891358> Loading: media/lua/client/DebugUIs/DebugMenu/Climate/ClimDebuggersPanel.lua.
+[11-11-22 19:48:11.358] LOG  : Lua         , 1668224891358> Loading: media/lua/client/DebugUIs/DebugMenu/Climate/DailyValuesDebug.lua.
+[11-11-22 19:48:11.359] LOG  : Lua         , 1668224891359> Loading: media/lua/client/DebugUIs/DebugMenu/Climate/ForecasterDebug.lua.
+[11-11-22 19:48:11.360] LOG  : Lua         , 1668224891360> Loading: media/lua/client/DebugUIs/DebugMenu/Climate/NewFogDebug.lua.
+[11-11-22 19:48:11.361] LOG  : Lua         , 1668224891361> Loading: media/lua/client/DebugUIs/DebugMenu/Climate/PlayerClimateDebug.lua.
+[11-11-22 19:48:11.362] LOG  : Lua         , 1668224891362> Loading: media/lua/client/DebugUIs/DebugMenu/Climate/PopupColorEdit.lua.
+[11-11-22 19:48:11.363] LOG  : Lua         , 1668224891363> Loading: media/lua/client/DebugUIs/DebugMenu/Climate/ThermoDebug.lua.
+[11-11-22 19:48:11.364] LOG  : Lua         , 1668224891364> Loading: media/lua/client/DebugUIs/DebugMenu/Climate/ThunderDebug.lua.
+[11-11-22 19:48:11.364] LOG  : Lua         , 1668224891364> Loading: media/lua/client/DebugUIs/DebugMenu/Climate/ValuePlotter.lua.
+[11-11-22 19:48:11.365] LOG  : Lua         , 1668224891365> Loading: media/lua/client/DebugUIs/DebugMenu/Climate/WeatherFXDebug.lua.
+[11-11-22 19:48:11.366] LOG  : Lua         , 1668224891366> Loading: media/lua/client/DebugUIs/DebugMenu/Climate/WeatherPeriodDebug.lua.
+[11-11-22 19:48:11.366] LOG  : Lua         , 1668224891366> Loading: media/lua/client/DebugUIs/DebugMenu/Climate/WindDebug.lua.
+[11-11-22 19:48:11.367] LOG  : Lua         , 1668224891367> Loading: media/lua/client/DebugUIs/DebugMenu/General/ISCheatPanelUI.lua.
+[11-11-22 19:48:11.368] LOG  : Lua         , 1668224891368> Loading: media/lua/client/DebugUIs/DebugMenu/General/ISDebugBlood.lua.
+[11-11-22 19:48:11.368] LOG  : Lua         , 1668224891368> Loading: media/lua/client/DebugUIs/DebugMenu/General/ISGameDebugPanel.lua.
+[11-11-22 19:48:11.368] LOG  : Lua         , 1668224891368> Loading: media/lua/client/DebugUIs/DebugMenu/General/ISGeneralCheats.lua.
+[11-11-22 19:48:11.369] LOG  : Lua         , 1668224891369> Loading: media/lua/client/DebugUIs/DebugMenu/General/ISGeneralDebug.lua.
+[11-11-22 19:48:11.369] LOG  : Lua         , 1668224891369> Loading: media/lua/client/DebugUIs/DebugMenu/General/ISSearchMode.lua.
+[11-11-22 19:48:11.370] LOG  : Lua         , 1668224891370> Loading: media/lua/client/DebugUIs/DebugMenu/General/ISStatsAndBody.lua.
+[11-11-22 19:48:11.370] LOG  : Lua         , 1668224891370> Loading: media/lua/client/DebugUIs/DebugMenu/GlobalModData/GlobalModData.lua.
+[11-11-22 19:48:11.371] LOG  : Lua         , 1668224891371> Loading: media/lua/client/DebugUIs/DebugMenu/GlobalModData/GlobalModDataTest.lua.
+[11-11-22 19:48:11.371] LOG  : Lua         , 1668224891371> Loading: media/lua/client/DebugUIs/DebugMenu/ISDebugMenu.lua.
+[11-11-22 19:48:11.372] LOG  : Lua         , 1668224891372> Loading: media/lua/client/DebugUIs/DebugMenu/ISDebugUtils.lua.
+[11-11-22 19:48:11.372] LOG  : Lua         , 1668224891372> Loading: media/lua/client/DebugUIs/DebugMenu/IsoRegions/IsoRegionDebug.lua.
+[11-11-22 19:48:11.374] LOG  : Lua         , 1668224891374> Loading: media/lua/client/DebugUIs/DebugMenu/IsoRegions/IsoRegionDetails.lua.
+[11-11-22 19:48:11.374] LOG  : Lua         , 1668224891374> Loading: media/lua/client/DebugUIs/DebugMenu/IsoRegions/IsoRegionLogWindow.lua.
+[11-11-22 19:48:11.375] LOG  : Lua         , 1668224891375> Loading: media/lua/client/DebugUIs/DebugMenu/IsoRegions/IsoRegionsWindow.lua.
+[11-11-22 19:48:11.375] LOG  : Lua         , 1668224891375> Loading: media/lua/client/DebugUIs/DebugMenu/Player/ISPlayerDebug.lua.
+[11-11-22 19:48:11.376] LOG  : Lua         , 1668224891376> Loading: media/lua/client/DebugUIs/DebugMenu/Puddles/PuddlesControl.lua.
+[11-11-22 19:48:11.377] LOG  : Lua         , 1668224891377> Loading: media/lua/client/DebugUIs/DebugMenu/Puddles/PuddlesPeriodDebug.lua.
+[11-11-22 19:48:11.378] LOG  : Lua         , 1668224891378> Loading: media/lua/client/DebugUIs/DebugMenu/radio/RadioScriptDebugger.lua.
+[11-11-22 19:48:11.378] LOG  : Lua         , 1668224891378> Loading: media/lua/client/DebugUIs/DebugMenu/radio/ZomboidRadioDebug.lua.
+[11-11-22 19:48:11.379] LOG  : Lua         , 1668224891379> Loading: media/lua/client/DebugUIs/DebugMenu/Statistic/ISGameStatisticPanel.lua.
+[11-11-22 19:48:11.381] LOG  : Lua         , 1668224891381> Loading: media/lua/client/DebugUIs/DebugMenu/Statistic/StatisticChart.lua.
+[11-11-22 19:48:11.382] LOG  : Lua         , 1668224891382> Loading: media/lua/client/DebugUIs/DebugMenu/Statistic/StatisticChartDiskOperations.lua.
+[11-11-22 19:48:11.383] LOG  : Lua         , 1668224891383> Loading: media/lua/client/DebugUIs/DebugMenu/Statistic/StatisticChartMemory.lua.
+[11-11-22 19:48:11.384] LOG  : Lua         , 1668224891384> Loading: media/lua/client/DebugUIs/DebugMenu/Statistic/StatisticChartPackets.lua.
+[11-11-22 19:48:11.384] LOG  : Lua         , 1668224891384> Loading: media/lua/client/DebugUIs/DebugMenu/Statistic/StatisticChartUpdatePeriod.lua.
+[11-11-22 19:48:11.385] LOG  : Lua         , 1668224891385> Loading: media/lua/client/DebugUIs/DebugMenu/WorldFlares/WorldFlaresDebug.lua.
+[11-11-22 19:48:11.386] LOG  : Lua         , 1668224891386> Loading: media/lua/client/DebugUIs/DebugOptionsWindow.lua.
+[11-11-22 19:48:11.386] LOG  : Lua         , 1668224891386> Loading: media/lua/client/ISUI/ISTickBox.lua.
+[11-11-22 19:48:11.387] LOG  : Lua         , 1668224891387> Loading: media/lua/client/DebugUIs/DebugScenarios.lua.
+[11-11-22 19:48:11.388] LOG  : Lua         , 1668224891388> Loading: media/lua/client/DebugUIs/DebugToolstrip.lua.
+[11-11-22 19:48:11.389] LOG  : Lua         , 1668224891389> Loading: media/lua/client/DebugUIs/DeviceInspector.lua.
+[11-11-22 19:48:11.390] LOG  : Lua         , 1668224891390> Loading: media/lua/client/DebugUIs/ISAttachedItemsUI.lua.
+[11-11-22 19:48:11.391] LOG  : Lua         , 1668224891391> Loading: media/lua/client/DebugUIs/ISExtAnimListDebugUI.lua.
+[11-11-22 19:48:11.392] LOG  : Lua         , 1668224891392> Loading: media/lua/client/DebugUIs/ISFastTeleportMove.lua.
+[11-11-22 19:48:11.392] LOG  : Lua         , 1668224891392> Loading: media/lua/client/DebugUIs/ISLootStressTestUI.lua.
+[11-11-22 19:48:11.393] LOG  : Lua         , 1668224891393> Loading: media/lua/client/DebugUIs/ISRemoveItemTool.lua.
+[11-11-22 19:48:11.395] LOG  : Lua         , 1668224891395> Loading: media/lua/client/DebugUIs/ISRunningDebugUI.lua.
+[11-11-22 19:48:11.395] LOG  : Lua         , 1668224891395> Loading: media/lua/client/DebugUIs/ISSpawnHordeUI.lua.
+[11-11-22 19:48:11.397] LOG  : Lua         , 1668224891397> Loading: media/lua/client/DebugUIs/ISSpawnPointsEditor.lua.
+[11-11-22 19:48:11.398] LOG  : Lua         , 1668224891398> Loading: media/lua/client/DebugUIs/ISSpawnVehicleUI.lua.
+[11-11-22 19:48:11.399] LOG  : Lua         , 1668224891399> Loading: media/lua/client/DebugUIs/ISTeleportDebugUI.lua.
+[11-11-22 19:48:11.400] LOG  : Lua         , 1668224891400> Loading: media/lua/client/DebugUIs/ISTilesPickerDebugUI.lua.
+[11-11-22 19:48:11.400] LOG  : Lua         , 1668224891400> Loading: media/lua/client/DebugUIs/ISTriggerThunderUI.lua.
+[11-11-22 19:48:11.401] LOG  : Lua         , 1668224891401> Loading: media/lua/client/DebugUIs/LuaDebugger.lua.
+[11-11-22 19:48:11.402] LOG  : Lua         , 1668224891402> Loading: media/lua/client/DebugUIs/LuaDebugOutput.lua.
+[11-11-22 19:48:11.402] LOG  : Lua         , 1668224891402> Loading: media/lua/client/DebugUIs/LuaFileBrowser.lua.
+[11-11-22 19:48:11.403] LOG  : Lua         , 1668224891403> Loading: media/lua/client/DebugUIs/LuaThreadWindow.lua.
+[11-11-22 19:48:11.404] LOG  : Lua         , 1668224891404> Loading: media/lua/client/DebugUIs/MPDebugger.lua.
+[11-11-22 19:48:11.404] LOG  : Lua         , 1668224891404> Loading: media/lua/client/DebugUIs/ObjectViewer.lua.
+[11-11-22 19:48:11.405] LOG  : Lua         , 1668224891405> Loading: media/lua/client/DebugUIs/Scenarios/BobKates.lua.
+[11-11-22 19:48:11.406] LOG  : Lua         , 1668224891406> Loading: media/lua/client/DebugUIs/Scenarios/DebugScenario.lua.
+[11-11-22 19:48:11.406] LOG  : Lua         , 1668224891406> Loading: media/lua/client/DebugUIs/Scenarios/LotsaZombies.lua.
+[11-11-22 19:48:11.406] LOG  : Lua         , 1668224891406> Loading: media/lua/client/DebugUIs/Scenarios/MarkR.lua.
+[11-11-22 19:48:11.407] LOG  : Lua         , 1668224891407> Loading: media/lua/client/DebugUIs/Scenarios/Multiplayer.lua.
+[11-11-22 19:48:11.407] LOG  : Lua         , 1668224891407> Loading: media/lua/client/DebugUIs/Scenarios/SashaScenario.lua.
+[11-11-22 19:48:11.408] LOG  : Lua         , 1668224891408> Loading: media/lua/client/DebugUIs/Scenarios/SteveS.lua.
+[11-11-22 19:48:11.408] LOG  : Lua         , 1668224891408> Loading: media/lua/client/DebugUIs/Scenarios/Trailer1Scenario.lua.
+[11-11-22 19:48:11.408] LOG  : Lua         , 1668224891408> Loading: media/lua/client/DebugUIs/Scenarios/Trailer2_LimpWPScenario.lua.
+[11-11-22 19:48:11.409] LOG  : Lua         , 1668224891409> Loading: media/lua/client/DebugUIs/Scenarios/Trailer2_PoliceScenario.lua.
+[11-11-22 19:48:11.409] LOG  : Lua         , 1668224891409> Loading: media/lua/client/DebugUIs/Scenarios/Trailer2Scenario.lua.
+[11-11-22 19:48:11.410] LOG  : Lua         , 1668224891410> Loading: media/lua/client/DebugUIs/Scenarios/Trailer3Scenario.lua.
+[11-11-22 19:48:11.411] LOG  : Lua         , 1668224891411> Loading: media/lua/client/DebugUIs/Scenarios/Trailer3Scenario_Arrival.lua.
+[11-11-22 19:48:11.413] LOG  : Lua         , 1668224891413> Loading: media/lua/client/DebugUIs/Scenarios/Trailer3Scenario_Building.lua.
+[11-11-22 19:48:11.415] LOG  : Lua         , 1668224891415> Loading: media/lua/client/DebugUIs/Scenarios/Trailer3Scenario_Fishing.lua.
+[11-11-22 19:48:11.416] LOG  : Lua         , 1668224891416> Loading: media/lua/client/DebugUIs/Scenarios/Trailer3Scenario_GasStation.lua.
+[11-11-22 19:48:11.416] LOG  : Lua         , 1668224891416> Loading: media/lua/client/DebugUIs/Scenarios/Trailer3Scenario_Roadtrip.lua.
+[11-11-22 19:48:11.417] LOG  : Lua         , 1668224891417> Loading: media/lua/client/DebugUIs/Scenarios/TurboSaveTest.lua.
+[11-11-22 19:48:11.418] LOG  : Lua         , 1668224891418> Loading: media/lua/client/DebugUIs/Scenarios/Water.lua.
+[11-11-22 19:48:11.418] LOG  : Lua         , 1668224891418> Loading: media/lua/client/DebugUIs/Scenarios/WeaponScenario.lua.
+[11-11-22 19:48:11.419] LOG  : Lua         , 1668224891419> Loading: media/lua/client/DebugUIs/SourceWindow.lua.
+[11-11-22 19:48:11.420] LOG  : Lua         , 1668224891420> Loading: media/lua/client/DebugUIs/StashDebug.lua.
+[11-11-22 19:48:11.421] LOG  : Lua         , 1668224891421> Loading: media/lua/client/DebugUIs/StreamMapWindow.lua.
+[11-11-22 19:48:11.421] LOG  : Lua         , 1668224891421> Loading: media/lua/client/DebugUIs/TextureViewer.lua.
+[11-11-22 19:48:11.422] LOG  : Lua         , 1668224891422> Loading: media/lua/client/DebugUIs/WatchWindow.lua.
+[11-11-22 19:48:11.422] LOG  : Lua         , 1668224891422> Loading: media/lua/client/erosion/debug/ChunkReader.lua.
+[11-11-22 19:48:11.423] LOG  : Lua         , 1668224891423> Loading: media/lua/client/erosion/debug/DebugDemoTime.lua.
+[11-11-22 19:48:11.424] LOG  : Lua         , 1668224891424> Loading: media/lua/client/erosion/debug/Point2D.lua.
+[11-11-22 19:48:11.445] LOG  : Lua         , 1668224891445> Loading: media/lua/client/Farming/CFarmingSystem.lua.
+[11-11-22 19:48:11.446] LOG  : Lua         , 1668224891446> Loading: media/lua/client/Farming/CPlantGlobalObject.lua.
+[11-11-22 19:48:11.447] LOG  : Lua         , 1668224891447> Loading: media/lua/client/Farming/ISUI/ISFarmingInfo.lua.
+[11-11-22 19:48:11.448] LOG  : Lua         , 1668224891448> Loading: media/lua/client/Farming/ISUI/ISFarmingMenu.lua.
+[11-11-22 19:48:11.450] LOG  : Lua         , 1668224891450> Loading: media/lua/client/Farming/ISUI/ISFarmingWindow.lua.
+[11-11-22 19:48:11.451] LOG  : Lua         , 1668224891451> Loading: media/lua/client/Farming/TimedActions/ISCureFliesAction.lua.
+[11-11-22 19:48:11.451] LOG  : Lua         , 1668224891451> Loading: media/lua/client/Farming/TimedActions/ISCureMildewAction.lua.
+[11-11-22 19:48:11.452] LOG  : Lua         , 1668224891452> Loading: media/lua/client/Farming/TimedActions/ISFertilizeAction.lua.
+[11-11-22 19:48:11.452] LOG  : Lua         , 1668224891452> Loading: media/lua/client/Farming/TimedActions/ISHarvestPlantAction.lua.
+[11-11-22 19:48:11.452] LOG  : Lua         , 1668224891452> Loading: media/lua/client/Farming/TimedActions/ISPlantInfoAction.lua.
+[11-11-22 19:48:11.453] LOG  : Lua         , 1668224891453> Loading: media/lua/client/Farming/TimedActions/ISPlowAction.lua.
+[11-11-22 19:48:11.453] LOG  : Lua         , 1668224891453> Loading: media/lua/client/Farming/TimedActions/ISSeedAction.lua.
+[11-11-22 19:48:11.453] LOG  : Lua         , 1668224891453> Loading: media/lua/client/Farming/TimedActions/ISShovelAction.lua.
+[11-11-22 19:48:11.454] LOG  : Lua         , 1668224891454> Loading: media/lua/client/Farming/TimedActions/ISWaterPlantAction.lua.
+[11-11-22 19:48:11.454] LOG  : Lua         , 1668224891454> Loading: media/lua/client/Fishing/TimedActions/ISCheckFishingNetAction.lua.
+[11-11-22 19:48:11.454] LOG  : Lua         , 1668224891454> Loading: media/lua/client/Fishing/TimedActions/ISFishingAction.lua.
+[11-11-22 19:48:11.455] LOG  : Lua         , 1668224891455> Loading: media/lua/client/Foraging/forageClient.lua.
+[11-11-22 19:48:11.456] LOG  : Lua         , 1668224891456> Loading: media/lua/client/Foraging/ISBaseIcon.lua.
+[11-11-22 19:48:11.458] LOG  : Lua         , 1668224891458> Loading: media/lua/client/Foraging/ISForageAction.lua.
+[11-11-22 19:48:11.459] LOG  : Lua         , 1668224891459> Loading: media/lua/client/Foraging/ISForageIcon.lua.
+[11-11-22 19:48:11.459] LOG  : Lua         , 1668224891459> Loading: media/lua/client/Foraging/ISSearchManager.lua.
+[11-11-22 19:48:11.462] LOG  : Lua         , 1668224891462> Loading: media/lua/client/Foraging/ISSearchWindow.lua.
+[11-11-22 19:48:11.462] LOG  : Lua         , 1668224891462> Loading: media/lua/client/Foraging/ISZoneDisplay.lua.
+[11-11-22 19:48:11.473] LOG  : Lua         , 1668224891473> Loading: media/lua/client/Foraging/ISWorldItemIcon.lua.
+[11-11-22 19:48:11.473] LOG  : Lua         , 1668224891473> Loading: media/lua/client/Hotbar/ISHotbar.lua.
+[11-11-22 19:48:11.475] LOG  : Lua         , 1668224891475> Loading: media/lua/client/Hotbar/ISHotbarAttachDefinition.lua.
+[11-11-22 19:48:11.475] LOG  : Lua         , 1668224891475> Loading: media/lua/client/ISUI/AdminPanel/ISAddNonPvpZoneUI.lua.
+[11-11-22 19:48:11.475] LOG  : Lua         , 1668224891475> Loading: media/lua/client/ISUI/AdminPanel/ISAddSafeZoneUI.lua.
+[11-11-22 19:48:11.476] LOG  : Lua         , 1668224891476> Loading: media/lua/client/ISUI/AdminPanel/ISAdminMessage.lua.
+[11-11-22 19:48:11.476] LOG  : Lua         , 1668224891476> Loading: media/lua/client/ISUI/AdminPanel/ISAdminPanelUI.lua.
+[11-11-22 19:48:11.477] LOG  : Lua         , 1668224891477> Loading: media/lua/client/ISUI/AdminPanel/ISAdminPowerUI.lua.
+[11-11-22 19:48:11.478] LOG  : Lua         , 1668224891478> Loading: media/lua/client/ISUI/AdminPanel/ISAdminTicketsUI.lua.
+[11-11-22 19:48:11.478] LOG  : Lua         , 1668224891478> Loading: media/lua/client/ISUI/AdminPanel/ISAdminWeather.lua.
+[11-11-22 19:48:11.479] LOG  : Lua         , 1668224891479> Loading: media/lua/client/ISUI/AdminPanel/ISAdmPanelClimate.lua.
+[11-11-22 19:48:11.480] LOG  : Lua         , 1668224891480> Loading: media/lua/client/ISUI/AdminPanel/ISAdmPanelWeather.lua.
+[11-11-22 19:48:11.480] LOG  : Lua         , 1668224891480> Loading: media/lua/client/ISUI/AdminPanel/ISFactionsList.lua.
+[11-11-22 19:48:11.481] LOG  : Lua         , 1668224891481> Loading: media/lua/client/ISUI/AdminPanel/ISItemEditorUI.lua.
+[11-11-22 19:48:11.482] LOG  : Lua         , 1668224891482> Loading: media/lua/client/ISUI/AdminPanel/ISItemsListTable.lua.
+[11-11-22 19:48:11.482] LOG  : Lua         , 1668224891482> Loading: media/lua/client/ISUI/AdminPanel/ISItemsListViewer.lua.
+[11-11-22 19:48:11.483] LOG  : Lua         , 1668224891483> Loading: media/lua/client/ISUI/AdminPanel/ISMiniScoreboardUI.lua.
+[11-11-22 19:48:11.483] LOG  : Lua         , 1668224891483> Loading: media/lua/client/ISUI/AdminPanel/ISPacketCounts.lua.
+[11-11-22 19:48:11.484] LOG  : Lua         , 1668224891484> Loading: media/lua/client/ISUI/AdminPanel/ISPvpZonePanel.lua.
+[11-11-22 19:48:11.484] LOG  : Lua         , 1668224891484> Loading: media/lua/client/ISUI/AdminPanel/ISSafehousesList.lua.
+[11-11-22 19:48:11.485] LOG  : Lua         , 1668224891485> Loading: media/lua/client/ISUI/AdminPanel/ISServerOptions.lua.
+[11-11-22 19:48:11.485] LOG  : Lua         , 1668224891485> Loading: media/lua/client/ISUI/AdminPanel/ISServerOptionsChange.lua.
+[11-11-22 19:48:11.486] LOG  : Lua         , 1668224891486> Loading: media/lua/client/ISUI/AdminPanel/ISServerSandboxOptionsUI.lua.
+[11-11-22 19:48:11.487] LOG  : Lua         , 1668224891487> Loading: media/lua/client/ISUI/AdminPanel/ISStatisticsUI.lua.
+[11-11-22 19:48:11.488] LOG  : Lua         , 1668224891488> Loading: media/lua/client/ISUI/AdminPanel/ISWhitelistModifyRow.lua.
+[11-11-22 19:48:11.488] LOG  : Lua         , 1668224891488> Loading: media/lua/client/ISUI/AdminPanel/ISWhitelistTable.lua.
+[11-11-22 19:48:11.489] LOG  : Lua         , 1668224891489> Loading: media/lua/client/ISUI/AdminPanel/ISWhitelistViewer.lua.
+[11-11-22 19:48:11.489] LOG  : Lua         , 1668224891489> Loading: media/lua/client/ISUI/AdminPanel/LootZed/ISLootZed.lua.
+[11-11-22 19:48:11.490] LOG  : Lua         , 1668224891490> Loading: media/lua/client/ISUI/AdminPanel/LootZed/SpawnRateChecker.lua.
+[11-11-22 19:48:11.491] LOG  : Lua         , 1668224891491> Loading: media/lua/client/ISUI/BodyParts/ISBodyPartPanel.lua.
+[11-11-22 19:48:11.491] LOG  : Lua         , 1668224891491> Loading: media/lua/client/ISUI/Fireplace/ISKnob.lua.
+[11-11-22 19:48:11.492] LOG  : Lua         , 1668224891492> Loading: media/lua/client/ISUI/Fireplace/ISMicrowaveUI.lua.
+[11-11-22 19:48:11.492] LOG  : Lua         , 1668224891492> Loading: media/lua/client/ISUI/Fireplace/ISOvenUI.lua.
+[11-11-22 19:48:11.493] LOG  : Lua         , 1668224891493> Loading: media/lua/client/ISUI/FPS.lua.
+[11-11-22 19:48:11.493] LOG  : Lua         , 1668224891493> Loading: media/lua/client/ISUI/InterpolationPeriodDebug.lua.
+[11-11-22 19:48:11.494] LOG  : Lua         , 1668224891494> Loading: media/lua/client/ISUI/InterpolationPlayerPeriodDebug.lua.
+[11-11-22 19:48:11.494] LOG  : Lua         , 1668224891494> Loading: media/lua/client/ISUI/ISAlarmClockDialog.lua.
+[11-11-22 19:48:11.495] LOG  : Lua         , 1668224891495> Loading: media/lua/client/ISUI/ISBackButtonWheel.lua.
+[11-11-22 19:48:11.495] LOG  : Lua         , 1668224891495> Loading: media/lua/client/ISUI/ISRadialMenu.lua.
+[11-11-22 19:48:11.496] LOG  : Lua         , 1668224891496> Loading: media/lua/client/ISUI/ISBBQInfoWindow.lua.
+[11-11-22 19:48:11.496] LOG  : Lua         , 1668224891496> Loading: media/lua/client/ISUI/ISBBQMenu.lua.
+[11-11-22 19:48:11.497] LOG  : Lua         , 1668224891497> Loading: media/lua/client/ISUI/ISBombTimerDialog.lua.
+[11-11-22 19:48:11.497] LOG  : Lua         , 1668224891497> Loading: media/lua/client/ISUI/ISButtonPrompt.lua.
+[11-11-22 19:48:11.498] LOG  : Lua         , 1668224891498> Loading: media/lua/client/ISUI/ISCollapsableModalRichText.lua.
+[11-11-22 19:48:11.499] LOG  : Lua         , 1668224891499> Loading: media/lua/client/ISUI/ISCollapsableWindowJoypad.lua.
+[11-11-22 19:48:11.499] LOG  : Lua         , 1668224891499> Loading: media/lua/client/ISUI/ISColorPicker.lua.
+[11-11-22 19:48:11.500] LOG  : Lua         , 1668224891500> Loading: media/lua/client/ISUI/ISComboBox.lua.
+[11-11-22 19:48:11.501] LOG  : Lua         , 1668224891501> Loading: media/lua/client/ISUI/ISTextEntryBox.lua.
+[11-11-22 19:48:11.501] LOG  : Lua         , 1668224891501> Loading: media/lua/client/ISUI/ISConfirmMonitorSettingsDialog.lua.
+[11-11-22 19:48:11.501] LOG  : Lua         , 1668224891501> Loading: media/lua/client/ISUI/ISModalDialog.lua.
+[11-11-22 19:48:11.502] LOG  : Lua         , 1668224891502> Loading: media/lua/client/ISUI/ISControllerTestPanel.lua.
+[11-11-22 19:48:11.502] LOG  : Lua         , 1668224891502> Loading: media/lua/client/ISUI/ISCraftingCategoryUI.lua.
+[11-11-22 19:48:11.503] LOG  : Lua         , 1668224891503> Loading: media/lua/client/ISUI/ISCraftingUI.lua.
+[11-11-22 19:48:11.505] LOG  : Lua         , 1668224891505> Loading: media/lua/client/ISUI/ISDemoPopup.lua.
+[11-11-22 19:48:11.506] LOG  : Lua         , 1668224891506> Loading: media/lua/client/ISUI/ISDigitalCode.lua.
+[11-11-22 19:48:11.506] LOG  : Lua         , 1668224891506> Loading: media/lua/client/ISUI/ISDPadWheels.lua.
+[11-11-22 19:48:11.507] LOG  : Lua         , 1668224891506> Loading: media/lua/client/ISUI/ISDuplicateKeybindDialog.lua.
+[11-11-22 19:48:11.507] LOG  : Lua         , 1668224891507> Loading: media/lua/client/ISUI/ISEmoteRadialMenu.lua.
+[11-11-22 19:48:11.507] LOG  : Lua         , 1668224891507> Loading: media/lua/client/ISUI/ISEquippedItem.lua.
+[11-11-22 19:48:11.509] LOG  : Lua         , 1668224891509> Loading: media/lua/client/ISUI/ISFirearmRadialMenu.lua.
+[11-11-22 19:48:11.509] LOG  : Lua         , 1668224891509> Loading: media/lua/client/ISUI/ISFireplaceInfoWindow.lua.
+[11-11-22 19:48:11.510] LOG  : Lua         , 1668224891510> Loading: media/lua/client/ISUI/ISFireplaceMenu.lua.
+[11-11-22 19:48:11.510] LOG  : Lua         , 1668224891510> Loading: media/lua/client/ISUI/ISFishingUI.lua.
+[11-11-22 19:48:11.511] LOG  : Lua         , 1668224891511> Loading: media/lua/client/ISUI/ISFitnessUI.lua.
+[11-11-22 19:48:11.512] LOG  : Lua         , 1668224891512> Loading: media/lua/client/ISUI/ISGameLoadingUI.lua.
+[11-11-22 19:48:11.512] LOG  : Lua         , 1668224891512> Loading: media/lua/client/ISUI/ISGameSoundVolumeControl.lua.
+[11-11-22 19:48:11.513] LOG  : Lua         , 1668224891513> Loading: media/lua/client/ISUI/ISGarmentUI.lua.
+[11-11-22 19:48:11.514] LOG  : Lua         , 1668224891514> Loading: media/lua/client/ISUI/ISGeneratorInfoWindow.lua.
+[11-11-22 19:48:11.514] LOG  : Lua         , 1668224891514> Loading: media/lua/client/ISUI/ISGradientBar.lua.
+[11-11-22 19:48:11.515] LOG  : Lua         , 1668224891515> Loading: media/lua/client/ISUI/ISImage.lua.
+[11-11-22 19:48:11.515] LOG  : Lua         , 1668224891515> Loading: media/lua/client/ISUI/ISInfoContainer.lua.
+[11-11-22 19:48:11.515] LOG  : Lua         , 1668224891515> Loading: media/lua/client/ISUI/ISInventoryPage.lua.
+[11-11-22 19:48:11.517] LOG  : Lua         , 1668224891517> Loading: media/lua/client/ISUI/ISInventoryPaneContextMenu.lua.
+[11-11-22 19:48:11.525] LOG  : Lua         , 1668224891525> Loading: media/lua/client/ISUI/ISToolTip.lua.
+[11-11-22 19:48:11.526] LOG  : Lua         , 1668224891526> Loading: media/lua/client/ISUI/ISJoystickButtonRadialMenu.lua.
+[11-11-22 19:48:11.526] LOG  : Lua         , 1668224891526> Loading: media/lua/client/ISUI/ISLabel.lua.
+[11-11-22 19:48:11.526] LOG  : Lua         , 1668224891526> Loading: media/lua/client/ISUI/ISLcdBar.lua.
+[11-11-22 19:48:11.527] LOG  : Lua         , 1668224891527> Loading: media/lua/client/ISUI/ISLightSourceRadialMenu.lua.
+[11-11-22 19:48:11.528] LOG  : Lua         , 1668224891528> Loading: media/lua/client/ISUI/ISLiteratureUI.lua.
+[11-11-22 19:48:11.529] LOG  : Lua         , 1668224891529> Loading: media/lua/client/ISUI/ISMakeUpUI.lua.
+[11-11-22 19:48:11.530] LOG  : Lua         , 1668224891529> Loading: media/lua/client/ISUI/ISMegaVolumeControl.lua.
+[11-11-22 19:48:11.530] LOG  : Lua         , 1668224891530> Loading: media/lua/client/ISUI/ISModalRichText.lua.
+[11-11-22 19:48:11.531] LOG  : Lua         , 1668224891531> Loading: media/lua/client/ISUI/ISMoveableInfoWindow.lua.
+[11-11-22 19:48:11.532] LOG  : Lua         , 1668224891532> Loading: media/lua/client/ISUI/ISNewsUpdate.lua.
+[11-11-22 19:48:11.533] LOG  : Lua         , 1668224891533> Loading: media/lua/client/ISUI/ISOnScreenKeyboard.lua.
+[11-11-22 19:48:11.535] LOG  : Lua         , 1668224891535> Loading: media/lua/client/ISUI/ISOptionPanel.lua.
+[11-11-22 19:48:11.535] LOG  : Lua         , 1668224891535> Loading: media/lua/client/ISUI/ISPauseModListUI.lua.
+[11-11-22 19:48:11.536] LOG  : Lua         , 1668224891536> Loading: media/lua/client/ISUI/ISPostDeathUI.lua.
+[11-11-22 19:48:11.537] LOG  : Lua         , 1668224891537> Loading: media/lua/client/ISUI/ISRadialProgressBar.lua.
+[11-11-22 19:48:11.537] LOG  : Lua         , 1668224891537> Loading: media/lua/client/ISUI/ISRadioButtons.lua.
+[11-11-22 19:48:11.538] LOG  : Lua         , 1668224891538> Loading: media/lua/client/ISUI/ISRadioOption.lua.
+[11-11-22 19:48:11.539] LOG  : Lua         , 1668224891539> Loading: media/lua/client/ISUI/ISRainPanel.lua.
+[11-11-22 19:48:11.539] LOG  : Lua         , 1668224891539> Loading: media/lua/client/ISUI/ISRect.lua.
+[11-11-22 19:48:11.539] LOG  : Lua         , 1668224891539> Loading: media/lua/client/ISUI/ISResizeableButton.lua.
+[11-11-22 19:48:11.540] LOG  : Lua         , 1668224891540> Loading: media/lua/client/ISUI/ISRichTextBox.lua.
+[11-11-22 19:48:11.540] LOG  : Lua         , 1668224891540> Loading: media/lua/client/ISUI/ISSafetyUI.lua.
+[11-11-22 19:48:11.541] LOG  : Lua         , 1668224891541> Loading: media/lua/client/ISUI/ISScavengeUI.lua.
+[11-11-22 19:48:11.542] LOG  : Lua         , 1668224891542> Loading: media/lua/client/ISUI/ISScrollBar.lua.
+[11-11-22 19:48:11.542] LOG  : Lua         , 1668224891542> Loading: media/lua/client/ISUI/ISServerDisconnectUI.lua.
+[11-11-22 19:48:11.543] LOG  : Lua         , 1668224891543> Loading: media/lua/client/ISUI/ISServerSavingMessage.lua.
+[11-11-22 19:48:11.543] LOG  : Lua         , 1668224891543> Loading: media/lua/client/ISUI/ISSetKeybindDialog.lua.
+[11-11-22 19:48:11.544] LOG  : Lua         , 1668224891544> Loading: media/lua/client/ISUI/ISSleepDialog.lua.
+[11-11-22 19:48:11.544] LOG  : Lua         , 1668224891544> Loading: media/lua/client/ISUI/ISSpinBox.lua.
+[11-11-22 19:48:11.545] LOG  : Lua         , 1668224891545> Loading: media/lua/client/ISUI/ISTermsOfServiceUI.lua.
+[11-11-22 19:48:11.546] LOG  : Lua         , 1668224891546> Loading: media/lua/client/ISUI/ISTextBox.lua.
+[11-11-22 19:48:11.547] LOG  : Lua         , 1668224891547> Loading: media/lua/client/ISUI/ISToolTipInv.lua.
+[11-11-22 19:48:11.548] LOG  : Lua         , 1668224891548> Loading: media/lua/client/ISUI/ISTradingUI.lua.
+[11-11-22 19:48:11.550] LOG  : Lua         , 1668224891550> Loading: media/lua/client/ISUI/ISTradingUIHistorial.lua.
+[11-11-22 19:48:11.550] LOG  : Lua         , 1668224891550> Loading: media/lua/client/ISUI/ISUI3DModel.lua.
+[11-11-22 19:48:11.551] LOG  : Lua         , 1668224891551> Loading: media/lua/client/ISUI/ISUIEmoteConfig.lua.
+[11-11-22 19:48:11.552] LOG  : Lua         , 1668224891552> Loading: media/lua/client/ISUI/ISUIHandler.lua.
+[11-11-22 19:48:11.552] LOG  : Lua         , 1668224891552> Loading: media/lua/client/ISUI/ISUIWriteJournal.lua.
+[11-11-22 19:48:11.553] LOG  : Lua         , 1668224891553> Loading: media/lua/client/ISUI/ISVehicleConfirmBox.lua.
+[11-11-22 19:48:11.554] LOG  : Lua         , 1668224891554> Loading: media/lua/client/ISUI/ISVolumeControl.lua.
+[11-11-22 19:48:11.554] LOG  : Lua         , 1668224891554> Loading: media/lua/client/ISUI/ISVolumeIndicator.lua.
+[11-11-22 19:48:11.555] LOG  : Lua         , 1668224891555> Loading: media/lua/client/ISUI/ISWindow.lua.
+[11-11-22 19:48:11.555] LOG  : Lua         , 1668224891555> Loading: media/lua/client/ISUI/ISWorldObjectContextMenu.lua.
+[11-11-22 19:48:11.562] LOG  : Lua         , 1668224891562> Loading: media/lua/client/ISUI/Maps/Editor/WorldMapEditor.lua.
+[11-11-22 19:48:11.563] LOG  : Lua         , 1668224891563> Loading: media/lua/client/ISUI/Maps/Editor/WorldMapEditorMode.lua.
+[11-11-22 19:48:11.563] LOG  : Lua         , 1668224891563> Loading: media/lua/client/ISUI/Maps/Editor/WorldMapEditorResizer.lua.
+[11-11-22 19:48:11.564] LOG  : Lua         , 1668224891564> Loading: media/lua/client/ISUI/Maps/Editor/WorldMapEditorListBox.lua.
+[11-11-22 19:48:11.564] LOG  : Lua         , 1668224891564> Loading: media/lua/client/ISUI/Maps/Editor/WorldMapEditorLocationControl.lua.
+[11-11-22 19:48:11.565] LOG  : Lua         , 1668224891565> Loading: media/lua/client/ISUI/Maps/Editor/WorldMapEditorMode_Annotations.lua.
+[11-11-22 19:48:11.565] LOG  : Lua         , 1668224891565> Loading: media/lua/client/ISUI/Maps/Editor/WorldMapEditorMode_Bounds.lua.
+[11-11-22 19:48:11.566] LOG  : Lua         , 1668224891566> Loading: media/lua/client/ISUI/Maps/Editor/WorldMapEditorMode_DataFiles.lua.
+[11-11-22 19:48:11.566] LOG  : Lua         , 1668224891566> Loading: media/lua/client/ISUI/Maps/Editor/WorldMapEditorMode_Maps.lua.
+[11-11-22 19:48:11.566] LOG  : Lua         , 1668224891566> Loading: media/lua/client/ISUI/Maps/Editor/WorldMapEditorMode_Stashes.lua.
+[11-11-22 19:48:11.567] LOG  : Lua         , 1668224891567> Loading: media/lua/client/ISUI/Maps/Editor/WorldMapEditorMode_Style.lua.
+[11-11-22 19:48:11.568] LOG  : Lua         , 1668224891568> Loading: media/lua/client/ISUI/Maps/ISMap.lua.
+[11-11-22 19:48:11.570] LOG  : Lua         , 1668224891570> Loading: media/lua/client/ISUI/Maps/ISMapDefinitions.lua.
+[11-11-22 19:48:11.571] LOG  : Lua         , 1668224891571> Loading: media/lua/client/ISUI/Maps/ISMiniMap.lua.
+[11-11-22 19:48:11.572] LOG  : Lua         , 1668224891572> Loading: media/lua/client/ISUI/Maps/ISTextBoxMap.lua.
+[11-11-22 19:48:11.573] LOG  : Lua         , 1668224891573> Loading: media/lua/client/ISUI/Maps/ISWorldMap.lua.
+[11-11-22 19:48:11.575] LOG  : Lua         , 1668224891575> Loading: media/lua/client/ISUI/Maps/ISWorldMapSymbols.lua.
+[11-11-22 19:48:11.577] LOG  : Lua         , 1668224891577> Loading: media/lua/client/ISUI/PlayerData/ISPlayerData.lua.
+[11-11-22 19:48:11.578] LOG  : Lua         , 1668224891578> Loading: media/lua/client/ISUI/PlayerData/ISPlayerDataObject.lua.
+[11-11-22 19:48:11.579] LOG  : Lua         , 1668224891579> Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsAddXPUI.lua.
+[11-11-22 19:48:11.580] LOG  : Lua         , 1668224891580> Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsChooseAccessLevel.lua.
+[11-11-22 19:48:11.580] LOG  : Lua         , 1668224891580> Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsChooseProfessionUI.lua.
+[11-11-22 19:48:11.581] LOG  : Lua         , 1668224891581> Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsChooseTraitUI.lua.
+[11-11-22 19:48:11.582] LOG  : Lua         , 1668224891582> Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsManageInvUI.lua.
+[11-11-22 19:48:11.583] LOG  : Lua         , 1668224891583> Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsUI.lua.
+[11-11-22 19:48:11.585] LOG  : Lua         , 1668224891585> Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsUserlogUI.lua.
+[11-11-22 19:48:11.585] LOG  : Lua         , 1668224891585> Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsWarningPointUI.lua.
+[11-11-22 19:48:11.586] LOG  : Lua         , 1668224891586> Loading: media/lua/client/ISUI/RichTextLayout.lua.
+[11-11-22 19:48:11.587] LOG  : Lua         , 1668224891587> Loading: media/lua/client/ISUI/SpeedControlsHandler.lua.
+[11-11-22 19:48:11.587] LOG  : Lua         , 1668224891587> Loading: media/lua/client/ISUI/UserPanel/ISCreateFactionTagUI.lua.
+[11-11-22 19:48:11.587] LOG  : Lua         , 1668224891587> Loading: media/lua/client/ISUI/UserPanel/ISCreateFactionUI.lua.
+[11-11-22 19:48:11.588] LOG  : Lua         , 1668224891588> Loading: media/lua/client/ISUI/UserPanel/ISFactionAddPlayerUI.lua.
+[11-11-22 19:48:11.589] LOG  : Lua         , 1668224891589> Loading: media/lua/client/ISUI/UserPanel/ISFactionUI.lua.
+[11-11-22 19:48:11.589] LOG  : Lua         , 1668224891589> Loading: media/lua/client/ISUI/UserPanel/ISSafehouseAddPlayerUI.lua.
+[11-11-22 19:48:11.590] LOG  : Lua         , 1668224891590> Loading: media/lua/client/ISUI/UserPanel/ISSafehouseUI.lua.
+[11-11-22 19:48:11.591] LOG  : Lua         , 1668224891591> Loading: media/lua/client/ISUI/UserPanel/ISTicketsUI.lua.
+[11-11-22 19:48:11.591] LOG  : Lua         , 1668224891591> Loading: media/lua/client/ISUI/UserPanel/ISUserPanelUI.lua.
+[11-11-22 19:48:11.592] LOG  : Lua         , 1668224891592> Loading: media/lua/client/ISUI/ZombiePopulationWindow.lua.
+[11-11-22 19:48:11.592] LOG  : Lua         , 1668224891592> Loading: media/lua/client/Items/SpawnItems.lua.
+[11-11-22 19:48:11.592] LOG  : Lua         , 1668224891592> Loading: media/lua/client/JoyPad/ISJoypadDebugUI.lua.
+[11-11-22 19:48:11.593] LOG  : Lua         , 1668224891593> Loading: media/lua/client/JoyPad/ISJoypadDisconnectedUI.lua.
+[11-11-22 19:48:11.593] LOG  : Lua         , 1668224891593> Loading: media/lua/client/JoyPad/ISJoyPadListBox.lua.
+[11-11-22 19:48:11.594] LOG  : Lua         , 1668224891594> Loading: media/lua/client/LastStand/AReallyCDDAy.lua.
+[11-11-22 19:48:11.594] LOG  : Lua         , 1668224891594> Loading: media/lua/client/LastStand/AStormIsComing.lua.
+[11-11-22 19:48:11.595] LOG  : Lua         , 1668224891595> Loading: media/lua/client/LastStand/Challenge1.lua.
+[11-11-22 19:48:11.595] LOG  : Lua         , 1668224891595> Loading: media/lua/client/LastStand/Challenge2.lua.
+[11-11-22 19:48:11.596] LOG  : Lua         , 1668224891596> Loading: media/lua/client/LastStand/EightMonthsLater.lua.
+[11-11-22 19:48:11.597] LOG  : Lua         , 1668224891597> Loading: media/lua/client/LastStand/Insomnia.lua.
+[11-11-22 19:48:11.597] LOG  : Lua         , 1668224891597> Loading: media/lua/client/LastStand/ISUI/ISChallenge2PlayerUpWindow.lua.
+[11-11-22 19:48:11.598] LOG  : Lua         , 1668224891598> Loading: media/lua/client/LastStand/ISUI/ISChallenge2UpgradeTab.lua.
+[11-11-22 19:48:11.599] LOG  : Lua         , 1668224891599> Loading: media/lua/client/LastStand/ISUI/ISChallenge2VariousItemWindow.lua.
+[11-11-22 19:48:11.599] LOG  : Lua         , 1668224891599> Loading: media/lua/client/LastStand/ISUI/ISChallenge2WeaponRepairWindow.lua.
+[11-11-22 19:48:11.600] LOG  : Lua         , 1668224891600> Loading: media/lua/client/LastStand/ISUI/ISChallenge2WeaponUpWindow.lua.
+[11-11-22 19:48:11.600] LOG  : Lua         , 1668224891600> Loading: media/lua/client/LastStand/Kingsmouth.lua.
+[11-11-22 19:48:11.601] LOG  : Lua         , 1668224891601> Loading: media/lua/client/LastStand/LastStandPlayerFile.lua.
+[11-11-22 19:48:11.601] LOG  : Lua         , 1668224891601> Loading: media/lua/client/LastStand/LastStandSetup.lua.
+[11-11-22 19:48:11.601] LOG  : Lua         , 1668224891601> Loading: media/lua/client/LastStand/OpeningHours.lua.
+[11-11-22 19:48:11.602] LOG  : Lua         , 1668224891602> Loading: media/lua/client/LastStand/Studio.lua.
+[11-11-22 19:48:11.602] LOG  : Lua         , 1668224891602> Loading: media/lua/client/LastStand/TheDescendingFog.lua.
+[11-11-22 19:48:11.603] LOG  : Lua         , 1668224891603> Loading: media/lua/client/LastStand/WinterIsComing.lua.
+[11-11-22 19:48:11.603] LOG  : Lua         , 1668224891603> Loading: media/lua/client/LastStand/YouHaveOneDay.lua.
+[11-11-22 19:48:11.603] LOG  : Lua         , 1668224891603> Loading: media/lua/client/MetalDrum/CMetalDrumGlobalObject.lua.
+[11-11-22 19:48:11.604] LOG  : Lua         , 1668224891604> Loading: media/lua/client/MetalDrum/CMetalDrumSystem.lua.
+[11-11-22 19:48:11.604] LOG  : Lua         , 1668224891604> Loading: media/lua/client/Moveables/ISMoveableDefinitions.lua.
+[11-11-22 19:48:11.605] LOG  : Lua         , 1668224891605> Loading: media/lua/client/Moveables/ISMoveablesAction.lua.
+[11-11-22 19:48:11.605] LOG  : Lua         , 1668224891605> Loading: media/lua/client/Moveables/ISMoveablesIconToolTip.lua.
+[11-11-22 19:48:11.606] LOG  : Lua         , 1668224891606> Loading: media/lua/client/Moveables/ISMoveableSpriteProps.lua.
+[11-11-22 19:48:11.609] LOG  : Lua         , 1668224891609> Loading: media/lua/client/Moveables/ISMoveableTools.lua.
+[11-11-22 19:48:11.610] LOG  : Lua         , 1668224891610> Loading: media/lua/client/Music/MusicChoices.lua.
+[11-11-22 19:48:11.611] LOG  : Lua         , 1668224891611> Loading: media/lua/client/NPCs/UI/CharacterInfoPage.lua.
+[11-11-22 19:48:11.611] LOG  : Lua         , 1668224891611> Loading: media/lua/client/NPCs/UI/TeamOverview.lua.
+[11-11-22 19:48:11.611] LOG  : Lua         , 1668224891611> Loading: media/lua/client/NPCs/UI/TeamPicker.lua.
+[11-11-22 19:48:11.612] LOG  : Lua         , 1668224891612> Loading: media/lua/client/OptionScreens/BootstrapConnectPopup.lua.
+[11-11-22 19:48:11.613] LOG  : Lua         , 1668224891612> Loading: media/lua/client/OptionScreens/CharacterCreationHeader.lua.
+[11-11-22 19:48:11.613] LOG  : Lua         , 1668224891613> Loading: media/lua/client/OptionScreens/CharacterCreationMain.lua.
+[11-11-22 19:48:11.616] LOG  : Lua         , 1668224891616> Loading: media/lua/client/OptionScreens/CharacterCreationProfession.lua.
+[11-11-22 19:48:11.618] LOG  : Lua         , 1668224891618> Loading: media/lua/client/OptionScreens/ConnectToServer.lua.
+[11-11-22 19:48:11.619] LOG  : Lua         , 1668224891619> Loading: media/lua/client/OptionScreens/CoopCharacterCreation.lua.
+[11-11-22 19:48:11.619] LOG  : Lua         , 1668224891619> Loading: media/lua/client/OptionScreens/CoopCharacterCreationMain.lua.
+[11-11-22 19:48:11.619] LOG  : Lua         , 1668224891619> Loading: media/lua/client/OptionScreens/CoopCharacterCreationProfession.lua.
+[11-11-22 19:48:11.620] LOG  : Lua         , 1668224891620> Loading: media/lua/client/OptionScreens/CoopMapSpawnSelect.lua.
+[11-11-22 19:48:11.620] LOG  : Lua         , 1668224891620> Loading: media/lua/client/OptionScreens/MapSpawnSelect.lua.
+[11-11-22 19:48:11.621] LOG  : Lua         , 1668224891621> Loading: media/lua/client/OptionScreens/CoopOptionsScreen.lua.
+[11-11-22 19:48:11.622] LOG  : Lua         , 1668224891622> Loading: media/lua/client/OptionScreens/CoopUserName.lua.
+[11-11-22 19:48:11.623] LOG  : Lua         , 1668224891623> Loading: media/lua/client/OptionScreens/InviteFriends.lua.
+[11-11-22 19:48:11.623] LOG  : Lua         , 1668224891623> Loading: media/lua/client/OptionScreens/ISGameSounds.lua.
+[11-11-22 19:48:11.624] LOG  : Lua         , 1668224891624> Loading: media/lua/client/OptionScreens/ISModsNagPanel.lua.
+[11-11-22 19:48:11.624] LOG  : Lua         , 1668224891624> Loading: media/lua/client/OptionScreens/ISScoreboard.lua.
+[11-11-22 19:48:11.625] LOG  : Lua         , 1668224891625> Loading: media/lua/client/OptionScreens/LastStandChallenge.lua.
+[11-11-22 19:48:11.626] LOG  : Lua         , 1668224891626> Loading: media/lua/client/OptionScreens/LastStandPlayerSelect.lua.
+[11-11-22 19:48:11.626] LOG  : Lua         , 1668224891626> Loading: media/lua/client/OptionScreens/LoadGameScreen.lua.
+[11-11-22 19:48:11.628] LOG  : Lua         , 1668224891628> Loading: media/lua/client/OptionScreens/LoginScreen.lua.
+[11-11-22 19:48:11.628] LOG  : Lua         , 1668224891628> Loading: media/lua/client/OptionScreens/MainOptions.lua.
+[11-11-22 19:48:11.632] LOG  : Lua         , 1668224891632> Loading: media/lua/client/OptionScreens/MainScreen.lua.
+[11-11-22 19:48:11.635] LOG  : General     , 1668224891635> EXITDEBUG: MainScreen: Events.OnKeyPressed.Add(ToggleEscapeMenu).
+[11-11-22 19:48:11.635] LOG  : Lua         , 1668224891635> Loading: media/lua/client/OptionScreens/ModMoreInfo.lua.
+[11-11-22 19:48:11.636] LOG  : Lua         , 1668224891636> Loading: media/lua/client/OptionScreens/ModOrderUI.lua.
+[11-11-22 19:48:11.637] LOG  : Lua         , 1668224891637> Loading: media/lua/client/OptionScreens/ModSelector.lua.
+[11-11-22 19:48:11.638] LOG  : Lua         , 1668224891638> Loading: media/lua/client/OptionScreens/NewGameScreen.lua.
+[11-11-22 19:48:11.639] LOG  : Lua         , 1668224891639> Loading: media/lua/client/OptionScreens/PublicServerList.lua.
+[11-11-22 19:48:11.641] LOG  : Lua         , 1668224891641> Loading: media/lua/client/OptionScreens/SandboxOptions.lua.
+[11-11-22 19:48:11.642] LOG  : Lua         , 1668224891642> Loading: media/lua/client/OptionScreens/ServerConnectPopup.lua.
+[11-11-22 19:48:11.643] LOG  : Lua         , 1668224891643> Loading: media/lua/client/OptionScreens/ServerList.lua.
+[11-11-22 19:48:11.644] LOG  : Lua         , 1668224891644> Loading: media/lua/client/OptionScreens/ServerSettingsScreen.lua.
+[11-11-22 19:48:11.682] LOG  : General     , 1668224891682> MISSING in SettingsTable: ChatStreams.
+[11-11-22 19:48:11.682] LOG  : General     , 1668224891682> MISSING in SettingsTable: SpawnPoint.
+[11-11-22 19:48:11.683] LOG  : General     , 1668224891683> MISSING in SettingsTable: Mods.
+[11-11-22 19:48:11.683] LOG  : General     , 1668224891683> MISSING in SettingsTable: Map.
+[11-11-22 19:48:11.683] LOG  : General     , 1668224891683> MISSING in SettingsTable: DenyLoginOnOverloadedServer.
+[11-11-22 19:48:11.683] LOG  : General     , 1668224891683> MISSING in SettingsTable: KickFastPlayers.
+[11-11-22 19:48:11.684] LOG  : General     , 1668224891684> MISSING in SettingsTable: DiscordChannelID.
+[11-11-22 19:48:11.684] LOG  : General     , 1668224891684> MISSING in SettingsTable: KnockedDownAllowed.
+[11-11-22 19:48:11.684] LOG  : General     , 1668224891684> MISSING in SettingsTable: SneakModeHideFromOtherPlayers.
+[11-11-22 19:48:11.684] LOG  : General     , 1668224891684> MISSING in SettingsTable: WorkshopItems.
+[11-11-22 19:48:11.684] LOG  : General     , 1668224891684> MISSING in SettingsTable: SteamVAC.
+[11-11-22 19:48:11.684] LOG  : General     , 1668224891684> MISSING in SettingsTable: LoginQueueEnabled.
+[11-11-22 19:48:11.685] LOG  : General     , 1668224891685> MISSING in SettingsTable: LoginQueueConnectTimeout.
+[11-11-22 19:48:11.685] LOG  : General     , 1668224891685> MISSING in SettingsTable: server_browser_announced_ip.
+[11-11-22 19:48:11.685] LOG  : General     , 1668224891685> MISSING in SettingsTable: BanKickGlobalSound.
+[11-11-22 19:48:11.685] LOG  : General     , 1668224891685> MISSING in SettingsTable: CarEngineAttractionModifier.
+[11-11-22 19:48:11.685] LOG  : General     , 1668224891685> MISSING in SettingsTable: AntiCheatProtectionType1.
+[11-11-22 19:48:11.685] LOG  : General     , 1668224891685> MISSING in SettingsTable: AntiCheatProtectionType2.
+[11-11-22 19:48:11.686] LOG  : General     , 1668224891686> MISSING in SettingsTable: AntiCheatProtectionType3.
+[11-11-22 19:48:11.686] LOG  : General     , 1668224891686> MISSING in SettingsTable: AntiCheatProtectionType4.
+[11-11-22 19:48:11.686] LOG  : General     , 1668224891686> MISSING in SettingsTable: AntiCheatProtectionType5.
+[11-11-22 19:48:11.686] LOG  : General     , 1668224891686> MISSING in SettingsTable: AntiCheatProtectionType6.
+[11-11-22 19:48:11.686] LOG  : General     , 1668224891686> MISSING in SettingsTable: AntiCheatProtectionType7.
+[11-11-22 19:48:11.686] LOG  : General     , 1668224891686> MISSING in SettingsTable: AntiCheatProtectionType8.
+[11-11-22 19:48:11.686] LOG  : General     , 1668224891686> MISSING in SettingsTable: AntiCheatProtectionType9.
+[11-11-22 19:48:11.687] LOG  : General     , 1668224891687> MISSING in SettingsTable: AntiCheatProtectionType10.
+[11-11-22 19:48:11.687] LOG  : General     , 1668224891687> MISSING in SettingsTable: AntiCheatProtectionType11.
+[11-11-22 19:48:11.687] LOG  : General     , 1668224891687> MISSING in SettingsTable: AntiCheatProtectionType12.
+[11-11-22 19:48:11.687] LOG  : General     , 1668224891687> MISSING in SettingsTable: AntiCheatProtectionType13.
+[11-11-22 19:48:11.687] LOG  : General     , 1668224891687> MISSING in SettingsTable: AntiCheatProtectionType14.
+[11-11-22 19:48:11.687] LOG  : General     , 1668224891687> MISSING in SettingsTable: AntiCheatProtectionType15.
+[11-11-22 19:48:11.688] LOG  : General     , 1668224891687> MISSING in SettingsTable: AntiCheatProtectionType16.
+[11-11-22 19:48:11.688] LOG  : General     , 1668224891688> MISSING in SettingsTable: AntiCheatProtectionType17.
+[11-11-22 19:48:11.688] LOG  : General     , 1668224891688> MISSING in SettingsTable: AntiCheatProtectionType18.
+[11-11-22 19:48:11.688] LOG  : General     , 1668224891688> MISSING in SettingsTable: AntiCheatProtectionType19.
+[11-11-22 19:48:11.688] LOG  : General     , 1668224891688> MISSING in SettingsTable: AntiCheatProtectionType20.
+[11-11-22 19:48:11.688] LOG  : General     , 1668224891688> MISSING in SettingsTable: AntiCheatProtectionType21.
+[11-11-22 19:48:11.688] LOG  : General     , 1668224891688> MISSING in SettingsTable: AntiCheatProtectionType22.
+[11-11-22 19:48:11.688] LOG  : General     , 1668224891688> MISSING in SettingsTable: AntiCheatProtectionType23.
+[11-11-22 19:48:11.689] LOG  : General     , 1668224891689> MISSING in SettingsTable: AntiCheatProtectionType24.
+[11-11-22 19:48:11.689] LOG  : General     , 1668224891689> MISSING in SettingsTable: AntiCheatProtectionType2ThresholdMultiplier.
+[11-11-22 19:48:11.689] LOG  : General     , 1668224891689> MISSING in SettingsTable: AntiCheatProtectionType3ThresholdMultiplier.
+[11-11-22 19:48:11.689] LOG  : General     , 1668224891689> MISSING in SettingsTable: AntiCheatProtectionType4ThresholdMultiplier.
+[11-11-22 19:48:11.689] LOG  : General     , 1668224891689> MISSING in SettingsTable: AntiCheatProtectionType9ThresholdMultiplier.
+[11-11-22 19:48:11.689] LOG  : General     , 1668224891689> MISSING in SettingsTable: AntiCheatProtectionType15ThresholdMultiplier.
+[11-11-22 19:48:11.689] LOG  : General     , 1668224891689> MISSING in SettingsTable: AntiCheatProtectionType20ThresholdMultiplier.
+[11-11-22 19:48:11.690] LOG  : General     , 1668224891690> MISSING in SettingsTable: AntiCheatProtectionType22ThresholdMultiplier.
+[11-11-22 19:48:11.690] LOG  : General     , 1668224891690> MISSING in SettingsTable: AntiCheatProtectionType24ThresholdMultiplier.
+[11-11-22 19:48:11.690] LOG  : General     , 1668224891690> MISSING in SettingsTable: StartYear.
+[11-11-22 19:48:11.690] LOG  : General     , 1668224891690> MISSING in SettingsTable: NightLength.
+[11-11-22 19:48:11.690] LOG  : Lua         , 1668224891690> Loading: media/lua/client/OptionScreens/ServerToolbox.lua.
+[11-11-22 19:48:11.691] LOG  : Lua         , 1668224891691> Loading: media/lua/client/OptionScreens/ServerWorkshopItemScreen.lua.
+[11-11-22 19:48:11.692] LOG  : Lua         , 1668224891692> Loading: media/lua/client/OptionScreens/WorkshopSubmitScreen.lua.
+[11-11-22 19:48:11.694] LOG  : Lua         , 1668224891694> Loading: media/lua/client/OptionScreens/WorldSelect.lua.
+[11-11-22 19:48:11.694] LOG  : Lua         , 1668224891694> Loading: media/lua/client/RadioCom/ISRadioAction.lua.
+[11-11-22 19:48:11.695] LOG  : Lua         , 1668224891695> Loading: media/lua/client/RadioCom/ISRadioInteractions.lua.
+[11-11-22 19:48:11.695] LOG  : Lua         , 1668224891695> Loading: media/lua/client/RadioCom/ISRadioWindow.lua.
+[11-11-22 19:48:11.696] LOG  : Lua         , 1668224891696> Loading: media/lua/client/RadioCom/ISUIRadio/ISBatteryStatusDisplay.lua.
+[11-11-22 19:48:11.697] LOG  : Lua         , 1668224891697> Loading: media/lua/client/RadioCom/ISUIRadio/ISItemDropBox.lua.
+[11-11-22 19:48:11.697] LOG  : Lua         , 1668224891697> Loading: media/lua/client/RadioCom/ISUIRadio/ISLedLight.lua.
+[11-11-22 19:48:11.698] LOG  : Lua         , 1668224891698> Loading: media/lua/client/RadioCom/ISUIRadio/ISSineWaveDisplay.lua.
+[11-11-22 19:48:11.698] LOG  : Lua         , 1668224891698> Loading: media/lua/client/RadioCom/ISUIRadio/ISSpeakerButton.lua.
+[11-11-22 19:48:11.699] LOG  : Lua         , 1668224891699> Loading: media/lua/client/RadioCom/ISUIRadio/ISVolumeBar.lua.
+[11-11-22 19:48:11.699] LOG  : Lua         , 1668224891699> Loading: media/lua/client/RadioCom/RadioWindowModules/RWM.lua.
+[11-11-22 19:48:11.699] LOG  : Lua         , 1668224891699> Loading: media/lua/client/RadioCom/RadioWindowModules/RWMChannel.lua.
+[11-11-22 19:48:11.700] LOG  : Lua         , 1668224891700> Loading: media/lua/client/RadioCom/RadioWindowModules/RWMPanel.lua.
+[11-11-22 19:48:11.700] LOG  : Lua         , 1668224891700> Loading: media/lua/client/RadioCom/RadioWindowModules/RWMChannelTV.lua.
+[11-11-22 19:48:11.701] LOG  : Lua         , 1668224891701> Loading: media/lua/client/RadioCom/RadioWindowModules/RWMElement.lua.
+[11-11-22 19:48:11.702] LOG  : Lua         , 1668224891702> Loading: media/lua/client/RadioCom/RadioWindowModules/RWMGeneral.lua.
+[11-11-22 19:48:11.702] LOG  : Lua         , 1668224891702> Loading: media/lua/client/RadioCom/RadioWindowModules/RWMGridPower.lua.
+[11-11-22 19:48:11.703] LOG  : Lua         , 1668224891703> Loading: media/lua/client/RadioCom/RadioWindowModules/RWMMedia.lua.
+[11-11-22 19:48:11.703] LOG  : Lua         , 1668224891703> Loading: media/lua/client/RadioCom/RadioWindowModules/RWMMicrophone.lua.
+[11-11-22 19:48:11.703] LOG  : Lua         , 1668224891703> Loading: media/lua/client/RadioCom/RadioWindowModules/RWMPower.lua.
+[11-11-22 19:48:11.704] LOG  : Lua         , 1668224891704> Loading: media/lua/client/RadioCom/RadioWindowModules/RWMSignal.lua.
+[11-11-22 19:48:11.704] LOG  : Lua         , 1668224891704> Loading: media/lua/client/RadioCom/RadioWindowModules/RWMSubEditPreset.lua.
+[11-11-22 19:48:11.705] LOG  : Lua         , 1668224891705> Loading: media/lua/client/RadioCom/RadioWindowModules/RWMTestPane.lua.
+[11-11-22 19:48:11.705] LOG  : Lua         , 1668224891705> Loading: media/lua/client/RadioCom/RadioWindowModules/RWMVolume.lua.
+[11-11-22 19:48:11.706] LOG  : Lua         , 1668224891706> Loading: media/lua/client/RadioCom/StoryLineSounds/ISSLEvent.lua.
+[11-11-22 19:48:11.706] LOG  : Lua         , 1668224891706> Loading: media/lua/client/RadioCom/StoryLineSounds/ISSLFrame.lua.
+[11-11-22 19:48:11.707] LOG  : Lua         , 1668224891707> Loading: media/lua/client/RadioCom/StoryLineSounds/ISSLManager.lua.
+[11-11-22 19:48:11.707] LOG  : Lua         , 1668224891707> Loading: media/lua/client/RadioCom/StoryLineSounds/ISSLSounds.lua.
+[11-11-22 19:48:11.707] LOG  : Lua         , 1668224891707> Loading: media/lua/client/RadioCom/StoryLineSounds/StorySoundDebug.lua.
+[11-11-22 19:48:11.708] LOG  : Lua         , 1668224891708> Loading: media/lua/client/RainBarrel/CRainBarrelGlobalObject.lua.
+[11-11-22 19:48:11.708] LOG  : Lua         , 1668224891708> Loading: media/lua/client/RainBarrel/CRainBarrelSystem.lua.
+[11-11-22 19:48:11.708] LOG  : Lua         , 1668224891708> Loading: media/lua/client/RecordedMedia/ISMediaInfo.lua.
+[11-11-22 19:48:11.709] LOG  : Lua         , 1668224891709> Loading: media/lua/client/RecordedMedia/ISRecMediaAction.lua.
+[11-11-22 19:48:11.709] LOG  : Lua         , 1668224891709> Loading: media/lua/client/Seasons/ISUI/ISWeather.lua.
+[11-11-22 19:48:11.709] LOG  : Lua         , 1668224891709> Loading: media/lua/client/ServerCommands.lua.
+[11-11-22 19:48:11.710] LOG  : Lua         , 1668224891710> Loading: media/lua/client/SurvivalGuide/ISTutorialPageInfo.lua.
+[11-11-22 19:48:11.710] LOG  : Lua         , 1668224891710> Loading: media/lua/client/SurvivalGuide/ISTutorialPanel.lua.
+[11-11-22 19:48:11.711] LOG  : Lua         , 1668224891711> Loading: media/lua/client/SurvivalGuide/SurvivalGuideEntries.lua.
+[11-11-22 19:48:11.712] LOG  : Lua         , 1668224891712> Loading: media/lua/client/SurvivalGuide/SurvivalGuideManager.lua.
+[11-11-22 19:48:11.712] LOG  : Lua         , 1668224891712> Loading: media/lua/client/Tests/MapObjectTests.lua.
+[11-11-22 19:48:11.713] LOG  : Lua         , 1668224891713> Loading: media/lua/client/Tests/RecipeTests.lua.
+[11-11-22 19:48:11.713] LOG  : Lua         , 1668224891713> Loading: media/lua/client/Tests/RecipeUtils.lua.
+[11-11-22 19:48:11.714] LOG  : Lua         , 1668224891714> Loading: media/lua/client/Tests/TimedActionsTests.lua.
+[11-11-22 19:48:11.715] LOG  : Lua         , 1668224891715> Loading: media/lua/client/TimedActions/ISActivateCarBatteryChargerAction.lua.
+[11-11-22 19:48:11.716] LOG  : Lua         , 1668224891716> Loading: media/lua/client/TimedActions/ISActivateGenerator.lua.
+[11-11-22 19:48:11.716] LOG  : Lua         , 1668224891716> Loading: media/lua/client/TimedActions/ISAddCompost.lua.
+[11-11-22 19:48:11.716] LOG  : Lua         , 1668224891716> Loading: media/lua/client/TimedActions/ISAddFuel.lua.
+[11-11-22 19:48:11.717] LOG  : Lua         , 1668224891717> Loading: media/lua/client/TimedActions/ISAddItemInRecipe.lua.
+[11-11-22 19:48:11.717] LOG  : Lua         , 1668224891717> Loading: media/lua/client/TimedActions/ISAddSheetAction.lua.
+[11-11-22 19:48:11.718] LOG  : Lua         , 1668224891718> Loading: media/lua/client/TimedActions/ISAddSheetRope.lua.
+[11-11-22 19:48:11.718] LOG  : Lua         , 1668224891718> Loading: media/lua/client/TimedActions/ISAddWaterFromItemAction.lua.
+[11-11-22 19:48:11.718] LOG  : Lua         , 1668224891718> Loading: media/lua/client/TimedActions/ISApplyBandage.lua.
+[11-11-22 19:48:11.719] LOG  : Lua         , 1668224891719> Loading: media/lua/client/TimedActions/ISAttachItemHotbar.lua.
+[11-11-22 19:48:11.719] LOG  : Lua         , 1668224891719> Loading: media/lua/client/TimedActions/ISBarricadeAction.lua.
+[11-11-22 19:48:11.720] LOG  : Lua         , 1668224891720> Loading: media/lua/client/TimedActions/ISBBQAddFuel.lua.
+[11-11-22 19:48:11.720] LOG  : Lua         , 1668224891720> Loading: media/lua/client/TimedActions/ISBBQExtinguish.lua.
+[11-11-22 19:48:11.720] LOG  : Lua         , 1668224891720> Loading: media/lua/client/TimedActions/ISBBQInfoAction.lua.
+[11-11-22 19:48:11.721] LOG  : Lua         , 1668224891721> Loading: media/lua/client/TimedActions/ISBBQInsertPropaneTank.lua.
+[11-11-22 19:48:11.721] LOG  : Lua         , 1668224891721> Loading: media/lua/client/TimedActions/ISBBQLightFromKindle.lua.
+[11-11-22 19:48:11.721] LOG  : Lua         , 1668224891721> Loading: media/lua/client/TimedActions/ISBBQLightFromLiterature.lua.
+[11-11-22 19:48:11.721] LOG  : Lua         , 1668224891721> Loading: media/lua/client/TimedActions/ISBBQLightFromPetrol.lua.
+[11-11-22 19:48:11.722] LOG  : Lua         , 1668224891722> Loading: media/lua/client/TimedActions/ISBBQRemovePropaneTank.lua.
+[11-11-22 19:48:11.722] LOG  : Lua         , 1668224891722> Loading: media/lua/client/TimedActions/ISBBQToggle.lua.
+[11-11-22 19:48:11.722] LOG  : Lua         , 1668224891722> Loading: media/lua/client/TimedActions/ISBurnCorpseAction.lua.
+[11-11-22 19:48:11.723] LOG  : Lua         , 1668224891723> Loading: media/lua/client/TimedActions/ISBuryCorpse.lua.
+[11-11-22 19:48:11.723] LOG  : Lua         , 1668224891723> Loading: media/lua/client/TimedActions/ISCampingInfoAction.lua.
+[11-11-22 19:48:11.723] LOG  : Lua         , 1668224891723> Loading: media/lua/client/TimedActions/ISChopTreeAction.lua.
+[11-11-22 19:48:11.724] LOG  : Lua         , 1668224891724> Loading: media/lua/client/TimedActions/ISCleanBandage.lua.
+[11-11-22 19:48:11.724] LOG  : Lua         , 1668224891724> Loading: media/lua/client/TimedActions/ISCleanBlood.lua.
+[11-11-22 19:48:11.724] LOG  : Lua         , 1668224891724> Loading: media/lua/client/TimedActions/ISCleanBurn.lua.
+[11-11-22 19:48:11.725] LOG  : Lua         , 1668224891725> Loading: media/lua/client/TimedActions/ISClearAshes.lua.
+[11-11-22 19:48:11.725] LOG  : Lua         , 1668224891725> Loading: media/lua/client/TimedActions/ISClimbOverFence.lua.
+[11-11-22 19:48:11.725] LOG  : Lua         , 1668224891725> Loading: media/lua/client/TimedActions/ISClimbSheetRopeAction.lua.
+[11-11-22 19:48:11.726] LOG  : Lua         , 1668224891726> Loading: media/lua/client/TimedActions/ISClimbThroughWindow.lua.
+[11-11-22 19:48:11.726] LOG  : Lua         , 1668224891726> Loading: media/lua/client/TimedActions/ISClothingExtraAction.lua.
+[11-11-22 19:48:11.726] LOG  : Lua         , 1668224891726> Loading: media/lua/client/TimedActions/ISComfreyCataplasm.lua.
+[11-11-22 19:48:11.727] LOG  : Lua         , 1668224891727> Loading: media/lua/client/TimedActions/ISConnectCarBatteryToChargerAction.lua.
+[11-11-22 19:48:11.727] LOG  : Lua         , 1668224891727> Loading: media/lua/client/TimedActions/ISConsolidateDrainable.lua.
+[11-11-22 19:48:11.727] LOG  : Lua         , 1668224891727> Loading: media/lua/client/TimedActions/ISConsolidateDrainableAll.lua.
+[11-11-22 19:48:11.728] LOG  : Lua         , 1668224891728> Loading: media/lua/client/TimedActions/ISCraftAction.lua.
+[11-11-22 19:48:11.728] LOG  : Lua         , 1668224891728> Loading: media/lua/client/TimedActions/ISCutHair.lua.
+[11-11-22 19:48:11.728] LOG  : Lua         , 1668224891728> Loading: media/lua/client/TimedActions/ISDestroyStuffAction.lua.
+[11-11-22 19:48:11.729] LOG  : Lua         , 1668224891729> Loading: media/lua/client/TimedActions/ISDetachItemHotbar.lua.
+[11-11-22 19:48:11.729] LOG  : Lua         , 1668224891729> Loading: media/lua/client/TimedActions/ISDisinfect.lua.
+[11-11-22 19:48:11.730] LOG  : Lua         , 1668224891730> Loading: media/lua/client/TimedActions/ISDismantleAction.lua.
+[11-11-22 19:48:11.730] LOG  : Lua         , 1668224891730> Loading: media/lua/client/TimedActions/ISDrinkFromBottle.lua.
+[11-11-22 19:48:11.730] LOG  : Lua         , 1668224891730> Loading: media/lua/client/TimedActions/ISDropItemAction.lua.
+[11-11-22 19:48:11.731] LOG  : Lua         , 1668224891731> Loading: media/lua/client/TimedActions/ISDropWorldItemAction.lua.
+[11-11-22 19:48:11.731] LOG  : Lua         , 1668224891731> Loading: media/lua/client/TimedActions/ISDryMyself.lua.
+[11-11-22 19:48:11.731] LOG  : Lua         , 1668224891731> Loading: media/lua/client/TimedActions/ISDumpContentsAction.lua.
+[11-11-22 19:48:11.732] LOG  : Lua         , 1668224891732> Loading: media/lua/client/TimedActions/ISDumpWaterAction.lua.
+[11-11-22 19:48:11.732] LOG  : Lua         , 1668224891732> Loading: media/lua/client/TimedActions/ISDyeHair.lua.
+[11-11-22 19:48:11.732] LOG  : Lua         , 1668224891732> Loading: media/lua/client/TimedActions/ISEjectMagazine.lua.
+[11-11-22 19:48:11.733] LOG  : Lua         , 1668224891733> Loading: media/lua/client/TimedActions/ISEmptyRainBarrelAction.lua.
+[11-11-22 19:48:11.733] LOG  : Lua         , 1668224891733> Loading: media/lua/client/TimedActions/ISEquipHeavyItem.lua.
+[11-11-22 19:48:11.733] LOG  : Lua         , 1668224891733> Loading: media/lua/client/TimedActions/ISEquipWeaponAction.lua.
+[11-11-22 19:48:11.734] LOG  : Lua         , 1668224891734> Loading: media/lua/client/TimedActions/ISFillGrave.lua.
+[11-11-22 19:48:11.734] LOG  : Lua         , 1668224891734> Loading: media/lua/client/TimedActions/ISFinalizeDealAction.lua.
+[11-11-22 19:48:11.734] LOG  : Lua         , 1668224891734> Loading: media/lua/client/TimedActions/ISFireplaceAddFuel.lua.
+[11-11-22 19:48:11.735] LOG  : Lua         , 1668224891735> Loading: media/lua/client/TimedActions/ISFireplaceExtinguish.lua.
+[11-11-22 19:48:11.735] LOG  : Lua         , 1668224891735> Loading: media/lua/client/TimedActions/ISFireplaceInfoAction.lua.
+[11-11-22 19:48:11.735] LOG  : Lua         , 1668224891735> Loading: media/lua/client/TimedActions/ISFireplaceLightFromKindle.lua.
+[11-11-22 19:48:11.736] LOG  : Lua         , 1668224891736> Loading: media/lua/client/TimedActions/ISFireplaceLightFromLiterature.lua.
+[11-11-22 19:48:11.736] LOG  : Lua         , 1668224891736> Loading: media/lua/client/TimedActions/ISFireplaceLightFromPetrol.lua.
+[11-11-22 19:48:11.736] LOG  : Lua         , 1668224891736> Loading: media/lua/client/TimedActions/ISFitnessAction.lua.
+[11-11-22 19:48:11.737] LOG  : Lua         , 1668224891737> Loading: media/lua/client/TimedActions/ISFixAction.lua.
+[11-11-22 19:48:11.737] LOG  : Lua         , 1668224891737> Loading: media/lua/client/TimedActions/ISFixGenerator.lua.
+[11-11-22 19:48:11.737] LOG  : Lua         , 1668224891737> Loading: media/lua/client/TimedActions/ISGarlicCataplasm.lua.
+[11-11-22 19:48:11.738] LOG  : Lua         , 1668224891738> Loading: media/lua/client/TimedActions/ISGeneratorInfoAction.lua.
+[11-11-22 19:48:11.738] LOG  : Lua         , 1668224891738> Loading: media/lua/client/TimedActions/ISGetCompost.lua.
+[11-11-22 19:48:11.738] LOG  : Lua         , 1668224891738> Loading: media/lua/client/TimedActions/ISGrabCorpseAction.lua.
+[11-11-22 19:48:11.739] LOG  : Lua         , 1668224891739> Loading: media/lua/client/TimedActions/ISGrabItemAction.lua.
+[11-11-22 19:48:11.739] LOG  : Lua         , 1668224891739> Loading: media/lua/client/TimedActions/ISInsertMagazine.lua.
+[11-11-22 19:48:11.740] LOG  : Lua         , 1668224891740> Loading: media/lua/client/TimedActions/ISInventoryTransferAction.lua.
+[11-11-22 19:48:11.740] LOG  : Lua         , 1668224891740> Loading: media/lua/client/TimedActions/ISLightActions.lua.
+[11-11-22 19:48:11.741] LOG  : Lua         , 1668224891741> Loading: media/lua/client/TimedActions/ISLoadBulletsInMagazine.lua.
+[11-11-22 19:48:11.741] LOG  : Lua         , 1668224891741> Loading: media/lua/client/TimedActions/ISLockDoor.lua.
+[11-11-22 19:48:11.742] LOG  : Lua         , 1668224891742> Loading: media/lua/client/TimedActions/ISMedicalCheckAction.lua.
+[11-11-22 19:48:11.742] LOG  : Lua         , 1668224891742> Loading: media/lua/client/TimedActions/ISOpenCloseCurtain.lua.
+[11-11-22 19:48:11.742] LOG  : Lua         , 1668224891742> Loading: media/lua/client/TimedActions/ISOpenCloseDoor.lua.
+[11-11-22 19:48:11.742] LOG  : Lua         , 1668224891742> Loading: media/lua/client/TimedActions/ISOpenCloseWindow.lua.
+[11-11-22 19:48:11.743] LOG  : Lua         , 1668224891743> Loading: media/lua/client/TimedActions/ISOpenContainerTimedAction.lua.
+[11-11-22 19:48:11.743] LOG  : Lua         , 1668224891743> Loading: media/lua/client/TimedActions/ISOvenUITimedAction.lua.
+[11-11-22 19:48:11.743] LOG  : Lua         , 1668224891743> Loading: media/lua/client/TimedActions/ISPadlockAction.lua.
+[11-11-22 19:48:11.744] LOG  : Lua         , 1668224891744> Loading: media/lua/client/TimedActions/ISPickupBrokenGlass.lua.
+[11-11-22 19:48:11.744] LOG  : Lua         , 1668224891744> Loading: media/lua/client/TimedActions/ISPlaceCarBatteryChargerAction.lua.
+[11-11-22 19:48:11.744] LOG  : Lua         , 1668224891744> Loading: media/lua/client/TimedActions/ISPlaceTrap.lua.
+[11-11-22 19:48:11.745] LOG  : Lua         , 1668224891745> Loading: media/lua/client/TimedActions/ISPlantainCataplasm.lua.
+[11-11-22 19:48:11.745] LOG  : Lua         , 1668224891745> Loading: media/lua/client/TimedActions/ISPlugGenerator.lua.
+[11-11-22 19:48:11.745] LOG  : Lua         , 1668224891745> Loading: media/lua/client/TimedActions/ISPlumbItem.lua.
+[11-11-22 19:48:11.746] LOG  : Lua         , 1668224891746> Loading: media/lua/client/TimedActions/ISPutOutFire.lua.
+[11-11-22 19:48:11.746] LOG  : Lua         , 1668224891746> Loading: media/lua/client/TimedActions/ISQueueActionsAction.lua.
+[11-11-22 19:48:11.746] LOG  : Lua         , 1668224891746> Loading: media/lua/client/TimedActions/ISRackFirearm.lua.
+[11-11-22 19:48:11.747] LOG  : Lua         , 1668224891747> Loading: media/lua/client/TimedActions/ISReadABook.lua.
+[11-11-22 19:48:11.747] LOG  : Lua         , 1668224891747> Loading: media/lua/client/TimedActions/ISReadWorldMap.lua.
+[11-11-22 19:48:11.747] LOG  : Lua         , 1668224891747> Loading: media/lua/client/TimedActions/ISReloadWeaponAction.lua.
+[11-11-22 19:48:11.748] LOG  : Lua         , 1668224891748> Loading: media/lua/client/TimedActions/ISRemoveBrokenGlass.lua.
+[11-11-22 19:48:11.748] LOG  : Lua         , 1668224891748> Loading: media/lua/client/TimedActions/ISRemoveBullet.lua.
+[11-11-22 19:48:11.749] LOG  : Lua         , 1668224891749> Loading: media/lua/client/TimedActions/ISRemoveBush.lua.
+[11-11-22 19:48:11.749] LOG  : Lua         , 1668224891749> Loading: media/lua/client/TimedActions/ISRemoveCarBatteryFromChargerAction.lua.
+[11-11-22 19:48:11.749] LOG  : Lua         , 1668224891749> Loading: media/lua/client/TimedActions/ISRemoveGlass.lua.
+[11-11-22 19:48:11.750] LOG  : Lua         , 1668224891750> Loading: media/lua/client/TimedActions/ISRemoveGrass.lua.
+[11-11-22 19:48:11.750] LOG  : Lua         , 1668224891750> Loading: media/lua/client/TimedActions/ISRemovePatch.lua.
+[11-11-22 19:48:11.750] LOG  : Lua         , 1668224891750> Loading: media/lua/client/TimedActions/ISRemoveSheetAction.lua.
+[11-11-22 19:48:11.751] LOG  : Lua         , 1668224891751> Loading: media/lua/client/TimedActions/ISRemoveSheetRope.lua.
+[11-11-22 19:48:11.751] LOG  : Lua         , 1668224891751> Loading: media/lua/client/TimedActions/ISRemoveWeaponUpgrade.lua.
+[11-11-22 19:48:11.751] LOG  : Lua         , 1668224891751> Loading: media/lua/client/TimedActions/ISRepairClothing.lua.
+[11-11-22 19:48:11.752] LOG  : Lua         , 1668224891752> Loading: media/lua/client/TimedActions/ISRestAction.lua.
+[11-11-22 19:48:11.752] LOG  : Lua         , 1668224891752> Loading: media/lua/client/TimedActions/ISRipClothing.lua.
+[11-11-22 19:48:11.752] LOG  : Lua         , 1668224891752> Loading: media/lua/client/TimedActions/ISScavengeAction.lua.
+[11-11-22 19:48:11.753] LOG  : Lua         , 1668224891753> Loading: media/lua/client/TimedActions/ISSetComboWasherDryerMode.lua.
+[11-11-22 19:48:11.753] LOG  : Lua         , 1668224891753> Loading: media/lua/client/TimedActions/ISSitOnChairAction.lua.
+[11-11-22 19:48:11.754] LOG  : Lua         , 1668224891753> Loading: media/lua/client/TimedActions/ISSmashWindow.lua.
+[11-11-22 19:48:11.754] LOG  : Lua         , 1668224891754> Loading: media/lua/client/TimedActions/ISSplint.lua.
+[11-11-22 19:48:11.754] LOG  : Lua         , 1668224891754> Loading: media/lua/client/TimedActions/ISStitch.lua.
+[11-11-22 19:48:11.755] LOG  : Lua         , 1668224891755> Loading: media/lua/client/TimedActions/ISStopAlarmClockAction.lua.
+[11-11-22 19:48:11.755] LOG  : Lua         , 1668224891755> Loading: media/lua/client/TimedActions/ISTakeCarBatteryChargerAction.lua.
+[11-11-22 19:48:11.755] LOG  : Lua         , 1668224891755> Loading: media/lua/client/TimedActions/ISTakeFuel.lua.
+[11-11-22 19:48:11.755] LOG  : Lua         , 1668224891755> Loading: media/lua/client/TimedActions/ISTakeGenerator.lua.
+[11-11-22 19:48:11.756] LOG  : Lua         , 1668224891756> Loading: media/lua/client/TimedActions/ISTakePillAction.lua.
+[11-11-22 19:48:11.756] LOG  : Lua         , 1668224891756> Loading: media/lua/client/TimedActions/ISTakeTrap.lua.
+[11-11-22 19:48:11.756] LOG  : Lua         , 1668224891756> Loading: media/lua/client/TimedActions/ISTakeWaterAction.lua.
+[11-11-22 19:48:11.757] LOG  : Lua         , 1668224891757> Loading: media/lua/client/TimedActions/ISToggleClothingDryer.lua.
+[11-11-22 19:48:11.757] LOG  : Lua         , 1668224891757> Loading: media/lua/client/TimedActions/ISToggleClothingWasher.lua.
+[11-11-22 19:48:11.757] LOG  : Lua         , 1668224891757> Loading: media/lua/client/TimedActions/ISToggleComboWasherDryer.lua.
+[11-11-22 19:48:11.758] LOG  : Lua         , 1668224891758> Loading: media/lua/client/TimedActions/ISToggleLightAction.lua.
+[11-11-22 19:48:11.758] LOG  : Lua         , 1668224891758> Loading: media/lua/client/TimedActions/ISToggleSafetyAction.lua.
+[11-11-22 19:48:11.758] LOG  : Lua         , 1668224891758> Loading: media/lua/client/TimedActions/ISToggleStoveAction.lua.
+[11-11-22 19:48:11.759] LOG  : Lua         , 1668224891759> Loading: media/lua/client/TimedActions/ISTransferWaterAction.lua.
+[11-11-22 19:48:11.759] LOG  : Lua         , 1668224891759> Loading: media/lua/client/TimedActions/ISTrimBeard.lua.
+[11-11-22 19:48:11.759] LOG  : Lua         , 1668224891759> Loading: media/lua/client/TimedActions/ISUnbarricadeAction.lua.
+[11-11-22 19:48:11.760] LOG  : Lua         , 1668224891760> Loading: media/lua/client/TimedActions/ISUnequipAction.lua.
+[11-11-22 19:48:11.760] LOG  : Lua         , 1668224891760> Loading: media/lua/client/TimedActions/ISUnloadBulletsFromFirearm.lua.
+[11-11-22 19:48:11.760] LOG  : Lua         , 1668224891760> Loading: media/lua/client/TimedActions/ISUnloadBulletsFromMagazine.lua.
+[11-11-22 19:48:11.761] LOG  : Lua         , 1668224891761> Loading: media/lua/client/TimedActions/ISUpgradeWeapon.lua.
+[11-11-22 19:48:11.761] LOG  : Lua         , 1668224891761> Loading: media/lua/client/TimedActions/ISWakeOtherPlayer.lua.
+[11-11-22 19:48:11.761] LOG  : Lua         , 1668224891761> Loading: media/lua/client/TimedActions/ISWashClothing.lua.
+[11-11-22 19:48:11.762] LOG  : Lua         , 1668224891762> Loading: media/lua/client/TimedActions/ISWashYourself.lua.
+[11-11-22 19:48:11.762] LOG  : Lua         , 1668224891762> Loading: media/lua/client/TimedActions/ISWearClothing.lua.
+[11-11-22 19:48:11.763] LOG  : Lua         , 1668224891763> Loading: media/lua/client/TimedActions/WalkToTimedAction.lua.
+[11-11-22 19:48:11.763] LOG  : Lua         , 1668224891763> Loading: media/lua/client/Traps/CTrapGlobalObject.lua.
+[11-11-22 19:48:11.763] LOG  : Lua         , 1668224891763> Loading: media/lua/client/Traps/CTrapSystem.lua.
+[11-11-22 19:48:11.764] LOG  : Lua         , 1668224891764> Loading: media/lua/client/Traps/TimedActions/ISAddBaitAction.lua.
+[11-11-22 19:48:11.764] LOG  : Lua         , 1668224891764> Loading: media/lua/client/Traps/TimedActions/ISCheckTrapAction.lua.
+[11-11-22 19:48:11.764] LOG  : Lua         , 1668224891764> Loading: media/lua/client/Traps/TimedActions/ISRemoveBaitAction.lua.
+[11-11-22 19:48:11.765] LOG  : Lua         , 1668224891764> Loading: media/lua/client/Traps/TimedActions/ISRemoveTrapAction.lua.
+[11-11-22 19:48:11.765] LOG  : Lua         , 1668224891765> Loading: media/lua/client/Tutorial/ISUI/TutorialFocus.lua.
+[11-11-22 19:48:11.765] LOG  : Lua         , 1668224891765> Loading: media/lua/client/Tutorial/ISUI/TutorialMessage.lua.
+[11-11-22 19:48:11.766] LOG  : Lua         , 1668224891766> Loading: media/lua/client/Tutorial/Steps.lua.
+[11-11-22 19:48:11.768] LOG  : Lua         , 1668224891768> Loading: media/lua/client/Tutorial/TutorialStep.lua.
+[11-11-22 19:48:11.769] LOG  : Lua         , 1668224891769> Loading: media/lua/client/Tutorial/Tutorial1.lua.
+[11-11-22 19:48:11.769] LOG  : Lua         , 1668224891769> Loading: media/lua/client/Tutorial/TutorialSetup.lua.
+[11-11-22 19:48:11.770] LOG  : Lua         , 1668224891770> Loading: media/lua/client/Vehicles/ISUI/EditVehicleState.lua.
+[11-11-22 19:48:11.772] LOG  : Lua         , 1668224891772> Loading: media/lua/client/Vehicles/ISUI/ISCarMechanicsOverlay.lua.
+[11-11-22 19:48:11.773] LOG  : Lua         , 1668224891773> Loading: media/lua/client/Vehicles/ISUI/ISLightbarUI.lua.
+[11-11-22 19:48:11.773] LOG  : Lua         , 1668224891773> Loading: media/lua/client/Vehicles/ISUI/ISUIVehicleModel.lua.
+[11-11-22 19:48:11.774] LOG  : Lua         , 1668224891774> Loading: media/lua/client/Vehicles/ISUI/ISVehicleACUI.lua.
+[11-11-22 19:48:11.774] LOG  : Lua         , 1668224891774> Loading: media/lua/client/Vehicles/ISUI/ISVehicleAngles.lua.
+[11-11-22 19:48:11.775] LOG  : Lua         , 1668224891775> Loading: media/lua/client/Vehicles/ISUI/ISVehicleBloodUI.lua.
+[11-11-22 19:48:11.775] LOG  : Lua         , 1668224891775> Loading: media/lua/client/Vehicles/ISUI/ISVehicleColor.lua.
+[11-11-22 19:48:11.775] LOG  : Lua         , 1668224891775> Loading: media/lua/client/Vehicles/ISUI/ISVehicleDashboard.lua.
+[11-11-22 19:48:11.777] LOG  : Lua         , 1668224891777> Loading: media/lua/client/Vehicles/ISUI/ISVehicleGauge.lua.
+[11-11-22 19:48:11.777] LOG  : Lua         , 1668224891777> Loading: media/lua/client/Vehicles/ISUI/ISVehicleMechanics.lua.
+[11-11-22 19:48:11.780] LOG  : Lua         , 1668224891780> Loading: media/lua/client/Vehicles/ISUI/ISVehicleMenu.lua.
+[11-11-22 19:48:11.781] LOG  : Lua         , 1668224891781> Loading: media/lua/client/Vehicles/ISUI/ISVehiclePartMenu.lua.
+[11-11-22 19:48:11.782] LOG  : Lua         , 1668224891782> Loading: media/lua/client/Vehicles/ISUI/ISVehicleRegulator.lua.
+[11-11-22 19:48:11.783] LOG  : Lua         , 1668224891783> Loading: media/lua/client/Vehicles/ISUI/ISVehicleRoadtripDebug.lua.
+[11-11-22 19:48:11.783] LOG  : Lua         , 1668224891783> Loading: media/lua/client/Vehicles/ISUI/ISVehicleSeatUI.lua.
+[11-11-22 19:48:11.784] LOG  : Lua         , 1668224891784> Loading: media/lua/client/Vehicles/ISVehicleTrailerUtils.lua.
+[11-11-22 19:48:11.784] LOG  : Lua         , 1668224891784> Loading: media/lua/client/Vehicles/TimedActions/ISAddGasolineToVehicle.lua.
+[11-11-22 19:48:11.785] LOG  : Lua         , 1668224891785> Loading: media/lua/client/Vehicles/TimedActions/ISAttachTrailerToVehicle.lua.
+[11-11-22 19:48:11.785] LOG  : Lua         , 1668224891785> Loading: media/lua/client/Vehicles/TimedActions/ISCloseVehicleDoor.lua.
+[11-11-22 19:48:11.785] LOG  : Lua         , 1668224891785> Loading: media/lua/client/Vehicles/TimedActions/ISConfigHeadlight.lua.
+[11-11-22 19:48:11.785] LOG  : Lua         , 1668224891785> Loading: media/lua/client/Vehicles/TimedActions/ISDeflateTire.lua.
+[11-11-22 19:48:11.786] LOG  : Lua         , 1668224891786> Loading: media/lua/client/Vehicles/TimedActions/ISDetachTrailerFromVehicle.lua.
+[11-11-22 19:48:11.786] LOG  : Lua         , 1668224891786> Loading: media/lua/client/Vehicles/TimedActions/ISEnterVehicle.lua.
+[11-11-22 19:48:11.786] LOG  : Lua         , 1668224891786> Loading: media/lua/client/Vehicles/TimedActions/ISExitVehicle.lua.
+[11-11-22 19:48:11.787] LOG  : Lua         , 1668224891787> Loading: media/lua/client/Vehicles/TimedActions/ISHorn.lua.
+[11-11-22 19:48:11.787] LOG  : Lua         , 1668224891787> Loading: media/lua/client/Vehicles/TimedActions/ISHotwireVehicle.lua.
+[11-11-22 19:48:11.787] LOG  : Lua         , 1668224891787> Loading: media/lua/client/Vehicles/TimedActions/ISInflateTire.lua.
+[11-11-22 19:48:11.788] LOG  : Lua         , 1668224891788> Loading: media/lua/client/Vehicles/TimedActions/ISInstallVehiclePart.lua.
+[11-11-22 19:48:11.788] LOG  : Lua         , 1668224891788> Loading: media/lua/client/Vehicles/TimedActions/ISLightbarUITimedAction.lua.
+[11-11-22 19:48:11.788] LOG  : Lua         , 1668224891788> Loading: media/lua/client/Vehicles/TimedActions/ISLockDoors.lua.
+[11-11-22 19:48:11.789] LOG  : Lua         , 1668224891789> Loading: media/lua/client/Vehicles/TimedActions/ISLockVehicleDoor.lua.
+[11-11-22 19:48:11.789] LOG  : Lua         , 1668224891789> Loading: media/lua/client/Vehicles/TimedActions/ISOpenCloseVehicleWindow.lua.
+[11-11-22 19:48:11.789] LOG  : Lua         , 1668224891789> Loading: media/lua/client/Vehicles/TimedActions/ISOpenMechanicsUIAction.lua.
+[11-11-22 19:48:11.790] LOG  : Lua         , 1668224891790> Loading: media/lua/client/Vehicles/TimedActions/ISOpenVehicleDoor.lua.
+[11-11-22 19:48:11.790] LOG  : Lua         , 1668224891790> Loading: media/lua/client/Vehicles/TimedActions/ISPathFindAction.lua.
+[11-11-22 19:48:11.790] LOG  : Lua         , 1668224891790> Loading: media/lua/client/Vehicles/TimedActions/ISRechargeCarBattery.lua.
+[11-11-22 19:48:11.791] LOG  : Lua         , 1668224891791> Loading: media/lua/client/Vehicles/TimedActions/ISRefuelFromGasPump.lua.
+[11-11-22 19:48:11.791] LOG  : Lua         , 1668224891791> Loading: media/lua/client/Vehicles/TimedActions/ISRemoveBurntVehicle.lua.
+[11-11-22 19:48:11.791] LOG  : Lua         , 1668224891791> Loading: media/lua/client/Vehicles/TimedActions/ISRepairEngine.lua.
+[11-11-22 19:48:11.792] LOG  : Lua         , 1668224891792> Loading: media/lua/client/Vehicles/TimedActions/ISShutOffVehicleEngine.lua.
+[11-11-22 19:48:11.792] LOG  : Lua         , 1668224891792> Loading: media/lua/client/Vehicles/TimedActions/ISSmashVehicleWindow.lua.
+[11-11-22 19:48:11.792] LOG  : Lua         , 1668224891792> Loading: media/lua/client/Vehicles/TimedActions/ISStartVehicleEngine.lua.
+[11-11-22 19:48:11.793] LOG  : Lua         , 1668224891793> Loading: media/lua/client/Vehicles/TimedActions/ISStopVehicle.lua.
+[11-11-22 19:48:11.793] LOG  : Lua         , 1668224891793> Loading: media/lua/client/Vehicles/TimedActions/ISSwitchVehicleSeat.lua.
+[11-11-22 19:48:11.793] LOG  : Lua         , 1668224891793> Loading: media/lua/client/Vehicles/TimedActions/ISTakeEngineParts.lua.
+[11-11-22 19:48:11.794] LOG  : Lua         , 1668224891794> Loading: media/lua/client/Vehicles/TimedActions/ISTakeGasolineFromVehicle.lua.
+[11-11-22 19:48:11.794] LOG  : Lua         , 1668224891794> Loading: media/lua/client/Vehicles/TimedActions/ISUninstallVehiclePart.lua.
+[11-11-22 19:48:11.794] LOG  : Lua         , 1668224891794> Loading: media/lua/client/Vehicles/TimedActions/ISUnlockVehicleDoor.lua.
+[11-11-22 19:48:11.795] LOG  : Lua         , 1668224891795> Loading: media/lua/client/Vehicles/TimedActions/ISWashVehicle.lua.
+[11-11-22 19:48:11.795] LOG  : Lua         , 1668224891795> Loading: media/lua/client/XpSystem/ISUI/ISCharacterInfo.lua.
+[11-11-22 19:48:11.796] LOG  : Lua         , 1668224891796> Loading: media/lua/client/XpSystem/ISUI/ISCharacterInfoWindow.lua.
+[11-11-22 19:48:11.796] LOG  : Lua         , 1668224891796> Loading: media/lua/client/XpSystem/ISUI/ISCharacterProtection.lua.
+[11-11-22 19:48:11.797] LOG  : Lua         , 1668224891797> Loading: media/lua/client/XpSystem/ISUI/ISCharacterScreen.lua.
+[11-11-22 19:48:11.798] LOG  : Lua         , 1668224891798> Loading: media/lua/client/XpSystem/ISUI/ISClothingInsPanel.lua.
+[11-11-22 19:48:11.799] LOG  : Lua         , 1668224891799> Loading: media/lua/client/XpSystem/ISUI/ISHealthPanel.lua.
+[11-11-22 19:48:11.801] LOG  : Lua         , 1668224891801> Loading: media/lua/client/XpSystem/ISUI/ISSkillProgressBar.lua.
+[11-11-22 19:48:11.802] LOG  : General     , 1668224891802> OnLoadSoundbanks.
+[11-11-22 19:48:11.803] LOG  : General     , 1668224891803> texturepack: loading Tiles2x.
+[11-11-22 19:48:11.817] LOG  : General     , 1668224891817> texturepack: loading Overlays2x.
+[11-11-22 19:48:11.865] LOG  : General     , 1668224891865> texturepack: loading JumboTrees2x.
+[11-11-22 19:48:11.945] LOG  : General     , 1668224891945> texturepack: loading Tiles2x.floor.
+[11-11-22 19:48:11.948] LOG  : General     , 1668224891948> LOADED UP A TOTAL OF 6 TEXTURES.
+[11-11-22 19:48:11.954] DEBUG: General     , 1668224891954> TextureFBO.checkFBOSupport          > OpenGL 3.0 framebuffer objects supported.
+[11-11-22 19:48:12.635] LOG  : General     , 1668224892635> 1668224892635 fmod: globalSystem = 0x5E822058.
+[11-11-22 19:48:12.635] LOG  : General     , 1668224892635> 1668224892635 fmod: FMOD_System_GetRecordDriverInfo: nativeRate = 48000, nativeChannels = 2.
+[11-11-22 19:48:12.635] LOG  : General     , 1668224892635> 1668224892635 fmod: System create record sound: OK.
+[11-11-22 19:48:12.636] LOG  : General     , 1668224892636> 1668224892636 fmod: Create resampler: OK.
+[11-11-22 19:48:12.636] LOG  : General     , 1668224892636> 1668224892636 fmod: Create acoustic echo canceller: OK.
+[11-11-22 19:48:12.648] LOG  : General     , 1668224892648> 1668224892648 fmod: GetRecordNumDrivers id = 5, sound = 0x5f15c4d8 loop=1.
+[11-11-22 19:48:12.705] LOG  : General     , 1668224892705> STATE: enter zombie.gameStates.TISLogoState.
+[11-11-22 19:48:18.113] LOG  : General     , 1668224898113> STATE: exit zombie.gameStates.TISLogoState.
+[11-11-22 19:48:18.113] LOG  : General     , 1668224898113> STATE: enter zombie.gameStates.TermsOfServiceState.
+[11-11-22 19:48:18.113] LOG  : General     , 1668224898113> STATE: exit zombie.gameStates.TermsOfServiceState.
+[11-11-22 19:48:18.114] LOG  : General     , 1668224898114> STATE: enter zombie.gameStates.MainScreenState.
+[11-11-22 19:48:18.114] LOG  : General     , 1668224898114> EXITDEBUG: MainScreenState.enter 1.
+[11-11-22 19:48:18.119] LOG  : Lua         , 1668224898119> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[11-11-22 19:48:18.317] LOG  : Lua         , 1668224898317> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[11-11-22 19:48:18.318] LOG  : Lua         , 1668224898318> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[11-11-22 19:48:18.319] LOG  : Lua         , 1668224898319> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[11-11-22 19:48:18.319] LOG  : Lua         , 1668224898319> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[11-11-22 19:48:18.320] LOG  : Lua         , 1668224898320> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[11-11-22 19:48:18.321] LOG  : Lua         , 1668224898321> Loading: media/lua/shared/Sandbox/Survivor.lua.
+[11-11-22 19:48:18.321] LOG  : Lua         , 1668224898321> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[11-11-22 19:48:18.322] LOG  : Lua         , 1668224898322> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[11-11-22 19:48:18.322] LOG  : Lua         , 1668224898322> Loading: media/lua/shared/Sandbox/Builder.lua.
+[11-11-22 19:48:18.323] LOG  : Lua         , 1668224898323> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[11-11-22 19:48:18.323] LOG  : Lua         , 1668224898323> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[11-11-22 19:48:18.324] LOG  : Lua         , 1668224898324> Loading: media/lua/shared/Sandbox/Beginner.lua.
+[11-11-22 19:48:18.324] LOG  : Lua         , 1668224898324> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[11-11-22 19:48:18.325] LOG  : Lua         , 1668224898325> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[11-11-22 19:48:18.325] LOG  : Lua         , 1668224898325> Loading: media/lua/shared/Sandbox/FirstWeek.lua.
+[11-11-22 19:48:18.326] LOG  : Lua         , 1668224898326> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[11-11-22 19:48:18.326] LOG  : Lua         , 1668224898326> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[11-11-22 19:48:18.327] LOG  : Lua         , 1668224898327> Loading: media/lua/shared/Sandbox/Survival.lua.
+[11-11-22 19:48:18.327] LOG  : Lua         , 1668224898327> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[11-11-22 19:48:18.328] LOG  : Lua         , 1668224898328> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[11-11-22 19:48:18.328] LOG  : Lua         , 1668224898328> Loading: media/lua/shared/Sandbox/SixMonthsLater.lua.
+[11-11-22 19:48:18.329] LOG  : Lua         , 1668224898329> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[11-11-22 19:48:18.329] LOG  : Lua         , 1668224898329> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[11-11-22 19:48:18.330] LOG  : General     , 1668224898330> reading C:\Users\egbig\Zomboid\Sandbox Presets\Rage.cfg.
+[11-11-22 19:48:18.359] LOG  : Lua         , 1668224898359> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[11-11-22 19:48:18.423] LOG  : General     , 1668224898423> EXITDEBUG: MainScreenState.enter 2.
+[11-11-22 19:50:54.130] LOG  : General     , 1668225054130> EXITDEBUG: onMenuItemMouseDownMainMenu 1 (item=EXIT).
+[11-11-22 19:50:54.130] LOG  : General     , 1668225054130> EXITDEBUG: onMenuItemMouseDownMainMenu 2.
+[11-11-22 19:50:54.131] LOG  : General     , 1668225054131> EXITDEBUG: onMenuItemMouseDownMainMenu 3.
+[11-11-22 19:50:55.346] LOG  : General     , 1668225055346> EXITDEBUG: setGameSpeed 1.
+[11-11-22 19:50:55.346] LOG  : General     , 1668225055346> EXITDEBUG: setGameSpeed 2.
+[11-11-22 19:50:55.347] LOG  : General     , 1668225055347> EXITDEBUG: pauseSoundAndMusic 1.
+[11-11-22 19:50:55.347] LOG  : General     , 1668225055347> EXITDEBUG: pauseSoundAndMusic 2.
+[11-11-22 19:50:55.347] LOG  : General     , 1668225055347> EXITDEBUG: setShowPausedMessage 1.
+[11-11-22 19:50:55.347] LOG  : General     , 1668225055347> EXITDEBUG: setShowPausedMessage 2.
+[11-11-22 19:50:55.347] LOG  : General     , 1668225055347> EXITDEBUG: Core.quitToDesktop.
+[11-11-22 19:50:55.348] LOG  : General     , 1668225055348> EXITDEBUG: GameWindow.exit 1.
+[11-11-22 19:50:55.348] LOG  : General     , 1668225055348> EXITDEBUG: GameWindow.exit 2.
+[11-11-22 19:50:55.348] LOG  : General     , 1668225055348> EXITDEBUG: GameWindow.exit 3.
+[11-11-22 19:50:55.350] LOG  : General     , 1668225055350> EXITDEBUG: GameWindow.exit 4.
+[11-11-22 19:50:55.382] LOG  : General     , 1668225055382> GameThread exited..
+[11-11-22 19:50:55.382] LOG  : General     , 1668225055382> EXITDEBUG: GameWindow.exit 5.

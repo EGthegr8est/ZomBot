@@ -1,0 +1,2 @@
+[29-10-22 11:59:02.530][INFO] user "BigGurt" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[29-10-22 12:02:49.798][INFO] user "BigGurt" store safety enabled=true last=true cooldown=0.0 toggle=0.0.

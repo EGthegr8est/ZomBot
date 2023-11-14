@@ -1,0 +1,45 @@
+[23-11-22 14:46:01.859] reason = roomSpotted x,y,z = 6306,5256,0 room = post
+reason = roomSpotted x,y,z = 6317,5251,0 room = post
+reason = roomSpotted x,y,z = 6314,5271,0 room = post
+reason = roomSpotted x,y,z = 6305,5264,0 room = post
+reason = roomSpotted x,y,z = 6311,5268,1 room = post
+reason = roomSpotted x,y,z = 6312,5266,1 room = post
+reason = roomSpotted x,y,z = 6314,5250,1 room = post
+reason = roomSpotted x,y,z = 6307,5260,1 room = post
+reason = roomSpotted x,y,z = 6321,5248,0 room = poststorage
+reason = roomSpotted x,y,z = 6313,5264,0 room = poststorage
+reason = roomSpotted x,y,z = 6321,5264,0 room = poststorage
+reason = roomSpotted x,y,z = 6321,5246,0 room = poststorage
+reason = roomSpotted x,y,z = 6314,5246,0 room = bathroom
+reason = roomSpotted x,y,z = 6372,5243,1 room = motelroom
+reason = roomSpotted x,y,z = 6374,5239,1 room = motelroom
+reason = roomSpotted x,y,z = 6373,5241,1 room = motelroom
+reason = roomSpotted x,y,z = 6372,5244,1 room = motelroom
+reason = roomSpotted x,y,z = 6373,5239,1 room = motelroom.
+[23-11-22 15:22:17.146] reason = roomSpotted x,y,z = 6372,5239,1 room = motelroom
+reason = roomSpotted x,y,z = 6373,5242,1 room = motelroom
+reason = roomSpotted x,y,z = 6356,5266,0 room = motelroomoccupied
+reason = roomSpotted x,y,z = 6354,5267,0 room = motelroomoccupied
+reason = roomSpotted x,y,z = 6358,5269,0 room = bathroom
+reason = roomSpotted x,y,z = 6357,5270,0 room = bathroom
+reason = roomSpotted x,y,z = 6357,5268,0 room = bathroom
+reason = roomSpotted x,y,z = 6357,5269,0 room = bathroom
+reason = roomSpotted x,y,z = 6358,5268,0 room = bathroom
+reason = roomSpotted x,y,z = 6365,5270,0 room = office
+reason = roomSpotted x,y,z = 6363,5269,0 room = office
+reason = roomSpotted x,y,z = 6371,5265,0 room = office
+reason = roomSpotted x,y,z = 6374,5267,1 room = motelroom
+reason = RBBurntCorpse x,y,z = 6345,5372,0 room = bedroom
+reason = RBBurntCorpse x,y,z = 6345,5373,0 room = bedroom
+reason = RBBurntCorpse x,y,z = 6349,5373,0 room = kitchen
+reason = RBBurntCorpse x,y,z = 6346,5373,0 room = bedroom
+reason = RBBurntCorpse x,y,z = 6343,5376,0 room = livingroom.
+[23-11-22 17:10:45.147] reason = createEatingZombies x,y,z = 6378,5400,0
+reason = createEatingZombies x,y,z = 6379,5400,0
+reason = RDSFootballNight x,y,z = 6352,5421,0 room = livingroom
+reason = RDSFootballNight x,y,z = 6352,5423,0 room = livingroom
+reason = RDSFootballNight x,y,z = 6351,5425,0 room = livingroom
+reason = RBSafehouse x,y,z = 6373,5422,0 room = bathroom
+reason = RBSafehouse x,y,z = 6373,5421,0 room = bathroom
+reason = RBSafehouse x,y,z = 6373,5426,0 room = bedroom
+reason = roomSpotted x,y,z = 6301,5314,0 room = closet.

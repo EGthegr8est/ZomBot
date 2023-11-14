@@ -1,0 +1,137 @@
+[14-11-22 18:38:54.463] LOG  : General     , 1668479934463> cachedir set to "C:\Users\egbig\Zomboid".
+[14-11-22 18:38:54.484] LOG  : General     , 1668479934483> 14-11-2022 18:38:54.
+[14-11-22 18:38:54.484] LOG  : General     , 1668479934484> cachedir is "C:\Users\egbig\Zomboid".
+[14-11-22 18:38:54.485] LOG  : General     , 1668479934485> LogFileDir is "C:\Users\egbig\Zomboid\Logs".
+[14-11-22 18:38:54.485] LOG  : General     , 1668479934485> ===== System specs =====.
+[14-11-22 18:38:54.487] LOG  : General     , 1668479934487> OS: Windows 10, version: 10.0, arch: amd64.
+[14-11-22 18:38:54.487] LOG  : General     , 1668479934487> Processor: AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD.
+[14-11-22 18:38:54.487] LOG  : General     , 1668479934487> Processor cores: 16.
+[14-11-22 18:38:54.488] LOG  : General     , 1668479934488> Available processors (cores): 16.
+[14-11-22 18:38:54.490] LOG  : General     , 1668479934490> Memory free: 488.99496 MB.
+[14-11-22 18:38:54.490] LOG  : General     , 1668479934490> Memory max: 3072.0 MB.
+[14-11-22 18:38:54.491] LOG  : General     , 1668479934491> Memory  total available to JVM: 512.0 MB.
+[14-11-22 18:38:54.494] LOG  : General     , 1668479934494> C:\, Total: 930.8997 GB, Free: 227.22243 GB.
+[14-11-22 18:38:54.674] LOG  : General     , 1668479934674> Mobo = [Product=X570 AORUS ELITE WIFI].
+[14-11-22 18:38:54.776] LOG  : General     , 1668479934775> CPU = [Manufacturer=AuthenticAMD,MaxClockSpeed=3801,Name=AMD Ryzen 7 5800X 8-Core Processor].
+[14-11-22 18:38:54.882] LOG  : General     , 1668479934882> Graphics = [AdapterRAM=4293918720,DriverVersion=31.0.15.2647,Name=NVIDIA GeForce RTX 3070 Ti].
+[14-11-22 18:38:54.985] LOG  : General     , 1668479934985> VideoMode = [VideoModeDescription=3840 x 2160 x 4294967296 colors].
+[14-11-22 18:38:55.091] LOG  : General     , 1668479935091> Sound = { [Manufacturer=Microsoft,Name=USB Audio 2.0], [Manufacturer=Realtek,Name=Realtek High Definition Audio], [Manufacturer=NVIDIA,Name=NVIDIA High Definition Audio], [Manufacturer=NVIDIA,Name=NVIDIA Virtual Audio Device (Wave Extensible) (WDM)], [Manufacturer=NVIDIA,Name=NVIDIA Broadcast], [Manufacturer=(Generic USB Audio),Name=USB Audio Device] }.
+[14-11-22 18:38:55.190] LOG  : General     , 1668479935190> Memory RAM = { [Capacity=17179869184,Manufacturer=Unknown], [Capacity=17179869184,Manufacturer=Unknown] }.
+[14-11-22 18:38:55.190] LOG  : General     , 1668479935190> ========================.
+[14-11-22 18:38:55.191] LOG  : General     , 1668479935191> -- listing properties --.
+[14-11-22 18:38:55.191] LOG  : General     , 1668479935191> java.specification.version=17.
+[14-11-22 18:38:55.191] LOG  : General     , 1668479935191> sun.cpu.isalist=amd64.
+[14-11-22 18:38:55.191] LOG  : General     , 1668479935191> sun.jnu.encoding=Cp1252.
+[14-11-22 18:38:55.192] LOG  : General     , 1668479935192> java.class.path=.;commons-compress-1.18.jar;istack-co....
+[14-11-22 18:38:55.192] LOG  : General     , 1668479935192> java.vm.vendor=Azul Systems, Inc..
+[14-11-22 18:38:55.192] LOG  : General     , 1668479935192> sun.arch.data.model=64.
+[14-11-22 18:38:55.193] LOG  : General     , 1668479935192> user.variant=.
+[14-11-22 18:38:55.193] LOG  : General     , 1668479935193> java.vendor.url=http://www.azul.com/.
+[14-11-22 18:38:55.193] LOG  : General     , 1668479935193> user.timezone=America/Los_Angeles.
+[14-11-22 18:38:55.193] LOG  : General     , 1668479935193> zomboid.steam=1.
+[14-11-22 18:38:55.193] LOG  : General     , 1668479935193> java.vm.specification.version=17.
+[14-11-22 18:38:55.194] LOG  : General     , 1668479935194> os.name=Windows 10.
+[14-11-22 18:38:55.194] LOG  : General     , 1668479935194> user.country=US.
+[14-11-22 18:38:55.194] LOG  : General     , 1668479935194> sun.boot.library.path=C:\Program Files (x86)\Steam\steamapp....
+[14-11-22 18:38:55.194] LOG  : General     , 1668479935194> zomboid.znetlog=1.
+[14-11-22 18:38:55.194] LOG  : General     , 1668479935194> jdk.debug=release.
+[14-11-22 18:38:55.195] LOG  : General     , 1668479935195> sun.cpu.endian=little.
+[14-11-22 18:38:55.195] LOG  : General     , 1668479935195> user.home=C:\Users\egbig.
+[14-11-22 18:38:55.195] LOG  : General     , 1668479935195> user.language=en.
+[14-11-22 18:38:55.195] LOG  : General     , 1668479935195> java.specification.vendor=Oracle Corporation.
+[14-11-22 18:38:55.196] LOG  : General     , 1668479935195> java.version.date=2021-10-19.
+[14-11-22 18:38:55.196] LOG  : General     , 1668479935196> java.home=C:\Program Files (x86)\Steam\steamapp....
+[14-11-22 18:38:55.196] LOG  : General     , 1668479935196> file.separator=\.
+[14-11-22 18:38:55.196] LOG  : General     , 1668479935196> java.vm.compressedOopsMode=Zero based.
+[14-11-22 18:38:55.196] LOG  : General     , 1668479935196> line.separator=.
+[14-11-22 18:38:55.197] LOG  : General     , 1668479935197> java.vm.specification.vendor=Oracle Corporation.
+[14-11-22 18:38:55.197] LOG  : General     , 1668479935197> java.specification.name=Java Platform API Specification.
+[14-11-22 18:38:55.197] LOG  : General     , 1668479935197> java.awt.headless=true.
+[14-11-22 18:38:55.197] LOG  : General     , 1668479935197> user.script=.
+[14-11-22 18:38:55.198] LOG  : General     , 1668479935198> sun.management.compiler=HotSpot 64-Bit Tiered Compilers.
+[14-11-22 18:38:55.198] LOG  : General     , 1668479935198> java.runtime.version=17.0.1+12-LTS.
+[14-11-22 18:38:55.198] LOG  : General     , 1668479935198> user.name=egbig.
+[14-11-22 18:38:55.198] LOG  : General     , 1668479935198> path.separator=;.
+[14-11-22 18:38:55.198] LOG  : General     , 1668479935198> os.version=10.0.
+[14-11-22 18:38:55.199] LOG  : General     , 1668479935199> java.runtime.name=OpenJDK Runtime Environment.
+[14-11-22 18:38:55.199] LOG  : General     , 1668479935199> file.encoding=Cp1252.
+[14-11-22 18:38:55.199] LOG  : General     , 1668479935199> java.vm.name=OpenJDK 64-Bit Server VM.
+[14-11-22 18:38:55.199] LOG  : General     , 1668479935199> java.vendor.version=Zulu17.30+15-CA.
+[14-11-22 18:38:55.200] LOG  : General     , 1668479935199> java.vendor.url.bug=http://www.azul.com/support/.
+[14-11-22 18:38:55.200] LOG  : General     , 1668479935200> java.io.tmpdir=C:\Users\egbig\AppData\Local\Temp\.
+[14-11-22 18:38:55.200] LOG  : General     , 1668479935200> java.version=17.0.1.
+[14-11-22 18:38:55.200] LOG  : General     , 1668479935200> user.dir=C:\Program Files (x86)\Steam\steamapp....
+[14-11-22 18:38:55.200] LOG  : General     , 1668479935200> os.arch=amd64.
+[14-11-22 18:38:55.200] LOG  : General     , 1668479935200> java.vm.specification.name=Java Virtual Machine Specification.
+[14-11-22 18:38:55.201] LOG  : General     , 1668479935201> sun.os.patch.level=.
+[14-11-22 18:38:55.201] LOG  : General     , 1668479935201> native.encoding=Cp1252.
+[14-11-22 18:38:55.201] LOG  : General     , 1668479935201> java.library.path=win64/;..
+[14-11-22 18:38:55.201] LOG  : General     , 1668479935201> java.vm.info=mixed mode, sharing.
+[14-11-22 18:38:55.201] LOG  : General     , 1668479935201> java.vendor=Azul Systems, Inc..
+[14-11-22 18:38:55.202] LOG  : General     , 1668479935202> java.vm.version=17.0.1+12-LTS.
+[14-11-22 18:38:55.202] LOG  : General     , 1668479935202> sun.io.unicode.encoding=UnicodeLittle.
+[14-11-22 18:38:55.202] LOG  : General     , 1668479935202> java.class.version=61.0.
+[14-11-22 18:38:55.202] LOG  : General     , 1668479935202> -----.
+[14-11-22 18:38:55.203] LOG  : General     , 1668479935203> version=41.78.7 demo=false.
+[14-11-22 18:38:55.923] LOG  : General     , 1668479935923> LightingFPS set to 15.
+[14-11-22 18:38:55.942] LOG  : General     , 1668479935942> [javafmodJNI] Init: Start.
+[14-11-22 18:38:55.942] LOG  : General     , 1668479935942> [javafmodJNI] Init: WIN 64.
+[14-11-22 18:38:55.974] LOG  : General     , 1668479935974> closest width=640 freq=59.
+[14-11-22 18:38:55.974] LOG  : General     , 1668479935974> closest width=640 freq=60.
+[14-11-22 18:38:55.974] LOG  : General     , 1668479935974> closest width=640 freq=144.
+[14-11-22 18:38:55.974] LOG  : General     , 1668479935974> closest width=720 freq=59.
+[14-11-22 18:38:55.974] LOG  : General     , 1668479935974> closest width=720 freq=60.
+[14-11-22 18:38:55.975] LOG  : General     , 1668479935975> closest width=720 freq=144.
+[14-11-22 18:38:55.975] LOG  : General     , 1668479935975> closest width=800 freq=60.
+[14-11-22 18:38:55.975] LOG  : General     , 1668479935975> closest width=800 freq=144.
+[14-11-22 18:38:55.975] LOG  : General     , 1668479935975> closest width=1176 freq=59.
+[14-11-22 18:38:55.975] LOG  : General     , 1668479935975> closest width=1176 freq=60.
+[14-11-22 18:38:55.976] LOG  : General     , 1668479935976> closest width=1280 freq=59.
+[14-11-22 18:38:55.976] LOG  : General     , 1668479935976> closest width=1280 freq=60.
+[14-11-22 18:38:55.976] LOG  : General     , 1668479935976> closest width=1280 freq=144.
+[14-11-22 18:38:55.976] LOG  : General     , 1668479935976> closest width=1360 freq=59.
+[14-11-22 18:38:55.976] LOG  : General     , 1668479935976> closest width=1360 freq=60.
+[14-11-22 18:38:55.977] LOG  : General     , 1668479935977> closest width=1360 freq=144.
+[14-11-22 18:38:55.977] LOG  : General     , 1668479935977> closest width=1366 freq=59.
+[14-11-22 18:38:55.977] LOG  : General     , 1668479935977> closest width=1366 freq=60.
+[14-11-22 18:38:55.977] LOG  : General     , 1668479935977> closest width=1366 freq=144.
+[14-11-22 18:38:55.978] LOG  : General     , 1668479935978> closest width=1600 freq=59.
+[14-11-22 18:38:55.978] LOG  : General     , 1668479935978> closest width=1600 freq=60.
+[14-11-22 18:38:55.978] LOG  : General     , 1668479935978> closest width=1600 freq=144.
+[14-11-22 18:38:55.978] LOG  : General     , 1668479935978> closest width=1680 freq=59.
+[14-11-22 18:38:55.978] LOG  : General     , 1668479935978> closest width=1680 freq=60.
+[14-11-22 18:38:55.978] LOG  : General     , 1668479935978> closest width=1680 freq=144.
+[14-11-22 18:38:55.979] LOG  : General     , 1668479935979> closest width=1920 freq=59.
+[14-11-22 18:38:55.979] LOG  : General     , 1668479935979> closest width=1920 freq=60.
+[14-11-22 18:38:55.979] LOG  : General     , 1668479935979> closest width=1920 freq=144.
+[14-11-22 18:38:55.979] LOG  : General     , 1668479935979> closest width=2048 freq=60.
+[14-11-22 18:38:55.979] LOG  : General     , 1668479935979> closest width=2048 freq=95.
+[14-11-22 18:38:55.979] LOG  : General     , 1668479935979> closest width=2048 freq=144.
+[14-11-22 18:38:55.980] LOG  : General     , 1668479935980> closest width=2560 freq=60.
+[14-11-22 18:38:55.980] LOG  : General     , 1668479935980> closest width=2560 freq=95.
+[14-11-22 18:38:55.980] LOG  : General     , 1668479935980> closest width=2560 freq=144.
+[14-11-22 18:38:55.980] LOG  : General     , 1668479935980> closest width=3840 freq=60.
+[14-11-22 18:38:55.980] LOG  : General     , 1668479935980> closest width=3840 freq=95.
+[14-11-22 18:38:55.982] LOG  : General     , 1668479935982> 1668479935980 fmod: Java loging: OK.
+[14-11-22 18:38:55.990] LOG  : General     , 1668479935990> 1668479935990 fmod: FMOD::Studio::System::create() result: No errors..
+[14-11-22 18:38:55.991] LOG  : General     , 1668479935991> 1668479935990 fmod: FMOD::Studio::System::getCoreSystem() result: No errors..
+[14-11-22 18:38:55.991] LOG  : General     , 1668479935991> 1668479935991 fmod: FMOD_System_GetVersion() result: No errors..
+[14-11-22 18:38:55.991] LOG  : General     , 1668479935991> 1668479935991 fmod: fmodintegration built with version 20206, fmod shared library version 20206.
+[14-11-22 18:38:55.992] LOG  : General     , 1668479935992> 1668479935992 fmod: System Create: OK.
+[14-11-22 18:38:55.992] LOG  : General     , 1668479935992> 1668479935992 fmod: FMOD_System_SetSoftwareFormat() result: No errors..
+[14-11-22 18:38:56.017] LOG  : General     , 1668479936017> 1668479936017 fmod: FMOD::Studio::System::Initialize() result: No errors..
+[14-11-22 18:38:56.018] LOG  : General     , 1668479936018> 1668479936018 fmod: Creating DSP for capture sound.
+[14-11-22 18:38:56.018] LOG  : General     , 1668479936018> 1668479936018 fmod: FMOD_System_CreateDSP() result: No errors..
+[14-11-22 18:38:56.019] LOG  : General     , 1668479936019> 1668479936019 fmod: FMOD_DSP_SetBypass() result: No errors..
+[14-11-22 18:38:56.019] LOG  : General     , 1668479936019> 1668479936019 fmod: FMOD_System_GetMasterChannelGroup() result: No errors..
+[14-11-22 18:38:56.019] LOG  : General     , 1668479936019> 1668479936019 fmod: FMOD_ChannelGroup_AddDSP() result: No errors..
+[14-11-22 18:38:56.020] LOG  : General     , 1668479936020> 1668479936020 fmod: FMOD_System_Set3DSettings() result: No errors..
+[14-11-22 18:38:56.468] LOG  : General     , 1668479936468> GraphicsCard: NVIDIA Corporation NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2.
+[14-11-22 18:38:56.469] LOG  : General     , 1668479936469> OpenGL version: 4.6.0 NVIDIA 526.47.
+[14-11-22 18:38:56.469] LOG  : General     , 1668479936469> Desktop resolution 3840x2160.
+[14-11-22 18:38:56.471] LOG  : General     , 1668479936471> Initial resolution 3840x2160 fullScreen=true.
+[14-11-22 18:38:56.492] LOG  : General     , 1668479936492> OpenGL 1.5 buffer objects supported.
+[14-11-22 18:38:56.515] LOG  : General     , 1668479936515> VSync: OFF.
+[14-11-22 18:38:56.911] LOG  : General     , 1668479936911> NVIDIA: current available GPU memory is 6685 MB.
+[14-11-22 18:38:56.912] LOG  : General     , 1668479936912> NVIDIA: dedicated available GPU memory is 8192 MB.
+[14-11-22 18:38:56.912] LOG  : General     , 1668479936912> NVIDIA: total available GPU memory is 8192 MB.

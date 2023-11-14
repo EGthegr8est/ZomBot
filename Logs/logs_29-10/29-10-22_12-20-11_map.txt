@@ -1,0 +1,17 @@
+[29-10-22 12:20:11.046] 76561198042240682 "BigGurt" added Radio () at 12024.0,2165.0,1.0.
+[29-10-22 12:44:08.625] 76561198042240682 "BigGurt" removed IsoObject (furniture_seating_indoor_02_3) at 12033,2036,0.
+[29-10-22 12:44:23.234] 76561198041779008 "SciFurr" removed IsoObject (furniture_seating_indoor_02_1) at 12031,2037,0.
+[29-10-22 12:44:31.138] 76561198042240682 "BigGurt" removed IsoObject (furniture_seating_indoor_02_2) at 12033,2035,0.
+[29-10-22 12:44:47.867] 76561198041779008 "SciFurr" removed IsoObject (furniture_seating_indoor_02_1) at 12031,2036,0.
+[29-10-22 12:44:52.481] 76561198042240682 "BigGurt" removed IsoObject (furniture_seating_indoor_02_3) at 12033,2037,0.
+[29-10-22 12:45:07.956] 76561198042240682 "BigGurt" removed IsoObject (furniture_tables_high_01_43) at 12032,2036,0.
+[29-10-22 12:45:07.958] 76561198042240682 "BigGurt" removed IsoObject (furniture_tables_high_01_42) at 12032,2037,0.
+[29-10-22 12:45:11.577] 76561198041779008 "SciFurr" removed IsoObject (furniture_seating_indoor_02_1) at 12031,2035,0.
+[29-10-22 12:45:45.891] 76561198041779008 "SciFurr" removed IsoObject (furniture_seating_indoor_02_1) at 12031,2034,0.
+[29-10-22 12:50:07.094] 76561198041779008 "SciFurr" added Thumpable (trashcontainers_01_24) at 12029.0,2164.0,0.0.
+[29-10-22 13:00:28.539] 76561198042240682 "BigGurt" removed Barbecue (appliances_cooking_01_37) at 12016,2210,0.
+[29-10-22 13:01:16.688] 76561198042240682 "BigGurt" added Barbecue (appliances_cooking_01_45) at 12009.0,2164.0,0.0.
+[29-10-22 13:11:58.385] 76561198041779008 "SciFurr" removed IsoObject (appliances_refrigeration_01_28) at 12030,2154,0.
+[29-10-22 13:12:18.326] 76561198041779008 "SciFurr" added Thumpable (appliances_refrigeration_01_28) at 12027.0,2162.0,1.0.
+[29-10-22 13:42:25.188] 76561198042240682 "BigGurt" removed Thumpable (trashcontainers_01_24) at 12029,2164,0.
+[29-10-22 13:43:15.891] 76561198042240682 "BigGurt" added  (trashcontainers_01_24) at 12025.0,2162.0,1.0.

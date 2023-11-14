@@ -1,0 +1,3 @@
+[14-11-22 19:26:57.075][info] Init chat system....
+[14-11-22 19:26:57.075][info] Mode: single player.
+[14-11-22 19:26:57.075][info] Chat owner: EG.

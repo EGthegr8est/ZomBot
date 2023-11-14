@@ -1,0 +1,15 @@
+[21-11-22 00:41:10.048] reason = roomSpotted x,y,z = 10896,6673,0 room = bedroom
+reason = createEatingZombies x,y,z = 11008,6750,0
+reason = createEatingZombies x,y,z = 11009,6750,0
+reason = RDSBathroomZed x,y,z = 11017,6727,0 room = bathroom
+reason = RVSCarCrash x,y,z = 11048,6752,0
+reason = RVSCarCrash x,y,z = 11045,6749,0
+reason = RVSCarCrash x,y,z = 11043,6754,0
+reason = createEatingZombies x,y,z = 11160,6917,0
+reason = createEatingZombies x,y,z = 11161,6917,0
+reason = createEatingZombies x,y,z = 11175,6880,0
+reason = createEatingZombies x,y,z = 11176,6880,0
+reason = createEatingZombies x,y,z = 11188,6819,0
+reason = createEatingZombies x,y,z = 11189,6819,0
+reason = roomSpotted x,y,z = 11133,6850,1 room = hall.
+[21-11-22 01:13:36.389] ================================================================================.

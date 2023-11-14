@@ -1,0 +1,4 @@
+[28-11-22 01:56:06.197] reason = RBBurntCorpse x,y,z = 11442,6704,0 room = kitchen
+reason = RBBurntCorpse x,y,z = 11443,6706,0 room = bathroom
+reason = RBBurntCorpse x,y,z = 11442,6705,0 room = kitchen
+reason = RBBurntCorpse x,y,z = 11448,6710,0 room = bedroom.

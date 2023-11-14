@@ -1,0 +1,22 @@
+[29-10-22 12:07:43.979] added connection index=0 127.0.0.1.
+[29-10-22 12:07:44.306] 76561198042240682 "BigGurt" attempting to join.
+[29-10-22 12:07:44.306] 76561198042240682 "BigGurt" allowed to join.
+[29-10-22 12:09:49.857] 76561198042240682 "BigGurt" attempting to join used queue.
+[29-10-22 12:09:56.733] player BigGurt loading time was: 6633 ms.
+[29-10-22 12:09:57.702] 76561198042240682 "BigGurt" fully connected (12088,2170,0).
+[29-10-22 12:13:58.520] added connection index=1 82.98.41.139.
+[29-10-22 12:13:59.141] 76561198041779008 "SciFurr" attempting to join.
+[29-10-22 12:13:59.143] 76561198041779008 "SciFurr" allowed to join.
+[29-10-22 12:16:29.711] 76561198041779008 "SciFurr" attempting to join used queue.
+[29-10-22 12:17:10.639] player SciFurr loading time was: 39372 ms.
+[29-10-22 12:17:14.618] 76561198041779008 "SciFurr" fully connected (12306,3072,0).
+[29-10-22 12:20:03.235] 76561198041779008 "SciFurr" removed connection index=1.
+[29-10-22 12:20:03.253] 76561198041779008 "SciFurr" disconnected player (12319,3091,0).
+[29-10-22 12:21:36.685] added connection index=1 141.58.78.166.
+[29-10-22 12:21:37.247] 76561198041779008 "SciFurr" attempting to join.
+[29-10-22 12:21:37.247] 76561198041779008 "SciFurr" allowed to join.
+[29-10-22 12:21:46.609] 76561198041779008 "SciFurr" attempting to join used queue.
+[29-10-22 12:21:58.589] player SciFurr loading time was: 11608 ms.
+[29-10-22 12:22:11.163] 76561198041779008 "SciFurr" fully connected (12319,3091,0).
+[29-10-22 13:46:44.965] 76561198042240682 "BigGurt" removed connection index=0.
+[29-10-22 13:46:44.977] 76561198042240682 "BigGurt" disconnected player (12025,2163,1).

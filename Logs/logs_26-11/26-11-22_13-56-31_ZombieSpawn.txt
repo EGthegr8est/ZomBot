@@ -1,0 +1,4 @@
+[26-11-22 14:26:01.909] reason = roomSpotted x,y,z = 6491,5229,0 room = donut_dining
+reason = roomSpotted x,y,z = 6492,5231,0 room = donut_dining
+reason = roomSpotted x,y,z = 6491,5227,0 room = donut_dining
+reason = roomSpotted x,y,z = 6495,5224,0 room = donut_dining.

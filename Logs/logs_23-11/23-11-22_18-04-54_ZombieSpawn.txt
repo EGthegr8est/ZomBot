@@ -1,0 +1,29 @@
+[23-11-22 19:14:20.493] reason = RBSafehouse x,y,z = 6200,5442,0 room = bedroom
+reason = RBSafehouse x,y,z = 6199,5448,0 room = hall
+reason = RBSafehouse x,y,z = 6196,5444,0 room = bathroom
+reason = RBSafehouse x,y,z = 6201,5442,0 room = bedroom
+reason = RDSSkeletonPsycho x,y,z = 6331,5455,0 room = bedroom
+reason = RDSSkeletonPsycho x,y,z = 6330,5455,0 room = bedroom
+reason = RDSSkeletonPsycho x,y,z = 6331,5455,0 room = bedroom
+reason = RDSSkeletonPsycho x,y,z = 6329,5453,0 room = bedroom
+reason = RDSSkeletonPsycho x,y,z = 6329,5452,0 room = bedroom
+reason = RDSSkeletonPsycho x,y,z = 6328,5454,0 room = bedroom
+reason = RDSSkeletonPsycho x,y,z = 6328,5454,0 room = bedroom
+reason = RDSZombieLockedBathroom x,y,z = 6339,5489,0 room = bathroom
+reason = createEatingZombies x,y,z = 6341,5518,0
+reason = createEatingZombies x,y,z = 6342,5518,0
+reason = RVSCarCrash x,y,z = 6270,5523,0
+reason = RVSCarCrash x,y,z = 6276,5527,0
+reason = roomSpotted x,y,z = 6358,5322,0 room = office
+reason = roomSpotted x,y,z = 6183,5376,0 room = bathroom.
+[23-11-22 19:16:48.749] reason = roomSpotted x,y,z = 6181,5375,0 room = bathroom
+reason = roomSpotted x,y,z = 6182,5376,0 room = bathroom
+reason = roomSpotted x,y,z = 6181,5376,0 room = bathroom
+reason = roomSpotted x,y,z = 6192,5349,0 room = bathroom
+reason = roomSpotted x,y,z = 6185,5349,0 room = office
+reason = roomSpotted x,y,z = 6206,5344,0 room = movierental
+reason = roomSpotted x,y,z = 6209,5343,0 room = movierental
+reason = roomSpotted x,y,z = 6208,5338,0 room = movierental
+reason = roomSpotted x,y,z = 6207,5347,0 room = movierental
+reason = roomSpotted x,y,z = 6194,5354,0 room = camerastore
+reason = roomSpotted x,y,z = 6188,5358,0 room = office.

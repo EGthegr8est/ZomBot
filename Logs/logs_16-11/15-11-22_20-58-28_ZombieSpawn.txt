@@ -1,0 +1,16 @@
+[15-11-22 21:24:30.315] ================================================================================.
+[16-11-22 00:23:51.088] reason = roomSpotted x,y,z = 10460,7391,0 room = bathroom
+reason = roomSpotted x,y,z = 10742,7329,0 room = bathroom
+reason = roomSpotted x,y,z = 10740,7330,0 room = bedroom
+reason = roomSpotted x,y,z = 10522,7185,0 room = farmstorage
+reason = roomSpotted x,y,z = 10520,7184,0 room = farmstorage
+reason = createEatingZombies x,y,z = 10662,7083,0
+reason = createEatingZombies x,y,z = 10663,7083,0
+reason = createEatingZombies x,y,z = 10729,7043,0
+reason = createEatingZombies x,y,z = 10730,7043,0
+reason = createEatingZombies x,y,z = 10635,7017,0
+reason = createEatingZombies x,y,z = 10636,7017,0
+reason = createEatingZombies x,y,z = 10636,7016,0
+reason = createEatingZombies x,y,z = 10726,7009,0
+reason = RDSBathroomZed x,y,z = 10736,6997,0 room = bathroom
+reason = createEatingZombies x,y,z = 10534,6967,0.

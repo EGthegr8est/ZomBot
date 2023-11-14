@@ -1,0 +1,2 @@
+[23-11-22 20:30:24.909] reason = roomSpotted x,y,z = 6065,5308,0 room = gasstore
+reason = roomSpotted x,y,z = 6057,5310,0 room = gasstore.

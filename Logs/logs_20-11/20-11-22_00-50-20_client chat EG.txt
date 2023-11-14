@@ -1,0 +1,5 @@
+[20-11-22 00:50:20.090][info] Init chat system....
+[20-11-22 00:50:20.091][info] Mode: multiplayer.
+[20-11-22 00:50:20.091][info] Chat owner: EG.
+[20-11-22 01:22:45.240][info] Got message from server: ChatMessage{chat=Local, author='+S Master.', text='HEY YOU!'}.
+[20-11-22 01:29:15.023][info] Got message from server: ChatMessage{chat=Server, author='Server', text='+S Master. is dead.'}.

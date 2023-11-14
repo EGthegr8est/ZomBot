@@ -1,0 +1,16 @@
+[30-10-22 22:59:55.141][info] Init chat system....
+[30-10-22 22:59:55.141][info] Mode: multiplayer.
+[30-10-22 22:59:55.141][info] Chat owner: BigGurt.
+[30-10-22 23:16:49.587][info] Got message from server: ChatMessage{chat=Local, author='yx', text='pssst!'}.
+[30-10-22 23:18:49.290][info] Got message from server: ChatMessage{chat=Local, author='yx', text='HEY YOU!'}.
+[30-10-22 23:19:42.941][info] Got message from server: ChatMessage{chat=Local, author='yx', text='HEY YOU!'}.
+[31-10-22 00:01:06.925][info] Got message from server: ChatMessage{chat=Local, author='yx', text='psst'}.
+[31-10-22 00:11:15.793][info] Got message from server: ChatMessage{chat=Local, author='yx', text='OVER HERE!'}.
+[31-10-22 00:11:16.104][info] Got message from server: ChatMessage{chat=Local, author='yx', text='HEY!'}.
+[31-10-22 00:11:17.327][info] Got message from server: ChatMessage{chat=Local, author='yx', text='HEY!'}.
+[31-10-22 00:11:49.907][info] Got message from server: ChatMessage{chat=Local, author='yx', text='HEY YOU!'}.
+[31-10-22 00:11:52.061][info] Got message from server: ChatMessage{chat=Local, author='yx', text='HEY YOU!'}.
+[31-10-22 00:11:54.412][info] Got message from server: ChatMessage{chat=Local, author='yx', text='OVER HERE!'}.
+[31-10-22 00:11:56.625][info] Got message from server: ChatMessage{chat=Local, author='yx', text='HEY!'}.
+[31-10-22 00:11:57.733][info] Got message from server: ChatMessage{chat=Local, author='yx', text='OVER HERE!'}.
+[31-10-22 00:17:05.440][info] Got message from server: ChatMessage{chat=Local, author='yx', text='HEY YOU!'}.

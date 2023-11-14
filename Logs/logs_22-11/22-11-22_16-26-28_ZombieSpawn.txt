@@ -1,0 +1,149 @@
+[22-11-22 16:58:53.205] reason = RVSAmbulanceCrash x,y,z = 9389,7437,0
+reason = RVSAmbulanceCrash x,y,z = 9383,7438,0
+reason = RVSAmbulanceCrash x,y,z = 9387,7434,0
+reason = RVSAmbulanceCrash x,y,z = 9389,7438,0
+reason = roomSpotted x,y,z = 9265,7699,0 room = farmstorage
+reason = roomSpotted x,y,z = 9264,7703,0 room = farmstorage
+reason = RVSCarCrash x,y,z = 8965,7499,0
+reason = RVSCarCrash x,y,z = 8963,7501,0
+reason = addSurvivorInHorde x,y,z = 8033,7441,0
+reason = addSurvivorInHorde x,y,z = 8033,7441,0
+reason = addSurvivorInHorde x,y,z = 8033,7441,0
+reason = addSurvivorInHorde x,y,z = 8033,7441,0
+reason = addSurvivorInHorde x,y,z = 8033,7441,0
+reason = addSurvivorInHorde x,y,z = 8033,7441,0
+reason = addSurvivorInHorde x,y,z = 8033,7441,0
+reason = addSurvivorInHorde x,y,z = 8033,7441,0
+reason = addSurvivorInHorde x,y,z = 8033,7441,0
+reason = addSurvivorInHorde x,y,z = 8033,7441,0
+reason = addSurvivorInHorde x,y,z = 8033,7441,0
+reason = addSurvivorInHorde x,y,z = 8033,7441,0
+reason = addSurvivorInHorde x,y,z = 8033,7441,0.
+[22-11-22 17:11:09.650] reason = addSurvivorInHorde x,y,z = 8033,7441,0
+reason = addSurvivorInHorde x,y,z = 8033,7441,0
+reason = addSurvivorInHorde x,y,z = 8033,7441,0
+reason = addSurvivorInHorde x,y,z = 8033,7441,0
+reason = addSurvivorInHorde x,y,z = 8033,7441,0
+reason = addSurvivorInHorde x,y,z = 8033,7441,0
+reason = addSurvivorInHorde x,y,z = 8033,7441,0
+reason = RVSChangingTire x,y,z = 7922,7117,0
+reason = RVSChangingTire x,y,z = 7928,7115,0
+reason = createEatingZombies x,y,z = 7457,6199,0
+reason = createEatingZombies x,y,z = 7458,6199,0
+reason = addSurvivorInHorde x,y,z = 7255,5471,0
+reason = addSurvivorInHorde x,y,z = 7255,5471,0
+reason = addSurvivorInHorde x,y,z = 7255,5471,0
+reason = addSurvivorInHorde x,y,z = 7255,5471,0
+reason = addSurvivorInHorde x,y,z = 7255,5471,0
+reason = addSurvivorInHorde x,y,z = 7255,5471,0
+reason = addSurvivorInHorde x,y,z = 7255,5471,0
+reason = addSurvivorInHorde x,y,z = 7255,5471,0
+reason = addSurvivorInHorde x,y,z = 7255,5471,0
+reason = addSurvivorInHorde x,y,z = 7255,5471,0.
+[22-11-22 17:12:23.832] reason = addSurvivorInHorde x,y,z = 7255,5471,0
+reason = addSurvivorInHorde x,y,z = 7255,5471,0
+reason = addSurvivorInHorde x,y,z = 7255,5471,0
+reason = addSurvivorInHorde x,y,z = 7255,5471,0
+reason = addSurvivorInHorde x,y,z = 7255,5471,0
+reason = addSurvivorInHorde x,y,z = 7255,5471,0
+reason = addSurvivorInHorde x,y,z = 7255,5471,0
+reason = createEatingZombies x,y,z = 7236,5452,0
+reason = createEatingZombies x,y,z = 7237,5452,0
+reason = createEatingZombies x,y,z = 7237,5451,0
+reason = createEatingZombies x,y,z = 6792,5379,0
+reason = createEatingZombies x,y,z = 6793,5379,0
+reason = createEatingZombies x,y,z = 6793,5378,0
+reason = createEatingZombies x,y,z = 6757,5441,0
+reason = RDSPrisonEscape x,y,z = 6763,5391,0 room = livingroom
+reason = RDSPrisonEscape x,y,z = 6763,5391,0 room = livingroom
+reason = RBBurntFireman x,y,z = 6759,5367,0 room = livingroom
+reason = RBBurntFireman x,y,z = 6762,5367,0 room = livingroom
+reason = createEatingZombies x,y,z = 6747,5309,0
+reason = createEatingZombies x,y,z = 6748,5309,0.
+[22-11-22 17:13:28.199] reason = RDSFootballNight x,y,z = 6719,5323,0 room = livingroom
+reason = RDSFootballNight x,y,z = 6721,5323,0 room = livingroom
+reason = RDSFootballNight x,y,z = 6721,5326,0 room = livingroom
+reason = RDSFootballNight x,y,z = 6722,5324,0 room = livingroom
+reason = RDSFootballNight x,y,z = 6719,5324,0 room = livingroom
+reason = createEatingZombies x,y,z = 6544,5269,0
+reason = createEatingZombies x,y,z = 6545,5269,0
+reason = RVSTrailerCrash x,y,z = 6526,5319,0
+reason = RVSTrailerCrash x,y,z = 6528,5324,0
+reason = createEatingZombies x,y,z = 6488,5356,0
+reason = createEatingZombies x,y,z = 6489,5356,0
+reason = createEatingZombies x,y,z = 6457,5321,0
+reason = createEatingZombies x,y,z = 6447,5279,0
+reason = createEatingZombies x,y,z = 6448,5279,0
+reason = roomSpotted x,y,z = 6477,5271,0 room = pharmacy
+reason = roomSpotted x,y,z = 6474,5266,0 room = pharmacy
+reason = roomSpotted x,y,z = 6468,5271,0 room = pharmacy
+reason = roomSpotted x,y,z = 6476,5267,0 room = pharmacy
+reason = roomSpotted x,y,z = 6475,5267,0 room = pharmacy.
+[22-11-22 17:13:37.664] reason = roomSpotted x,y,z = 6467,5268,0 room = pharmacy
+reason = roomSpotted x,y,z = 6491,5271,0 room = bakery
+reason = roomSpotted x,y,z = 6494,5273,0 room = bakery
+reason = roomSpotted x,y,z = 6500,5267,0 room = bakery
+reason = roomSpotted x,y,z = 6490,5271,0 room = bakery
+reason = roomSpotted x,y,z = 6493,5273,0 room = bakery
+reason = roomSpotted x,y,z = 6499,5258,0 room = janitor
+reason = roomSpotted x,y,z = 6442,5262,0 room = bookstore
+reason = roomSpotted x,y,z = 6437,5263,0 room = bookstore
+reason = roomSpotted x,y,z = 6436,5263,0 room = bookstore
+reason = roomSpotted x,y,z = 6437,5270,0 room = bookstore
+reason = roomSpotted x,y,z = 6433,5262,0 room = bookstore
+reason = roomSpotted x,y,z = 6446,5270,0 room = restaurant
+reason = roomSpotted x,y,z = 6456,5257,0 room = restaurant
+reason = roomSpotted x,y,z = 6445,5271,0 room = restaurant
+reason = roomSpotted x,y,z = 6446,5262,0 room = restaurant
+reason = roomSpotted x,y,z = 6409,5249,0 room = janitor
+reason = roomSpotted x,y,z = 6409,5250,0 room = janitor.
+[22-11-22 17:14:11.756] reason = roomSpotted x,y,z = 6410,5249,0 room = janitor
+reason = roomSpotted x,y,z = 6410,5250,0 room = janitor
+reason = roomSpotted x,y,z = 6400,5295,0 room = restaurant
+reason = roomSpotted x,y,z = 6395,5312,0 room = restaurant
+reason = roomSpotted x,y,z = 6404,5302,0 room = restaurant
+reason = RVSConstructionSite x,y,z = 6291,5237,0
+reason = RVSConstructionSite x,y,z = 6284,5234,0
+reason = RVSConstructionSite x,y,z = 6284,5239,0
+reason = RVSConstructionSite x,y,z = 6285,5238,0
+reason = RVSConstructionSite x,y,z = 6289,5240,0
+reason = roomSpotted x,y,z = 6345,5306,0 room = grocery
+reason = roomSpotted x,y,z = 6340,5297,0 room = grocery
+reason = roomSpotted x,y,z = 6350,5299,0 room = grocery
+reason = roomSpotted x,y,z = 6362,5296,0 room = shoestore
+reason = roomSpotted x,y,z = 6355,5297,0 room = shoestore
+reason = roomSpotted x,y,z = 6364,5304,0 room = shoestore
+reason = roomSpotted x,y,z = 6255,5259,0 room = clothesstore
+reason = roomSpotted x,y,z = 6251,5272,0 room = clothesstore
+reason = roomSpotted x,y,z = 6251,5268,0 room = clothesstore.
+[22-11-22 17:17:03.727] reason = roomSpotted x,y,z = 6248,5269,0 room = clothesstore
+reason = RDSHouseParty x,y,z = 5814,5320,0 room = livingroom
+reason = RDSHouseParty x,y,z = 5813,5319,0 room = livingroom
+reason = RDSHouseParty x,y,z = 5814,5315,0 room = livingroom
+reason = RDSHouseParty x,y,z = 5814,5315,0 room = livingroom
+reason = RDSHouseParty x,y,z = 5809,5317,0 room = livingroom
+reason = RBBurntCorpse x,y,z = 5789,5320,0 room = bedroom
+reason = RBBurntCorpse x,y,z = 5787,5314,0 room = kitchen
+reason = RBBurntCorpse x,y,z = 5787,5314,0 room = kitchen
+reason = RBBurntCorpse x,y,z = 5789,5314,0 room = kitchen
+reason = createEatingZombies x,y,z = 5443,5552,0 room = kitchen
+reason = addSurvivorInHorde x,y,z = 5105,5643,0
+reason = addSurvivorInHorde x,y,z = 5105,5643,0
+reason = addSurvivorInHorde x,y,z = 5105,5643,0
+reason = addSurvivorInHorde x,y,z = 5105,5643,0
+reason = addSurvivorInHorde x,y,z = 5105,5643,0
+reason = addSurvivorInHorde x,y,z = 5105,5643,0
+reason = addSurvivorInHorde x,y,z = 5105,5643,0
+reason = addSurvivorInHorde x,y,z = 5105,5643,0.
+[22-11-22 17:25:55.428] reason = addSurvivorInHorde x,y,z = 5105,5643,0
+reason = addSurvivorInHorde x,y,z = 5105,5643,0
+reason = addSurvivorInHorde x,y,z = 5105,5643,0
+reason = addSurvivorInHorde x,y,z = 5105,5643,0
+reason = addSurvivorInHorde x,y,z = 5105,5643,0
+reason = addSurvivorInHorde x,y,z = 5105,5643,0
+reason = addSurvivorInHorde x,y,z = 5105,5643,0
+reason = addSurvivorInHorde x,y,z = 5105,5643,0
+reason = addSurvivorInHorde x,y,z = 5105,5643,0
+reason = addSurvivorInHorde x,y,z = 5105,5643,0
+reason = addSurvivorInHorde x,y,z = 5105,5643,0
+reason = addSurvivorInHorde x,y,z = 5105,5643,0.

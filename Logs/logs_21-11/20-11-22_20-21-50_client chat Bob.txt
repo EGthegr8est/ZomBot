@@ -1,0 +1,3 @@
+[20-11-22 20:21:50.509][info] Init chat system....
+[20-11-22 20:21:50.509][info] Mode: single player.
+[20-11-22 20:21:50.509][info] Chat owner: Bob.

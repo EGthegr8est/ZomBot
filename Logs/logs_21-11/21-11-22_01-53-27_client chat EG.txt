@@ -1,0 +1,5 @@
+[21-11-22 01:53:27.572][info] Init chat system....
+[21-11-22 01:53:27.572][info] Mode: multiplayer.
+[21-11-22 01:53:27.572][info] Chat owner: EG.
+[21-11-22 02:32:58.050][info] Got message from server: ChatMessage{chat=Local, author='yx', text='OVER HERE!'}.
+[21-11-22 02:33:05.131][info] Got message from server: ChatMessage{chat=Local, author='Soulbringer', text='HEY!'}.

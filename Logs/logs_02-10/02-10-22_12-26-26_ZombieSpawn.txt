@@ -1,0 +1,25 @@
+[02-10-22 12:31:48.044] reason = createEatingZombies x,y,z = 13037,1694,0
+reason = createEatingZombies x,y,z = 13038,1694,0
+reason = createEatingZombies x,y,z = 13038,1693,0
+reason = createEatingZombies x,y,z = 12986,1689,0
+reason = createEatingZombies x,y,z = 12987,1689,0
+reason = createEatingZombies x,y,z = 12987,1688,0
+reason = createEatingZombies x,y,z = 12958,1733,0
+reason = RDSBathroomZed x,y,z = 12911,1735,0 room = bathroom
+reason = createEatingZombies x,y,z = 12917,1702,0 room = livingroom
+reason = createEatingZombies x,y,z = 12911,1827,0
+reason = createEatingZombies x,y,z = 12872,1735,0
+reason = roomSpotted x,y,z = 12913,1782,0 room = kitchen
+reason = roomSpotted x,y,z = 12915,1785,1 room = bathroom
+reason = roomSpotted x,y,z = 12927,1787,1 room = bathroom
+reason = roomSpotted x,y,z = 12917,1782,1 room = bedroom
+reason = roomSpotted x,y,z = 12941,1739,0 room = kitchen
+reason = roomSpotted x,y,z = 12938,1748,0 room = kitchen
+reason = roomSpotted x,y,z = 12943,1761,0 room = livingroom
+reason = roomSpotted x,y,z = 12939,1756,1 room = livingroom.
+[02-10-22 12:33:05.344] reason = roomSpotted x,y,z = 12942,1753,1 room = bedroom
+reason = roomSpotted x,y,z = 12944,1763,0 room = bathroom
+reason = roomSpotted x,y,z = 12943,1760,1 room = bathroom
+reason = roomSpotted x,y,z = 12942,1761,1 room = closet
+reason = createEatingZombies x,y,z = 12830,1682,0 room = daycare
+reason = createEatingZombies x,y,z = 12831,1682,0 room = daycare.

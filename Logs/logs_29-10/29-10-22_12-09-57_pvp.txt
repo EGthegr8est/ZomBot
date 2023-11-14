@@ -1,0 +1,9 @@
+[29-10-22 12:09:57.700][INFO] user "BigGurt" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[29-10-22 12:17:14.617][INFO] user "SciFurr" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[29-10-22 12:20:03.248][INFO] user "SciFurr" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[29-10-22 12:22:11.163][INFO] user "SciFurr" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[29-10-22 12:29:06.762] user "SciFurr" (12024,2163,1) enabled safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[29-10-22 12:29:06.762] user "SciFurr" (12024,2163,1) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[29-10-22 12:29:16.570] user "SciFurr" (12024,2164,1) disabled safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[29-10-22 12:29:16.570] user "SciFurr" (12024,2164,1) disabled safety enabled=false last=false cooldown=0.0 toggle=2.0.
+[29-10-22 13:46:44.976][INFO] user "BigGurt" store safety enabled=true last=true cooldown=0.0 toggle=0.0.

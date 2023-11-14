@@ -1,0 +1,3 @@
+[15-10-22 14:10:24.944][info] Init chat system....
+[15-10-22 14:10:24.944][info] Mode: single player.
+[15-10-22 14:10:24.944][info] Chat owner: BigGurt.

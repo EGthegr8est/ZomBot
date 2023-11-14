@@ -1,0 +1,5 @@
+[29-10-22 11:59:02.713][info] Init chat system....
+[29-10-22 11:59:02.713][info] Mode: multiplayer.
+[29-10-22 11:59:02.713][info] Chat owner: BigGurt.
+[29-10-22 11:59:08.998][info] Got message from server: ChatMessage{chat=Server, author='Server', text='User BigGurt is now invisible.'}.
+[29-10-22 11:59:10.718][info] Got message from server: ChatMessage{chat=Server, author='Server', text='User BigGurt is now invincible.'}.

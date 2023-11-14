@@ -1,0 +1,4 @@
+[13-11-22 21:49:56.793][info] Init chat system....
+[13-11-22 21:49:56.793][info] Mode: multiplayer.
+[13-11-22 21:49:56.793][info] Chat owner: EG.
+[13-11-22 22:42:40.389][info] Got message from server: ChatMessage{chat=Server, author='Server', text='yx is dead.'}.
